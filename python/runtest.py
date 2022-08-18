@@ -8,6 +8,7 @@ import hashlib
 RE_step = re.compile("^\[ *([0-9]*)%\] (.*) ([^\s]+)$")
 RE_targetFromObject = re.compile("^.*/([^/]+)\.dir/(.*)\.o$")
 RE_targetConsolidate = re.compile("^Consolidate compiler generated dependencies of target (.*)$")
+RE_cmakeLog = re.compile("^-- (.*)$")
 
 RE_cmakeCacheLine = re.compile("^([^:]+):([^=]+)=(.*)$")
 
@@ -36,7 +37,7 @@ IN = "CMakeCache.txt"
 # IN = "/home/kelling/checkout/alpaka/buildClang15_hsa/CMakeCache.txt"
 cmakeCache = {}
 try:
-	with open(IN) as f:
+	with open(IN, 'r') as f:
 		for line in f:
 			match = RE_cmakeCacheLine.match(line)
 			if match:
@@ -79,10 +80,14 @@ with open('make.log', 'r') as f:
 
 			targets.append(TargetInfo(target, action, '\n'.join(log) if log else None))
 			targetsMap[targets[-1].name] = targets[-1]
+			log = []
 
 			continue
 
 		match = RE_targetConsolidate.match(line)
+		if match:
+			continue
+		match = RE_cmakeLog.match(line)
 		if match:
 			continue
 
