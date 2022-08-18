@@ -32,8 +32,8 @@ ActionsMap = {
 		"Linking CXX executable" : "e_lnk",
 	}
 
-# IN = "CMakeCache.txt"
-IN = "/home/kelling/checkout/alpaka/buildClang15_hsa/CMakeCache.txt"
+IN = "CMakeCache.txt"
+# IN = "/home/kelling/checkout/alpaka/buildClang15_hsa/CMakeCache.txt"
 cmakeCache = {}
 try:
 	with open(IN) as f:
