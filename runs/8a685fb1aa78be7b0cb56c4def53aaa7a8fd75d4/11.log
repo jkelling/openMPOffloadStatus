@@ -1,0 +1,773 @@
+DEVID: 0 SGN:1 ConstWGSize:256  args: 7 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:9784B sgpr_count:22 vgpr_count:23 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm0EElZNS_5trait16CreateTaskMemsetIS2_NS_7DevOmp5EvE16createTaskMemsetINS_3VecIS2_lEERNS_7BufOmp5IfS2_lEEEEDaOT0_RKhRKT_EUlRKNS_7AccOmp5IS2_lEEhPhE_JSG_SO_EEclERKS5__l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58008B sgpr_count:55 vgpr_count:26 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EElNS_12MemSetKernelEJRKhPhRNS_3VecIS2_lEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 7 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:9784B sgpr_count:31 vgpr_count:21 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm0EElNS_4test20VerifyBytesSetKernelEJPbNS3_5trait12IteratorViewIKNS_7BufOmp5IfS2_lEEvEESB_RKhEEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58008B sgpr_count:55 vgpr_count:26 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EElNS_12MemSetKernelEJRKhPhRNS_3VecIS2_lEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 7 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:9784B sgpr_count:33 vgpr_count:21 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm0EElNS_4test22VerifyViewsEqualKernelEJPbNS3_5trait12IteratorViewIKNS_7BufOmp5IfS2_lEEvEESB_SB_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58008B sgpr_count:55 vgpr_count:26 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EElNS_12MemSetKernelEJRKhPhRNS_3VecIS2_lEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 7 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:9784B sgpr_count:33 vgpr_count:21 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm0EElNS_4test22VerifyViewsEqualKernelEJPbNS3_5trait12IteratorViewIKNS_7BufOmp5IfS2_lEEvEESB_SB_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58008B sgpr_count:55 vgpr_count:26 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EElNS_12MemSetKernelEJRKhPhRNS_3VecIS2_lEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58008B sgpr_count:55 vgpr_count:26 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EElNS_12MemSetKernelEJRKhPhRNS_3VecIS2_lEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58008B sgpr_count:42 vgpr_count:30 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EElNS_4test20VerifyBytesSetKernelEJPbNS3_5trait12IteratorViewIKNS_7BufOmp5IfS2_lEEvEESB_RKhEEclERKNS_7DevOmp5E_l139
+
+Randomness seeded to: 1937133661
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+memBufTest is a Catch2 v3.0.1 host application.
+
+Run with -? for options
+
+
+
+-------------------------------------------------------------------------------
+
+memBufBasicTest - alpaka::test::TestAccs - 3
+
+-------------------------------------------------------------------------------
+
+/home/kelling/checkout/alpaka/test/unit/mem/buf/src/BufTest.cpp:75
+
+...............................................................................
+
+
+
+/home/kelling/checkout/alpaka/include/alpaka/test/mem/view/ViewTest.hpp:152: FAILED:
+
+  REQUIRE( fixture(verifyBytesSet, test::begin(view), test::end(view), byte) )
+
+with expansion:
+
+  false
+
+
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58040B sgpr_count:87 vgpr_count:44 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:6 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm2EElNS_12MemSetKernelEJRKhPhRNS_3VecIS2_lEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58008B sgpr_count:55 vgpr_count:26 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EElNS_12MemSetKernelEJRKhPhRNS_3VecIS2_lEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58040B sgpr_count:67 vgpr_count:45 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm2EElNS_4test20VerifyBytesSetKernelEJPbNS3_5trait12IteratorViewIKNS_7BufOmp5IfS2_lEEvEESB_RKhEEclERKNS_7DevOmp5E_l139
+
+-------------------------------------------------------------------------------
+
+memBufBasicTest - alpaka::test::TestAccs - 5
+
+-------------------------------------------------------------------------------
+
+/home/kelling/checkout/alpaka/test/unit/mem/buf/src/BufTest.cpp:75
+
+...............................................................................
+
+
+
+/home/kelling/checkout/alpaka/include/alpaka/test/mem/view/ViewTest.hpp:152: FAILED:
+
+  REQUIRE( fixture(verifyBytesSet, test::begin(view), test::end(view), byte) )
+
+with expansion:
+
+  false
+
+
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58056B sgpr_count:94 vgpr_count:52 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:60 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm3EElNS_12MemSetKernelEJRKhPhRNS_3VecIS2_lEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58008B sgpr_count:55 vgpr_count:26 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EElNS_12MemSetKernelEJRKhPhRNS_3VecIS2_lEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58056B sgpr_count:80 vgpr_count:55 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm3EElNS_4test20VerifyBytesSetKernelEJPbNS3_5trait12IteratorViewIKNS_7BufOmp5IfS2_lEEvEESB_RKhEEclERKNS_7DevOmp5E_l139
+
+-------------------------------------------------------------------------------
+
+memBufBasicTest - alpaka::test::TestAccs - 7
+
+-------------------------------------------------------------------------------
+
+/home/kelling/checkout/alpaka/test/unit/mem/buf/src/BufTest.cpp:75
+
+...............................................................................
+
+
+
+/home/kelling/checkout/alpaka/include/alpaka/test/mem/view/ViewTest.hpp:152: FAILED:
+
+  REQUIRE( fixture(verifyBytesSet, test::begin(view), test::end(view), byte) )
+
+with expansion:
+
+  false
+
+
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   2X 256) reqd:(   2X   0) lds_usage:58088B sgpr_count:104 vgpr_count:62 sgpr_spill_count:7 vgpr_spill_count:0 tripcount:540 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm4EElNS_12MemSetKernelEJRKhPhRNS_3VecIS2_lEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58008B sgpr_count:55 vgpr_count:26 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EElNS_12MemSetKernelEJRKhPhRNS_3VecIS2_lEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58088B sgpr_count:86 vgpr_count:63 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm4EElNS_4test20VerifyBytesSetKernelEJPbNS3_5trait12IteratorViewIKNS_7BufOmp5IfS2_lEEvEESB_RKhEEclERKNS_7DevOmp5E_l139
+
+-------------------------------------------------------------------------------
+
+memBufBasicTest - alpaka::test::TestAccs - 9
+
+-------------------------------------------------------------------------------
+
+/home/kelling/checkout/alpaka/test/unit/mem/buf/src/BufTest.cpp:75
+
+...............................................................................
+
+
+
+/home/kelling/checkout/alpaka/include/alpaka/test/mem/view/ViewTest.hpp:152: FAILED:
+
+  REQUIRE( fixture(verifyBytesSet, test::begin(view), test::end(view), byte) )
+
+with expansion:
+
+  false
+
+
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 7 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:9784B sgpr_count:22 vgpr_count:14 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm0EEmZNS_5trait16CreateTaskMemsetIS2_NS_7DevOmp5EvE16createTaskMemsetINS_3VecIS2_mEERNS_7BufOmp5IfS2_mEEEEDaOT0_RKhRKT_EUlRKNS_7AccOmp5IS2_mEEhPhE_JSG_SO_EEclERKS5__l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58008B sgpr_count:57 vgpr_count:26 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEmNS_12MemSetKernelEJRKhPhRNS_3VecIS2_mEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 7 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:9784B sgpr_count:26 vgpr_count:14 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm0EEmNS_4test20VerifyBytesSetKernelEJPbNS3_5trait12IteratorViewIKNS_7BufOmp5IfS2_mEEvEESB_RKhEEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58008B sgpr_count:57 vgpr_count:26 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEmNS_12MemSetKernelEJRKhPhRNS_3VecIS2_mEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 7 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:9784B sgpr_count:24 vgpr_count:15 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm0EEmNS_4test22VerifyViewsEqualKernelEJPbNS3_5trait12IteratorViewIKNS_7BufOmp5IfS2_mEEvEESB_SB_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58008B sgpr_count:57 vgpr_count:26 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEmNS_12MemSetKernelEJRKhPhRNS_3VecIS2_mEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 7 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:9784B sgpr_count:24 vgpr_count:15 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm0EEmNS_4test22VerifyViewsEqualKernelEJPbNS3_5trait12IteratorViewIKNS_7BufOmp5IfS2_mEEvEESB_SB_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58008B sgpr_count:57 vgpr_count:26 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEmNS_12MemSetKernelEJRKhPhRNS_3VecIS2_mEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58008B sgpr_count:57 vgpr_count:26 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEmNS_12MemSetKernelEJRKhPhRNS_3VecIS2_mEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58008B sgpr_count:42 vgpr_count:30 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEmNS_4test20VerifyBytesSetKernelEJPbNS3_5trait12IteratorViewIKNS_7BufOmp5IfS2_mEEvEESB_RKhEEclERKNS_7DevOmp5E_l139
+
+-------------------------------------------------------------------------------
+
+memBufBasicTest - alpaka::test::TestAccs - 13
+
+-------------------------------------------------------------------------------
+
+/home/kelling/checkout/alpaka/test/unit/mem/buf/src/BufTest.cpp:75
+
+...............................................................................
+
+
+
+/home/kelling/checkout/alpaka/include/alpaka/test/mem/view/ViewTest.hpp:152: FAILED:
+
+  REQUIRE( fixture(verifyBytesSet, test::begin(view), test::end(view), byte) )
+
+with expansion:
+
+  false
+
+
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58040B sgpr_count:85 vgpr_count:40 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:6 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm2EEmNS_12MemSetKernelEJRKhPhRNS_3VecIS2_mEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58008B sgpr_count:57 vgpr_count:26 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEmNS_12MemSetKernelEJRKhPhRNS_3VecIS2_mEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58040B sgpr_count:56 vgpr_count:33 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm2EEmNS_4test20VerifyBytesSetKernelEJPbNS3_5trait12IteratorViewIKNS_7BufOmp5IfS2_mEEvEESB_RKhEEclERKNS_7DevOmp5E_l139
+
+-------------------------------------------------------------------------------
+
+memBufBasicTest - alpaka::test::TestAccs - 15
+
+-------------------------------------------------------------------------------
+
+/home/kelling/checkout/alpaka/test/unit/mem/buf/src/BufTest.cpp:75
+
+...............................................................................
+
+
+
+/home/kelling/checkout/alpaka/include/alpaka/test/mem/view/ViewTest.hpp:152: FAILED:
+
+  REQUIRE( fixture(verifyBytesSet, test::begin(view), test::end(view), byte) )
+
+with expansion:
+
+  false
+
+
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58056B sgpr_count:92 vgpr_count:50 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:60 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm3EEmNS_12MemSetKernelEJRKhPhRNS_3VecIS2_mEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58008B sgpr_count:57 vgpr_count:26 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEmNS_12MemSetKernelEJRKhPhRNS_3VecIS2_mEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58056B sgpr_count:69 vgpr_count:44 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm3EEmNS_4test20VerifyBytesSetKernelEJPbNS3_5trait12IteratorViewIKNS_7BufOmp5IfS2_mEEvEESB_RKhEEclERKNS_7DevOmp5E_l139
+
+-------------------------------------------------------------------------------
+
+memBufBasicTest - alpaka::test::TestAccs - 17
+
+-------------------------------------------------------------------------------
+
+/home/kelling/checkout/alpaka/test/unit/mem/buf/src/BufTest.cpp:75
+
+...............................................................................
+
+
+
+/home/kelling/checkout/alpaka/include/alpaka/test/mem/view/ViewTest.hpp:152: FAILED:
+
+  REQUIRE( fixture(verifyBytesSet, test::begin(view), test::end(view), byte) )
+
+with expansion:
+
+  false
+
+
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   2X 256) reqd:(   2X   0) lds_usage:58088B sgpr_count:104 vgpr_count:60 sgpr_spill_count:5 vgpr_spill_count:0 tripcount:540 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm4EEmNS_12MemSetKernelEJRKhPhRNS_3VecIS2_mEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58008B sgpr_count:57 vgpr_count:26 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEmNS_12MemSetKernelEJRKhPhRNS_3VecIS2_mEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58088B sgpr_count:79 vgpr_count:52 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm4EEmNS_4test20VerifyBytesSetKernelEJPbNS3_5trait12IteratorViewIKNS_7BufOmp5IfS2_mEEvEESB_RKhEEclERKNS_7DevOmp5E_l139
+
+-------------------------------------------------------------------------------
+
+memBufBasicTest - alpaka::test::TestAccs - 19
+
+-------------------------------------------------------------------------------
+
+/home/kelling/checkout/alpaka/test/unit/mem/buf/src/BufTest.cpp:75
+
+...............................................................................
+
+
+
+/home/kelling/checkout/alpaka/include/alpaka/test/mem/view/ViewTest.hpp:152: FAILED:
+
+  REQUIRE( fixture(verifyBytesSet, test::begin(view), test::end(view), byte) )
+
+with expansion:
+
+  false
+
+
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 7 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:9784B sgpr_count:22 vgpr_count:21 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm0EEiZNS_5trait16CreateTaskMemsetIS2_NS_7DevOmp5EvE16createTaskMemsetINS_3VecIS2_iEERNS_7BufOmp5IfS2_iEEEEDaOT0_RKhRKT_EUlRKNS_7AccOmp5IS2_iEEhPhE_JSG_SO_EEclERKS5__l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:57992B sgpr_count:50 vgpr_count:26 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEiNS_12MemSetKernelEJRKhPhRNS_3VecIS2_iEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 7 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:9784B sgpr_count:28 vgpr_count:21 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm0EEiNS_4test20VerifyBytesSetKernelEJPbNS3_5trait12IteratorViewIKNS_7BufOmp5IfS2_iEEvEESB_RKhEEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:57992B sgpr_count:50 vgpr_count:26 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEiNS_12MemSetKernelEJRKhPhRNS_3VecIS2_iEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 7 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:9784B sgpr_count:28 vgpr_count:20 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm0EEiNS_4test22VerifyViewsEqualKernelEJPbNS3_5trait12IteratorViewIKNS_7BufOmp5IfS2_iEEvEESB_SB_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:57992B sgpr_count:50 vgpr_count:26 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEiNS_12MemSetKernelEJRKhPhRNS_3VecIS2_iEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 7 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:9784B sgpr_count:28 vgpr_count:20 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm0EEiNS_4test22VerifyViewsEqualKernelEJPbNS3_5trait12IteratorViewIKNS_7BufOmp5IfS2_iEEvEESB_SB_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:57992B sgpr_count:50 vgpr_count:26 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEiNS_12MemSetKernelEJRKhPhRNS_3VecIS2_iEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:57992B sgpr_count:50 vgpr_count:26 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEiNS_12MemSetKernelEJRKhPhRNS_3VecIS2_iEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:57992B sgpr_count:38 vgpr_count:28 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEiNS_4test20VerifyBytesSetKernelEJPbNS3_5trait12IteratorViewIKNS_7BufOmp5IfS2_iEEvEESB_RKhEEclERKNS_7DevOmp5E_l139
+
+-------------------------------------------------------------------------------
+
+memBufBasicTest - alpaka::test::TestAccs - 23
+
+-------------------------------------------------------------------------------
+
+/home/kelling/checkout/alpaka/test/unit/mem/buf/src/BufTest.cpp:75
+
+...............................................................................
+
+
+
+/home/kelling/checkout/alpaka/include/alpaka/test/mem/view/ViewTest.hpp:152: FAILED:
+
+  REQUIRE( fixture(verifyBytesSet, test::begin(view), test::end(view), byte) )
+
+with expansion:
+
+  false
+
+
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58008B sgpr_count:74 vgpr_count:29 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:6 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm2EEiNS_12MemSetKernelEJRKhPhRNS_3VecIS2_iEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:57992B sgpr_count:50 vgpr_count:26 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEiNS_12MemSetKernelEJRKhPhRNS_3VecIS2_iEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58008B sgpr_count:42 vgpr_count:35 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm2EEiNS_4test20VerifyBytesSetKernelEJPbNS3_5trait12IteratorViewIKNS_7BufOmp5IfS2_iEEvEESB_RKhEEclERKNS_7DevOmp5E_l139
+
+-------------------------------------------------------------------------------
+
+memBufBasicTest - alpaka::test::TestAccs - 25
+
+-------------------------------------------------------------------------------
+
+/home/kelling/checkout/alpaka/test/unit/mem/buf/src/BufTest.cpp:75
+
+...............................................................................
+
+
+
+/home/kelling/checkout/alpaka/include/alpaka/test/mem/view/ViewTest.hpp:152: FAILED:
+
+  REQUIRE( fixture(verifyBytesSet, test::begin(view), test::end(view), byte) )
+
+with expansion:
+
+  false
+
+
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58024B sgpr_count:79 vgpr_count:38 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:60 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm3EEiNS_12MemSetKernelEJRKhPhRNS_3VecIS2_iEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:57992B sgpr_count:50 vgpr_count:26 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEiNS_12MemSetKernelEJRKhPhRNS_3VecIS2_iEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58024B sgpr_count:44 vgpr_count:47 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm3EEiNS_4test20VerifyBytesSetKernelEJPbNS3_5trait12IteratorViewIKNS_7BufOmp5IfS2_iEEvEESB_RKhEEclERKNS_7DevOmp5E_l139
+
+-------------------------------------------------------------------------------
+
+memBufBasicTest - alpaka::test::TestAccs - 27
+
+-------------------------------------------------------------------------------
+
+/home/kelling/checkout/alpaka/test/unit/mem/buf/src/BufTest.cpp:75
+
+...............................................................................
+
+
+
+/home/kelling/checkout/alpaka/include/alpaka/test/mem/view/ViewTest.hpp:152: FAILED:
+
+  REQUIRE( fixture(verifyBytesSet, test::begin(view), test::end(view), byte) )
+
+with expansion:
+
+  false
+
+
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   2X 256) reqd:(   2X   0) lds_usage:58040B sgpr_count:87 vgpr_count:43 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:540 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm4EEiNS_12MemSetKernelEJRKhPhRNS_3VecIS2_iEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:57992B sgpr_count:50 vgpr_count:26 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEiNS_12MemSetKernelEJRKhPhRNS_3VecIS2_iEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58040B sgpr_count:46 vgpr_count:54 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm4EEiNS_4test20VerifyBytesSetKernelEJPbNS3_5trait12IteratorViewIKNS_7BufOmp5IfS2_iEEvEESB_RKhEEclERKNS_7DevOmp5E_l139
+
+-------------------------------------------------------------------------------
+
+memBufBasicTest - alpaka::test::TestAccs - 29
+
+-------------------------------------------------------------------------------
+
+/home/kelling/checkout/alpaka/test/unit/mem/buf/src/BufTest.cpp:75
+
+...............................................................................
+
+
+
+/home/kelling/checkout/alpaka/include/alpaka/test/mem/view/ViewTest.hpp:152: FAILED:
+
+  REQUIRE( fixture(verifyBytesSet, test::begin(view), test::end(view), byte) )
+
+with expansion:
+
+  false
+
+
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 7 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:9784B sgpr_count:22 vgpr_count:14 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm0EEjZNS_5trait16CreateTaskMemsetIS2_NS_7DevOmp5EvE16createTaskMemsetINS_3VecIS2_jEERNS_7BufOmp5IfS2_jEEEEDaOT0_RKhRKT_EUlRKNS_7AccOmp5IS2_jEEhPhE_JSG_SO_EEclERKS5__l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:57992B sgpr_count:50 vgpr_count:24 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEjNS_12MemSetKernelEJRKhPhRNS_3VecIS2_jEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 7 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:9784B sgpr_count:26 vgpr_count:12 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm0EEjNS_4test20VerifyBytesSetKernelEJPbNS3_5trait12IteratorViewIKNS_7BufOmp5IfS2_jEEvEESB_RKhEEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:57992B sgpr_count:50 vgpr_count:24 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEjNS_12MemSetKernelEJRKhPhRNS_3VecIS2_jEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 7 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:9784B sgpr_count:24 vgpr_count:13 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm0EEjNS_4test22VerifyViewsEqualKernelEJPbNS3_5trait12IteratorViewIKNS_7BufOmp5IfS2_jEEvEESB_SB_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:57992B sgpr_count:50 vgpr_count:24 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEjNS_12MemSetKernelEJRKhPhRNS_3VecIS2_jEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 7 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:9784B sgpr_count:24 vgpr_count:13 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm0EEjNS_4test22VerifyViewsEqualKernelEJPbNS3_5trait12IteratorViewIKNS_7BufOmp5IfS2_jEEvEESB_SB_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:57992B sgpr_count:50 vgpr_count:24 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEjNS_12MemSetKernelEJRKhPhRNS_3VecIS2_jEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:57992B sgpr_count:50 vgpr_count:24 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEjNS_12MemSetKernelEJRKhPhRNS_3VecIS2_jEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:57992B sgpr_count:38 vgpr_count:28 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEjNS_4test20VerifyBytesSetKernelEJPbNS3_5trait12IteratorViewIKNS_7BufOmp5IfS2_jEEvEESB_RKhEEclERKNS_7DevOmp5E_l139
+
+-------------------------------------------------------------------------------
+
+memBufBasicTest - alpaka::test::TestAccs - 33
+
+-------------------------------------------------------------------------------
+
+/home/kelling/checkout/alpaka/test/unit/mem/buf/src/BufTest.cpp:75
+
+...............................................................................
+
+
+
+/home/kelling/checkout/alpaka/include/alpaka/test/mem/view/ViewTest.hpp:152: FAILED:
+
+  REQUIRE( fixture(verifyBytesSet, test::begin(view), test::end(view), byte) )
+
+with expansion:
+
+  false
+
+
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58008B sgpr_count:72 vgpr_count:27 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:6 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm2EEjNS_12MemSetKernelEJRKhPhRNS_3VecIS2_jEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:57992B sgpr_count:50 vgpr_count:24 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEjNS_12MemSetKernelEJRKhPhRNS_3VecIS2_jEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58008B sgpr_count:42 vgpr_count:31 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm2EEjNS_4test20VerifyBytesSetKernelEJPbNS3_5trait12IteratorViewIKNS_7BufOmp5IfS2_jEEvEESB_RKhEEclERKNS_7DevOmp5E_l139
+
+-------------------------------------------------------------------------------
+
+memBufBasicTest - alpaka::test::TestAccs - 35
+
+-------------------------------------------------------------------------------
+
+/home/kelling/checkout/alpaka/test/unit/mem/buf/src/BufTest.cpp:75
+
+...............................................................................
+
+
+
+/home/kelling/checkout/alpaka/include/alpaka/test/mem/view/ViewTest.hpp:152: FAILED:
+
+  REQUIRE( fixture(verifyBytesSet, test::begin(view), test::end(view), byte) )
+
+with expansion:
+
+  false
+
+
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58024B sgpr_count:76 vgpr_count:34 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:60 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm3EEjNS_12MemSetKernelEJRKhPhRNS_3VecIS2_jEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:57992B sgpr_count:50 vgpr_count:24 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEjNS_12MemSetKernelEJRKhPhRNS_3VecIS2_jEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58024B sgpr_count:44 vgpr_count:39 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm3EEjNS_4test20VerifyBytesSetKernelEJPbNS3_5trait12IteratorViewIKNS_7BufOmp5IfS2_jEEvEESB_RKhEEclERKNS_7DevOmp5E_l139
+
+-------------------------------------------------------------------------------
+
+memBufBasicTest - alpaka::test::TestAccs - 37
+
+-------------------------------------------------------------------------------
+
+/home/kelling/checkout/alpaka/test/unit/mem/buf/src/BufTest.cpp:75
+
+...............................................................................
+
+
+
+/home/kelling/checkout/alpaka/include/alpaka/test/mem/view/ViewTest.hpp:152: FAILED:
+
+  REQUIRE( fixture(verifyBytesSet, test::begin(view), test::end(view), byte) )
+
+with expansion:
+
+  false
+
+
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   2X 256) reqd:(   2X   0) lds_usage:58040B sgpr_count:83 vgpr_count:35 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:540 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm4EEjNS_12MemSetKernelEJRKhPhRNS_3VecIS2_jEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:57992B sgpr_count:50 vgpr_count:24 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEjNS_12MemSetKernelEJRKhPhRNS_3VecIS2_jEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58040B sgpr_count:46 vgpr_count:47 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm4EEjNS_4test20VerifyBytesSetKernelEJPbNS3_5trait12IteratorViewIKNS_7BufOmp5IfS2_jEEvEESB_RKhEEclERKNS_7DevOmp5E_l139
+
+-------------------------------------------------------------------------------
+
+memBufBasicTest - alpaka::test::TestAccs - 39
+
+-------------------------------------------------------------------------------
+
+/home/kelling/checkout/alpaka/test/unit/mem/buf/src/BufTest.cpp:75
+
+...............................................................................
+
+
+
+/home/kelling/checkout/alpaka/include/alpaka/test/mem/view/ViewTest.hpp:152: FAILED:
+
+  REQUIRE( fixture(verifyBytesSet, test::begin(view), test::end(view), byte) )
+
+with expansion:
+
+  false
+
+
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 7 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:9784B sgpr_count:22 vgpr_count:23 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm0EElZNS_5trait16CreateTaskMemsetIS2_NS_7DevOmp5EvE16createTaskMemsetINS_3VecIS2_lEERNS_7BufOmp5IfS2_lEEEEDaOT0_RKhRKT_EUlRKNS_7AccOmp5IS2_lEEhPhE_JSG_SO_EEclERKS5__l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58008B sgpr_count:55 vgpr_count:26 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EElNS_12MemSetKernelEJRKhPhRNS_3VecIS2_lEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 7 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:9784B sgpr_count:31 vgpr_count:21 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm0EElNS_4test20VerifyBytesSetKernelEJPbNS3_5trait12IteratorViewIKNS_7BufOmp5IfS2_lEEvEESB_RKhEEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58008B sgpr_count:55 vgpr_count:26 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EElNS_12MemSetKernelEJRKhPhRNS_3VecIS2_lEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 7 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:9784B sgpr_count:33 vgpr_count:21 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm0EElNS_4test22VerifyViewsEqualKernelEJPbNS3_5trait12IteratorViewIKNS_7BufOmp5IfS2_lEEvEESB_SB_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58008B sgpr_count:55 vgpr_count:26 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EElNS_12MemSetKernelEJRKhPhRNS_3VecIS2_lEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 7 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:9784B sgpr_count:33 vgpr_count:21 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm0EElNS_4test22VerifyViewsEqualKernelEJPbNS3_5trait12IteratorViewIKNS_7BufOmp5IfS2_lEEvEESB_SB_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58008B sgpr_count:55 vgpr_count:26 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EElNS_12MemSetKernelEJRKhPhRNS_3VecIS2_lEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58008B sgpr_count:42 vgpr_count:30 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EElNS_4test20VerifyBytesSetKernelEJPbNS3_5trait12IteratorViewIKNS_7BufOmp5IfS2_lEEvEESB_RKhEEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58008B sgpr_count:55 vgpr_count:26 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EElNS_12MemSetKernelEJRKhPhRNS_3VecIS2_lEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58008B sgpr_count:39 vgpr_count:33 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EElNS_4test22VerifyViewsEqualKernelEJPbNS3_5trait12IteratorViewIKNS_7BufOmp5IfS2_lEEvEESB_SB_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58008B sgpr_count:55 vgpr_count:26 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EElNS_12MemSetKernelEJRKhPhRNS_3VecIS2_lEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58008B sgpr_count:39 vgpr_count:33 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EElNS_4test22VerifyViewsEqualKernelEJPbNS3_5trait12IteratorViewIKNS_7BufOmp5IfS2_lEEvEESB_SB_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58008B sgpr_count:55 vgpr_count:26 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EElNS_12MemSetKernelEJRKhPhRNS_3VecIS2_lEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58040B sgpr_count:67 vgpr_count:45 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm2EElNS_4test20VerifyBytesSetKernelEJPbNS3_5trait12IteratorViewIKNS_7BufOmp5IfS2_lEEvEESB_RKhEEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58008B sgpr_count:55 vgpr_count:26 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EElNS_12MemSetKernelEJRKhPhRNS_3VecIS2_lEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58040B sgpr_count:77 vgpr_count:61 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm2EElNS_4test22VerifyViewsEqualKernelEJPbNS3_5trait12IteratorViewIKNS_7BufOmp5IfS2_lEEvEESB_SB_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58008B sgpr_count:55 vgpr_count:26 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EElNS_12MemSetKernelEJRKhPhRNS_3VecIS2_lEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58040B sgpr_count:77 vgpr_count:61 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm2EElNS_4test22VerifyViewsEqualKernelEJPbNS3_5trait12IteratorViewIKNS_7BufOmp5IfS2_lEEvEESB_SB_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58008B sgpr_count:55 vgpr_count:26 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EElNS_12MemSetKernelEJRKhPhRNS_3VecIS2_lEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58056B sgpr_count:80 vgpr_count:55 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm3EElNS_4test20VerifyBytesSetKernelEJPbNS3_5trait12IteratorViewIKNS_7BufOmp5IfS2_lEEvEESB_RKhEEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58008B sgpr_count:55 vgpr_count:26 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EElNS_12MemSetKernelEJRKhPhRNS_3VecIS2_lEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58056B sgpr_count:102 vgpr_count:64 sgpr_spill_count:0 vgpr_spill_count:11 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm3EElNS_4test22VerifyViewsEqualKernelEJPbNS3_5trait12IteratorViewIKNS_7BufOmp5IfS2_lEEvEESB_SB_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58008B sgpr_count:55 vgpr_count:26 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EElNS_12MemSetKernelEJRKhPhRNS_3VecIS2_lEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58056B sgpr_count:102 vgpr_count:64 sgpr_spill_count:0 vgpr_spill_count:11 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm3EElNS_4test22VerifyViewsEqualKernelEJPbNS3_5trait12IteratorViewIKNS_7BufOmp5IfS2_lEEvEESB_SB_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58008B sgpr_count:55 vgpr_count:26 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EElNS_12MemSetKernelEJRKhPhRNS_3VecIS2_lEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58088B sgpr_count:86 vgpr_count:63 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm4EElNS_4test20VerifyBytesSetKernelEJPbNS3_5trait12IteratorViewIKNS_7BufOmp5IfS2_lEEvEESB_RKhEEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58008B sgpr_count:55 vgpr_count:26 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EElNS_12MemSetKernelEJRKhPhRNS_3VecIS2_lEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58088B sgpr_count:104 vgpr_count:64 sgpr_spill_count:9 vgpr_spill_count:34 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm4EElNS_4test22VerifyViewsEqualKernelEJPbNS3_5trait12IteratorViewIKNS_7BufOmp5IfS2_lEEvEESB_SB_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58008B sgpr_count:55 vgpr_count:26 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EElNS_12MemSetKernelEJRKhPhRNS_3VecIS2_lEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58088B sgpr_count:104 vgpr_count:64 sgpr_spill_count:9 vgpr_spill_count:34 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm4EElNS_4test22VerifyViewsEqualKernelEJPbNS3_5trait12IteratorViewIKNS_7BufOmp5IfS2_lEEvEESB_SB_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 7 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:9784B sgpr_count:22 vgpr_count:14 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm0EEmZNS_5trait16CreateTaskMemsetIS2_NS_7DevOmp5EvE16createTaskMemsetINS_3VecIS2_mEERNS_7BufOmp5IfS2_mEEEEDaOT0_RKhRKT_EUlRKNS_7AccOmp5IS2_mEEhPhE_JSG_SO_EEclERKS5__l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58008B sgpr_count:57 vgpr_count:26 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEmNS_12MemSetKernelEJRKhPhRNS_3VecIS2_mEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 7 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:9784B sgpr_count:26 vgpr_count:14 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm0EEmNS_4test20VerifyBytesSetKernelEJPbNS3_5trait12IteratorViewIKNS_7BufOmp5IfS2_mEEvEESB_RKhEEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58008B sgpr_count:57 vgpr_count:26 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEmNS_12MemSetKernelEJRKhPhRNS_3VecIS2_mEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 7 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:9784B sgpr_count:24 vgpr_count:15 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm0EEmNS_4test22VerifyViewsEqualKernelEJPbNS3_5trait12IteratorViewIKNS_7BufOmp5IfS2_mEEvEESB_SB_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58008B sgpr_count:57 vgpr_count:26 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEmNS_12MemSetKernelEJRKhPhRNS_3VecIS2_mEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 7 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:9784B sgpr_count:24 vgpr_count:15 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm0EEmNS_4test22VerifyViewsEqualKernelEJPbNS3_5trait12IteratorViewIKNS_7BufOmp5IfS2_mEEvEESB_SB_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58008B sgpr_count:57 vgpr_count:26 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEmNS_12MemSetKernelEJRKhPhRNS_3VecIS2_mEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58008B sgpr_count:42 vgpr_count:30 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEmNS_4test20VerifyBytesSetKernelEJPbNS3_5trait12IteratorViewIKNS_7BufOmp5IfS2_mEEvEESB_RKhEEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58008B sgpr_count:57 vgpr_count:26 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEmNS_12MemSetKernelEJRKhPhRNS_3VecIS2_mEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58008B sgpr_count:39 vgpr_count:33 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEmNS_4test22VerifyViewsEqualKernelEJPbNS3_5trait12IteratorViewIKNS_7BufOmp5IfS2_mEEvEESB_SB_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58008B sgpr_count:57 vgpr_count:26 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEmNS_12MemSetKernelEJRKhPhRNS_3VecIS2_mEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58008B sgpr_count:39 vgpr_count:33 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEmNS_4test22VerifyViewsEqualKernelEJPbNS3_5trait12IteratorViewIKNS_7BufOmp5IfS2_mEEvEESB_SB_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58008B sgpr_count:57 vgpr_count:26 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEmNS_12MemSetKernelEJRKhPhRNS_3VecIS2_mEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58040B sgpr_count:56 vgpr_count:33 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm2EEmNS_4test20VerifyBytesSetKernelEJPbNS3_5trait12IteratorViewIKNS_7BufOmp5IfS2_mEEvEESB_RKhEEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58008B sgpr_count:57 vgpr_count:26 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEmNS_12MemSetKernelEJRKhPhRNS_3VecIS2_mEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58040B sgpr_count:60 vgpr_count:42 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm2EEmNS_4test22VerifyViewsEqualKernelEJPbNS3_5trait12IteratorViewIKNS_7BufOmp5IfS2_mEEvEESB_SB_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58008B sgpr_count:57 vgpr_count:26 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEmNS_12MemSetKernelEJRKhPhRNS_3VecIS2_mEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58040B sgpr_count:60 vgpr_count:42 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm2EEmNS_4test22VerifyViewsEqualKernelEJPbNS3_5trait12IteratorViewIKNS_7BufOmp5IfS2_mEEvEESB_SB_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58008B sgpr_count:57 vgpr_count:26 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEmNS_12MemSetKernelEJRKhPhRNS_3VecIS2_mEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58056B sgpr_count:69 vgpr_count:44 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm3EEmNS_4test20VerifyBytesSetKernelEJPbNS3_5trait12IteratorViewIKNS_7BufOmp5IfS2_mEEvEESB_RKhEEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58008B sgpr_count:57 vgpr_count:26 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEmNS_12MemSetKernelEJRKhPhRNS_3VecIS2_mEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58056B sgpr_count:77 vgpr_count:58 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm3EEmNS_4test22VerifyViewsEqualKernelEJPbNS3_5trait12IteratorViewIKNS_7BufOmp5IfS2_mEEvEESB_SB_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58008B sgpr_count:57 vgpr_count:26 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEmNS_12MemSetKernelEJRKhPhRNS_3VecIS2_mEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58056B sgpr_count:77 vgpr_count:58 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm3EEmNS_4test22VerifyViewsEqualKernelEJPbNS3_5trait12IteratorViewIKNS_7BufOmp5IfS2_mEEvEESB_SB_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58008B sgpr_count:57 vgpr_count:26 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEmNS_12MemSetKernelEJRKhPhRNS_3VecIS2_mEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58088B sgpr_count:79 vgpr_count:52 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm4EEmNS_4test20VerifyBytesSetKernelEJPbNS3_5trait12IteratorViewIKNS_7BufOmp5IfS2_mEEvEESB_RKhEEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58008B sgpr_count:57 vgpr_count:26 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEmNS_12MemSetKernelEJRKhPhRNS_3VecIS2_mEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58088B sgpr_count:98 vgpr_count:64 sgpr_spill_count:0 vgpr_spill_count:10 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm4EEmNS_4test22VerifyViewsEqualKernelEJPbNS3_5trait12IteratorViewIKNS_7BufOmp5IfS2_mEEvEESB_SB_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58008B sgpr_count:57 vgpr_count:26 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEmNS_12MemSetKernelEJRKhPhRNS_3VecIS2_mEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58088B sgpr_count:98 vgpr_count:64 sgpr_spill_count:0 vgpr_spill_count:10 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm4EEmNS_4test22VerifyViewsEqualKernelEJPbNS3_5trait12IteratorViewIKNS_7BufOmp5IfS2_mEEvEESB_SB_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 7 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:9784B sgpr_count:22 vgpr_count:21 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm0EEiZNS_5trait16CreateTaskMemsetIS2_NS_7DevOmp5EvE16createTaskMemsetINS_3VecIS2_iEERNS_7BufOmp5IfS2_iEEEEDaOT0_RKhRKT_EUlRKNS_7AccOmp5IS2_iEEhPhE_JSG_SO_EEclERKS5__l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:57992B sgpr_count:50 vgpr_count:26 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEiNS_12MemSetKernelEJRKhPhRNS_3VecIS2_iEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 7 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:9784B sgpr_count:28 vgpr_count:21 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm0EEiNS_4test20VerifyBytesSetKernelEJPbNS3_5trait12IteratorViewIKNS_7BufOmp5IfS2_iEEvEESB_RKhEEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:57992B sgpr_count:50 vgpr_count:26 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEiNS_12MemSetKernelEJRKhPhRNS_3VecIS2_iEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 7 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:9784B sgpr_count:28 vgpr_count:20 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm0EEiNS_4test22VerifyViewsEqualKernelEJPbNS3_5trait12IteratorViewIKNS_7BufOmp5IfS2_iEEvEESB_SB_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:57992B sgpr_count:50 vgpr_count:26 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEiNS_12MemSetKernelEJRKhPhRNS_3VecIS2_iEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 7 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:9784B sgpr_count:28 vgpr_count:20 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm0EEiNS_4test22VerifyViewsEqualKernelEJPbNS3_5trait12IteratorViewIKNS_7BufOmp5IfS2_iEEvEESB_SB_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:57992B sgpr_count:50 vgpr_count:26 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEiNS_12MemSetKernelEJRKhPhRNS_3VecIS2_iEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:57992B sgpr_count:38 vgpr_count:28 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEiNS_4test20VerifyBytesSetKernelEJPbNS3_5trait12IteratorViewIKNS_7BufOmp5IfS2_iEEvEESB_RKhEEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:57992B sgpr_count:50 vgpr_count:26 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEiNS_12MemSetKernelEJRKhPhRNS_3VecIS2_iEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:57992B sgpr_count:34 vgpr_count:27 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEiNS_4test22VerifyViewsEqualKernelEJPbNS3_5trait12IteratorViewIKNS_7BufOmp5IfS2_iEEvEESB_SB_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:57992B sgpr_count:50 vgpr_count:26 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEiNS_12MemSetKernelEJRKhPhRNS_3VecIS2_iEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:57992B sgpr_count:34 vgpr_count:27 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEiNS_4test22VerifyViewsEqualKernelEJPbNS3_5trait12IteratorViewIKNS_7BufOmp5IfS2_iEEvEESB_SB_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:57992B sgpr_count:50 vgpr_count:26 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEiNS_12MemSetKernelEJRKhPhRNS_3VecIS2_iEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58008B sgpr_count:42 vgpr_count:35 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm2EEiNS_4test20VerifyBytesSetKernelEJPbNS3_5trait12IteratorViewIKNS_7BufOmp5IfS2_iEEvEESB_RKhEEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:57992B sgpr_count:50 vgpr_count:26 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEiNS_12MemSetKernelEJRKhPhRNS_3VecIS2_iEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58008B sgpr_count:39 vgpr_count:45 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm2EEiNS_4test22VerifyViewsEqualKernelEJPbNS3_5trait12IteratorViewIKNS_7BufOmp5IfS2_iEEvEESB_SB_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:57992B sgpr_count:50 vgpr_count:26 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEiNS_12MemSetKernelEJRKhPhRNS_3VecIS2_iEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58008B sgpr_count:39 vgpr_count:45 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm2EEiNS_4test22VerifyViewsEqualKernelEJPbNS3_5trait12IteratorViewIKNS_7BufOmp5IfS2_iEEvEESB_SB_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:57992B sgpr_count:50 vgpr_count:26 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEiNS_12MemSetKernelEJRKhPhRNS_3VecIS2_iEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58024B sgpr_count:44 vgpr_count:47 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm3EEiNS_4test20VerifyBytesSetKernelEJPbNS3_5trait12IteratorViewIKNS_7BufOmp5IfS2_iEEvEESB_RKhEEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:57992B sgpr_count:50 vgpr_count:26 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEiNS_12MemSetKernelEJRKhPhRNS_3VecIS2_iEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58024B sgpr_count:41 vgpr_count:59 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm3EEiNS_4test22VerifyViewsEqualKernelEJPbNS3_5trait12IteratorViewIKNS_7BufOmp5IfS2_iEEvEESB_SB_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:57992B sgpr_count:50 vgpr_count:26 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEiNS_12MemSetKernelEJRKhPhRNS_3VecIS2_iEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58024B sgpr_count:41 vgpr_count:59 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm3EEiNS_4test22VerifyViewsEqualKernelEJPbNS3_5trait12IteratorViewIKNS_7BufOmp5IfS2_iEEvEESB_SB_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:57992B sgpr_count:50 vgpr_count:26 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEiNS_12MemSetKernelEJRKhPhRNS_3VecIS2_iEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58040B sgpr_count:46 vgpr_count:54 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm4EEiNS_4test20VerifyBytesSetKernelEJPbNS3_5trait12IteratorViewIKNS_7BufOmp5IfS2_iEEvEESB_RKhEEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:57992B sgpr_count:50 vgpr_count:26 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEiNS_12MemSetKernelEJRKhPhRNS_3VecIS2_iEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58040B sgpr_count:44 vgpr_count:62 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm4EEiNS_4test22VerifyViewsEqualKernelEJPbNS3_5trait12IteratorViewIKNS_7BufOmp5IfS2_iEEvEESB_SB_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:57992B sgpr_count:50 vgpr_count:26 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEiNS_12MemSetKernelEJRKhPhRNS_3VecIS2_iEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58040B sgpr_count:44 vgpr_count:62 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm4EEiNS_4test22VerifyViewsEqualKernelEJPbNS3_5trait12IteratorViewIKNS_7BufOmp5IfS2_iEEvEESB_SB_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 7 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:9784B sgpr_count:22 vgpr_count:14 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm0EEjZNS_5trait16CreateTaskMemsetIS2_NS_7DevOmp5EvE16createTaskMemsetINS_3VecIS2_jEERNS_7BufOmp5IfS2_jEEEEDaOT0_RKhRKT_EUlRKNS_7AccOmp5IS2_jEEhPhE_JSG_SO_EEclERKS5__l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:57992B sgpr_count:50 vgpr_count:24 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEjNS_12MemSetKernelEJRKhPhRNS_3VecIS2_jEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 7 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:9784B sgpr_count:26 vgpr_count:12 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm0EEjNS_4test20VerifyBytesSetKernelEJPbNS3_5trait12IteratorViewIKNS_7BufOmp5IfS2_jEEvEESB_RKhEEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:57992B sgpr_count:50 vgpr_count:24 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEjNS_12MemSetKernelEJRKhPhRNS_3VecIS2_jEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 7 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:9784B sgpr_count:24 vgpr_count:13 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm0EEjNS_4test22VerifyViewsEqualKernelEJPbNS3_5trait12IteratorViewIKNS_7BufOmp5IfS2_jEEvEESB_SB_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:57992B sgpr_count:50 vgpr_count:24 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEjNS_12MemSetKernelEJRKhPhRNS_3VecIS2_jEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 7 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:9784B sgpr_count:24 vgpr_count:13 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm0EEjNS_4test22VerifyViewsEqualKernelEJPbNS3_5trait12IteratorViewIKNS_7BufOmp5IfS2_jEEvEESB_SB_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:57992B sgpr_count:50 vgpr_count:24 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEjNS_12MemSetKernelEJRKhPhRNS_3VecIS2_jEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:57992B sgpr_count:38 vgpr_count:28 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEjNS_4test20VerifyBytesSetKernelEJPbNS3_5trait12IteratorViewIKNS_7BufOmp5IfS2_jEEvEESB_RKhEEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:57992B sgpr_count:50 vgpr_count:24 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEjNS_12MemSetKernelEJRKhPhRNS_3VecIS2_jEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:57992B sgpr_count:34 vgpr_count:27 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEjNS_4test22VerifyViewsEqualKernelEJPbNS3_5trait12IteratorViewIKNS_7BufOmp5IfS2_jEEvEESB_SB_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:57992B sgpr_count:50 vgpr_count:24 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEjNS_12MemSetKernelEJRKhPhRNS_3VecIS2_jEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:57992B sgpr_count:34 vgpr_count:27 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEjNS_4test22VerifyViewsEqualKernelEJPbNS3_5trait12IteratorViewIKNS_7BufOmp5IfS2_jEEvEESB_SB_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:57992B sgpr_count:50 vgpr_count:24 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEjNS_12MemSetKernelEJRKhPhRNS_3VecIS2_jEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58008B sgpr_count:42 vgpr_count:31 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm2EEjNS_4test20VerifyBytesSetKernelEJPbNS3_5trait12IteratorViewIKNS_7BufOmp5IfS2_jEEvEESB_RKhEEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:57992B sgpr_count:50 vgpr_count:24 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEjNS_12MemSetKernelEJRKhPhRNS_3VecIS2_jEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58008B sgpr_count:39 vgpr_count:40 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm2EEjNS_4test22VerifyViewsEqualKernelEJPbNS3_5trait12IteratorViewIKNS_7BufOmp5IfS2_jEEvEESB_SB_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:57992B sgpr_count:50 vgpr_count:24 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEjNS_12MemSetKernelEJRKhPhRNS_3VecIS2_jEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58008B sgpr_count:39 vgpr_count:40 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm2EEjNS_4test22VerifyViewsEqualKernelEJPbNS3_5trait12IteratorViewIKNS_7BufOmp5IfS2_jEEvEESB_SB_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:57992B sgpr_count:50 vgpr_count:24 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEjNS_12MemSetKernelEJRKhPhRNS_3VecIS2_jEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58024B sgpr_count:44 vgpr_count:39 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm3EEjNS_4test20VerifyBytesSetKernelEJPbNS3_5trait12IteratorViewIKNS_7BufOmp5IfS2_jEEvEESB_RKhEEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:57992B sgpr_count:50 vgpr_count:24 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEjNS_12MemSetKernelEJRKhPhRNS_3VecIS2_jEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58024B sgpr_count:41 vgpr_count:55 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm3EEjNS_4test22VerifyViewsEqualKernelEJPbNS3_5trait12IteratorViewIKNS_7BufOmp5IfS2_jEEvEESB_SB_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:57992B sgpr_count:50 vgpr_count:24 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEjNS_12MemSetKernelEJRKhPhRNS_3VecIS2_jEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58024B sgpr_count:41 vgpr_count:55 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm3EEjNS_4test22VerifyViewsEqualKernelEJPbNS3_5trait12IteratorViewIKNS_7BufOmp5IfS2_jEEvEESB_SB_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:57992B sgpr_count:50 vgpr_count:24 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEjNS_12MemSetKernelEJRKhPhRNS_3VecIS2_jEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58040B sgpr_count:46 vgpr_count:47 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm4EEjNS_4test20VerifyBytesSetKernelEJPbNS3_5trait12IteratorViewIKNS_7BufOmp5IfS2_jEEvEESB_RKhEEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:57992B sgpr_count:50 vgpr_count:24 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEjNS_12MemSetKernelEJRKhPhRNS_3VecIS2_jEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58040B sgpr_count:44 vgpr_count:63 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm4EEjNS_4test22VerifyViewsEqualKernelEJPbNS3_5trait12IteratorViewIKNS_7BufOmp5IfS2_jEEvEESB_SB_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:57992B sgpr_count:50 vgpr_count:24 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEjNS_12MemSetKernelEJRKhPhRNS_3VecIS2_jEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58040B sgpr_count:44 vgpr_count:63 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm4EEjNS_4test22VerifyViewsEqualKernelEJPbNS3_5trait12IteratorViewIKNS_7BufOmp5IfS2_jEEvEESB_SB_EEclERKNS_7DevOmp5E_l139
+
+===============================================================================
+
+test cases:  320 |  304 passed | 16 failed
+
+assertions: 1632 | 1616 passed | 16 failed
+
+
+
+

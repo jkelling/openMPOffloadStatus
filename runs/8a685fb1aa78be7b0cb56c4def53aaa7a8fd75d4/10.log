@@ -1,0 +1,2811 @@
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58008B sgpr_count:55 vgpr_count:26 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EElNS_12MemSetKernelEJRKhPhRNS_3VecIS2_lEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 7 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:9776B sgpr_count:22 vgpr_count:21 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm0EEl25FloatEqualExactTestKernelJPbEEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58008B sgpr_count:55 vgpr_count:26 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EElNS_12MemSetKernelEJRKhPhRNS_3VecIS2_lEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58008B sgpr_count:36 vgpr_count:24 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEl25FloatEqualExactTestKernelJPbEEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58008B sgpr_count:55 vgpr_count:26 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EElNS_12MemSetKernelEJRKhPhRNS_3VecIS2_lEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58040B sgpr_count:37 vgpr_count:23 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm2EEl25FloatEqualExactTestKernelJPbEEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58008B sgpr_count:55 vgpr_count:26 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EElNS_12MemSetKernelEJRKhPhRNS_3VecIS2_lEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58056B sgpr_count:37 vgpr_count:23 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm3EEl25FloatEqualExactTestKernelJPbEEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58008B sgpr_count:55 vgpr_count:26 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EElNS_12MemSetKernelEJRKhPhRNS_3VecIS2_lEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58088B sgpr_count:37 vgpr_count:23 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm4EEl25FloatEqualExactTestKernelJPbEEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58008B sgpr_count:57 vgpr_count:26 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEmNS_12MemSetKernelEJRKhPhRNS_3VecIS2_mEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 7 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:9776B sgpr_count:22 vgpr_count:12 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm0EEm25FloatEqualExactTestKernelJPbEEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58008B sgpr_count:57 vgpr_count:26 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEmNS_12MemSetKernelEJRKhPhRNS_3VecIS2_mEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58008B sgpr_count:36 vgpr_count:24 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm25FloatEqualExactTestKernelJPbEEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58008B sgpr_count:57 vgpr_count:26 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEmNS_12MemSetKernelEJRKhPhRNS_3VecIS2_mEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58040B sgpr_count:38 vgpr_count:24 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm2EEm25FloatEqualExactTestKernelJPbEEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58008B sgpr_count:57 vgpr_count:26 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEmNS_12MemSetKernelEJRKhPhRNS_3VecIS2_mEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58056B sgpr_count:38 vgpr_count:24 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm3EEm25FloatEqualExactTestKernelJPbEEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58008B sgpr_count:57 vgpr_count:26 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEmNS_12MemSetKernelEJRKhPhRNS_3VecIS2_mEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58088B sgpr_count:38 vgpr_count:24 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm4EEm25FloatEqualExactTestKernelJPbEEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:57992B sgpr_count:50 vgpr_count:26 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEiNS_12MemSetKernelEJRKhPhRNS_3VecIS2_iEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 7 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:9776B sgpr_count:22 vgpr_count:20 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm0EEi25FloatEqualExactTestKernelJPbEEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:57992B sgpr_count:50 vgpr_count:26 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEiNS_12MemSetKernelEJRKhPhRNS_3VecIS2_iEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:57992B sgpr_count:31 vgpr_count:23 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEi25FloatEqualExactTestKernelJPbEEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:57992B sgpr_count:50 vgpr_count:26 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEiNS_12MemSetKernelEJRKhPhRNS_3VecIS2_iEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58008B sgpr_count:32 vgpr_count:23 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm2EEi25FloatEqualExactTestKernelJPbEEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:57992B sgpr_count:50 vgpr_count:26 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEiNS_12MemSetKernelEJRKhPhRNS_3VecIS2_iEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58024B sgpr_count:34 vgpr_count:23 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm3EEi25FloatEqualExactTestKernelJPbEEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:57992B sgpr_count:50 vgpr_count:26 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEiNS_12MemSetKernelEJRKhPhRNS_3VecIS2_iEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58040B sgpr_count:34 vgpr_count:23 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm4EEi25FloatEqualExactTestKernelJPbEEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:57992B sgpr_count:50 vgpr_count:24 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEjNS_12MemSetKernelEJRKhPhRNS_3VecIS2_jEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 7 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:9776B sgpr_count:22 vgpr_count:12 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm0EEj25FloatEqualExactTestKernelJPbEEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:57992B sgpr_count:50 vgpr_count:24 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEjNS_12MemSetKernelEJRKhPhRNS_3VecIS2_jEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:57992B sgpr_count:31 vgpr_count:23 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEj25FloatEqualExactTestKernelJPbEEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:57992B sgpr_count:50 vgpr_count:24 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEjNS_12MemSetKernelEJRKhPhRNS_3VecIS2_jEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58008B sgpr_count:32 vgpr_count:23 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm2EEj25FloatEqualExactTestKernelJPbEEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:57992B sgpr_count:50 vgpr_count:24 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEjNS_12MemSetKernelEJRKhPhRNS_3VecIS2_jEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58024B sgpr_count:34 vgpr_count:23 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm3EEj25FloatEqualExactTestKernelJPbEEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:57992B sgpr_count:50 vgpr_count:24 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEjNS_12MemSetKernelEJRKhPhRNS_3VecIS2_jEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58040B sgpr_count:34 vgpr_count:23 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm4EEj25FloatEqualExactTestKernelJPbEEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58008B sgpr_count:57 vgpr_count:26 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEmNS_12MemSetKernelEJRKhPhRNS_3VecIS2_mEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:9776B sgpr_count:26 vgpr_count:23 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm9AdlKernelJPbEEclERKNS_7DevOmp5E_l139
+
+Randomness seeded to: 210526112
+
+testing acc:alpaka::AccCpuSerial<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:alpaka::Complex<double> functor:alpaka::test::unit::math::OpAbs seed:4020733588
+
+testing acc:alpaka::AccOmp5<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:alpaka::Complex<double> functor:alpaka::test::unit::math::OpAbs seed:2445927895
+
+DEVID: 0 SGN:3 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58312B sgpr_count:40 vgpr_count:34 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm10TestKernelILm1000EEJRKPNS_7ComplexIdEERKNS_4test4unit4math5OpAbsERKPNSC_8ArgsItemIS6_LNSC_5ArityE1EEEEEclERKNS_7DevOmp5E_l139
+
+testing acc:alpaka::AccCpuSerial<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:alpaka::Complex<double> functor:alpaka::test::unit::math::OpAcos seed:923004926
+
+testing acc:alpaka::AccOmp5<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:alpaka::Complex<double> functor:alpaka::test::unit::math::OpAcos seed:144566071
+
+DEVID: 0 SGN:3 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58320B sgpr_count:108 vgpr_count:63 sgpr_spill_count:2 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm10TestKernelILm1000EEJRKPNS_7ComplexIdEERKNS_4test4unit4math6OpAcosERKPNSC_8ArgsItemIS6_LNSC_5ArityE1EEEEEclERKNS_7DevOmp5E_l139
+
+testing acc:alpaka::AccCpuSerial<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:alpaka::Complex<double> functor:alpaka::test::unit::math::OpArg seed:753072806
+
+testing acc:alpaka::AccOmp5<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:alpaka::Complex<double> functor:alpaka::test::unit::math::OpArg seed:2946164239
+
+DEVID: 0 SGN:3 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58312B sgpr_count:90 vgpr_count:46 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm10TestKernelILm1000EEJRKPNS_7ComplexIdEERKNS_4test4unit4math5OpArgERKPNSC_8ArgsItemIS6_LNSC_5ArityE1EEEEEclERKNS_7DevOmp5E_l139
+
+testing acc:alpaka::AccCpuSerial<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:alpaka::Complex<double> functor:alpaka::test::unit::math::OpAsin seed:3380652229
+
+testing acc:alpaka::AccOmp5<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:alpaka::Complex<double> functor:alpaka::test::unit::math::OpAsin seed:3510668852
+
+DEVID: 0 SGN:3 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58320B sgpr_count:108 vgpr_count:64 sgpr_spill_count:9 vgpr_spill_count:1 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm10TestKernelILm1000EEJRKPNS_7ComplexIdEERKNS_4test4unit4math6OpAsinERKPNSC_8ArgsItemIS6_LNSC_5ArityE1EEEEEclERKNS_7DevOmp5E_l139
+
+testing acc:alpaka::AccCpuSerial<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:alpaka::Complex<double> functor:alpaka::test::unit::math::OpAtan seed:1848015080
+
+testing acc:alpaka::AccOmp5<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:alpaka::Complex<double> functor:alpaka::test::unit::math::OpAtan seed:2164316039
+
+DEVID: 0 SGN:3 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58320B sgpr_count:108 vgpr_count:64 sgpr_spill_count:0 vgpr_spill_count:11 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm10TestKernelILm1000EEJRKPNS_7ComplexIdEERKNS_4test4unit4math6OpAtanERKPNSC_8ArgsItemIS6_LNSC_5ArityE1EEEEEclERKNS_7DevOmp5E_l139
+
+testing acc:alpaka::AccCpuSerial<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:alpaka::Complex<double> functor:alpaka::test::unit::math::OpConj seed:2529226303
+
+testing acc:alpaka::AccOmp5<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:alpaka::Complex<double> functor:alpaka::test::unit::math::OpConj seed:856665802
+
+DEVID: 0 SGN:3 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58312B sgpr_count:36 vgpr_count:25 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm10TestKernelILm1000EEJRKPNS_7ComplexIdEERKNS_4test4unit4math6OpConjERKPNSC_8ArgsItemIS6_LNSC_5ArityE1EEEEEclERKNS_7DevOmp5E_l139
+
+testing acc:alpaka::AccCpuSerial<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:alpaka::Complex<double> functor:alpaka::test::unit::math::OpCos seed:851183108
+
+testing acc:alpaka::AccOmp5<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:alpaka::Complex<double> functor:alpaka::test::unit::math::OpCos seed:947106926
+
+DEVID: 0 SGN:3 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58312B sgpr_count:104 vgpr_count:64 sgpr_spill_count:8 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm10TestKernelILm1000EEJRKPNS_7ComplexIdEERKNS_4test4unit4math5OpCosERKPNSC_8ArgsItemIS6_LNSC_5ArityE1EEEEEclERKNS_7DevOmp5E_l139
+
+testing acc:alpaka::AccCpuSerial<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:alpaka::Complex<double> functor:alpaka::test::unit::math::OpExp seed:1262411869
+
+testing acc:alpaka::AccOmp5<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:alpaka::Complex<double> functor:alpaka::test::unit::math::OpExp seed:4196063969
+
+DEVID: 0 SGN:3 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58312B sgpr_count:104 vgpr_count:60 sgpr_spill_count:20 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm10TestKernelILm1000EEJRKPNS_7ComplexIdEERKNS_4test4unit4math5OpExpERKPNSC_8ArgsItemIS6_LNSC_5ArityE1EEEEEclERKNS_7DevOmp5E_l139
+
+testing acc:alpaka::AccCpuSerial<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:alpaka::Complex<double> functor:alpaka::test::unit::math::OpLog seed:3133326437
+
+testing acc:alpaka::AccOmp5<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:alpaka::Complex<double> functor:alpaka::test::unit::math::OpLog seed:2557486996
+
+DEVID: 0 SGN:3 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58312B sgpr_count:104 vgpr_count:58 sgpr_spill_count:11 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm10TestKernelILm1000EEJRKPNS_7ComplexIdEERKNS_4test4unit4math5OpLogERKPNSC_8ArgsItemIS6_LNSC_5ArityE1EEEEEclERKNS_7DevOmp5E_l139
+
+testing acc:alpaka::AccCpuSerial<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:alpaka::Complex<double> functor:alpaka::test::unit::math::OpRsqrt seed:1333656695
+
+testing acc:alpaka::AccOmp5<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:alpaka::Complex<double> functor:alpaka::test::unit::math::OpRsqrt seed:4176814689
+
+DEVID: 0 SGN:3 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58320B sgpr_count:108 vgpr_count:55 sgpr_spill_count:53 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm10TestKernelILm1000EEJRKPNS_7ComplexIdEERKNS_4test4unit4math7OpRsqrtERKPNSC_8ArgsItemIS6_LNSC_5ArityE1EEEEEclERKNS_7DevOmp5E_l139
+
+testing acc:alpaka::AccCpuSerial<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:alpaka::Complex<double> functor:alpaka::test::unit::math::OpSin seed:3881325685
+
+testing acc:alpaka::AccOmp5<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:alpaka::Complex<double> functor:alpaka::test::unit::math::OpSin seed:2041113599
+
+DEVID: 0 SGN:3 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58312B sgpr_count:104 vgpr_count:64 sgpr_spill_count:18 vgpr_spill_count:1 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm10TestKernelILm1000EEJRKPNS_7ComplexIdEERKNS_4test4unit4math5OpSinERKPNSC_8ArgsItemIS6_LNSC_5ArityE1EEEEEclERKNS_7DevOmp5E_l139
+
+testing acc:alpaka::AccCpuSerial<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:alpaka::Complex<double> functor:alpaka::test::unit::math::OpSqrt seed:2194999332
+
+testing acc:alpaka::AccOmp5<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:alpaka::Complex<double> functor:alpaka::test::unit::math::OpSqrt seed:1230564299
+
+DEVID: 0 SGN:3 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58320B sgpr_count:108 vgpr_count:55 sgpr_spill_count:53 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm10TestKernelILm1000EEJRKPNS_7ComplexIdEERKNS_4test4unit4math6OpSqrtERKPNSC_8ArgsItemIS6_LNSC_5ArityE1EEEEEclERKNS_7DevOmp5E_l139
+
+testing acc:alpaka::AccCpuSerial<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:alpaka::Complex<double> functor:alpaka::test::unit::math::OpTan seed:2864138196
+
+testing acc:alpaka::AccOmp5<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:alpaka::Complex<double> functor:alpaka::test::unit::math::OpTan seed:899320401
+
+DEVID: 0 SGN:3 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58312B sgpr_count:104 vgpr_count:61 sgpr_spill_count:18 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm10TestKernelILm1000EEJRKPNS_7ComplexIdEERKNS_4test4unit4math5OpTanERKPNSC_8ArgsItemIS6_LNSC_5ArityE1EEEEEclERKNS_7DevOmp5E_l139
+
+testing acc:alpaka::AccCpuSerial<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:alpaka::Complex<double> functor:alpaka::test::unit::math::OpDivides seed:1348407234
+
+testing acc:alpaka::AccOmp5<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:alpaka::Complex<double> functor:alpaka::test::unit::math::OpDivides seed:3282103826
+
+DEVID: 0 SGN:3 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58312B sgpr_count:37 vgpr_count:38 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm10TestKernelILm1000EEJRKPNS_7ComplexIdEERKNS_4test4unit4math9OpDividesERKPNSC_8ArgsItemIS6_LNSC_5ArityE2EEEEEclERKNS_7DevOmp5E_l139
+
+testing acc:alpaka::AccCpuSerial<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:alpaka::Complex<double> functor:alpaka::test::unit::math::OpMinus seed:3043159688
+
+testing acc:alpaka::AccOmp5<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:alpaka::Complex<double> functor:alpaka::test::unit::math::OpMinus seed:3742860309
+
+DEVID: 0 SGN:3 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58312B sgpr_count:43 vgpr_count:26 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm10TestKernelILm1000EEJRKPNS_7ComplexIdEERKNS_4test4unit4math7OpMinusERKPNSC_8ArgsItemIS6_LNSC_5ArityE2EEEEEclERKNS_7DevOmp5E_l139
+
+testing acc:alpaka::AccCpuSerial<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:alpaka::Complex<double> functor:alpaka::test::unit::math::OpMultiplies seed:999226951
+
+testing acc:alpaka::AccOmp5<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:alpaka::Complex<double> functor:alpaka::test::unit::math::OpMultiplies seed:77717807
+
+DEVID: 0 SGN:3 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58312B sgpr_count:43 vgpr_count:30 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm10TestKernelILm1000EEJRKPNS_7ComplexIdEERKNS_4test4unit4math12OpMultipliesERKPNSC_8ArgsItemIS6_LNSC_5ArityE2EEEEEclERKNS_7DevOmp5E_l139
+
+testing acc:alpaka::AccCpuSerial<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:alpaka::Complex<double> functor:alpaka::test::unit::math::OpPlus seed:3158541057
+
+testing acc:alpaka::AccOmp5<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:alpaka::Complex<double> functor:alpaka::test::unit::math::OpPlus seed:4141297265
+
+DEVID: 0 SGN:3 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58312B sgpr_count:43 vgpr_count:26 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm10TestKernelILm1000EEJRKPNS_7ComplexIdEERKNS_4test4unit4math6OpPlusERKPNSC_8ArgsItemIS6_LNSC_5ArityE2EEEEEclERKNS_7DevOmp5E_l139
+
+testing acc:alpaka::AccCpuSerial<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:alpaka::Complex<double> functor:alpaka::test::unit::math::OpPowComplex seed:125774280
+
+testing acc:alpaka::AccOmp5<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:alpaka::Complex<double> functor:alpaka::test::unit::math::OpPowComplex seed:2313169029
+
+DEVID: 0 SGN:3 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58320B sgpr_count:108 vgpr_count:64 sgpr_spill_count:32 vgpr_spill_count:6 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm10TestKernelILm1000EEJRKPNS_7ComplexIdEERKNS_4test4unit4math12OpPowComplexERKPNSC_8ArgsItemIS6_LNSC_5ArityE2EEEEEclERKNS_7DevOmp5E_l139
+
+testing acc:alpaka::AccCpuSerial<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:alpaka::Complex<float> functor:alpaka::test::unit::math::OpAbs seed:2984020623
+
+testing acc:alpaka::AccOmp5<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:alpaka::Complex<float> functor:alpaka::test::unit::math::OpAbs seed:758711746
+
+DEVID: 0 SGN:3 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58312B sgpr_count:37 vgpr_count:28 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm10TestKernelILm1000EEJRKPNS_7ComplexIfEERKNS_4test4unit4math5OpAbsERKPNSC_8ArgsItemIS6_LNSC_5ArityE1EEEEEclERKNS_7DevOmp5E_l139
+
+testing acc:alpaka::AccCpuSerial<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:alpaka::Complex<float> functor:alpaka::test::unit::math::OpAcos seed:3911728518
+
+testing acc:alpaka::AccOmp5<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:alpaka::Complex<float> functor:alpaka::test::unit::math::OpAcos seed:3437047128
+
+DEVID: 0 SGN:3 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58320B sgpr_count:85 vgpr_count:39 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm10TestKernelILm1000EEJRKPNS_7ComplexIfEERKNS_4test4unit4math6OpAcosERKPNSC_8ArgsItemIS6_LNSC_5ArityE1EEEEEclERKNS_7DevOmp5E_l139
+
+testing acc:alpaka::AccCpuSerial<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:alpaka::Complex<float> functor:alpaka::test::unit::math::OpArg seed:2170913196
+
+testing acc:alpaka::AccOmp5<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:alpaka::Complex<float> functor:alpaka::test::unit::math::OpArg seed:1481124295
+
+DEVID: 0 SGN:3 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58312B sgpr_count:50 vgpr_count:35 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm10TestKernelILm1000EEJRKPNS_7ComplexIfEERKNS_4test4unit4math5OpArgERKPNSC_8ArgsItemIS6_LNSC_5ArityE1EEEEEclERKNS_7DevOmp5E_l139
+
+testing acc:alpaka::AccCpuSerial<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:alpaka::Complex<float> functor:alpaka::test::unit::math::OpAsin seed:1736385668
+
+testing acc:alpaka::AccOmp5<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:alpaka::Complex<float> functor:alpaka::test::unit::math::OpAsin seed:1387272000
+
+DEVID: 0 SGN:3 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58320B sgpr_count:83 vgpr_count:43 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm10TestKernelILm1000EEJRKPNS_7ComplexIfEERKNS_4test4unit4math6OpAsinERKPNSC_8ArgsItemIS6_LNSC_5ArityE1EEEEEclERKNS_7DevOmp5E_l139
+
+testing acc:alpaka::AccCpuSerial<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:alpaka::Complex<float> functor:alpaka::test::unit::math::OpAtan seed:1182758527
+
+testing acc:alpaka::AccOmp5<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:alpaka::Complex<float> functor:alpaka::test::unit::math::OpAtan seed:3589761277
+
+DEVID: 0 SGN:3 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58320B sgpr_count:93 vgpr_count:64 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm10TestKernelILm1000EEJRKPNS_7ComplexIfEERKNS_4test4unit4math6OpAtanERKPNSC_8ArgsItemIS6_LNSC_5ArityE1EEEEEclERKNS_7DevOmp5E_l139
+
+testing acc:alpaka::AccCpuSerial<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:alpaka::Complex<float> functor:alpaka::test::unit::math::OpConj seed:2139442470
+
+testing acc:alpaka::AccOmp5<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:alpaka::Complex<float> functor:alpaka::test::unit::math::OpConj seed:1286688091
+
+DEVID: 0 SGN:3 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58312B sgpr_count:36 vgpr_count:25 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm10TestKernelILm1000EEJRKPNS_7ComplexIfEERKNS_4test4unit4math6OpConjERKPNSC_8ArgsItemIS6_LNSC_5ArityE1EEEEEclERKNS_7DevOmp5E_l139
+
+testing acc:alpaka::AccCpuSerial<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:alpaka::Complex<float> functor:alpaka::test::unit::math::OpCos seed:924585370
+
+testing acc:alpaka::AccOmp5<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:alpaka::Complex<float> functor:alpaka::test::unit::math::OpCos seed:2584361285
+
+DEVID: 0 SGN:3 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58312B sgpr_count:84 vgpr_count:41 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm10TestKernelILm1000EEJRKPNS_7ComplexIfEERKNS_4test4unit4math5OpCosERKPNSC_8ArgsItemIS6_LNSC_5ArityE1EEEEEclERKNS_7DevOmp5E_l139
+
+testing acc:alpaka::AccCpuSerial<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:alpaka::Complex<float> functor:alpaka::test::unit::math::OpExp seed:3810477312
+
+testing acc:alpaka::AccOmp5<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:alpaka::Complex<float> functor:alpaka::test::unit::math::OpExp seed:1255625948
+
+DEVID: 0 SGN:3 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58312B sgpr_count:72 vgpr_count:39 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm10TestKernelILm1000EEJRKPNS_7ComplexIfEERKNS_4test4unit4math5OpExpERKPNSC_8ArgsItemIS6_LNSC_5ArityE1EEEEEclERKNS_7DevOmp5E_l139
+
+testing acc:alpaka::AccCpuSerial<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:alpaka::Complex<float> functor:alpaka::test::unit::math::OpLog seed:3134840948
+
+testing acc:alpaka::AccOmp5<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:alpaka::Complex<float> functor:alpaka::test::unit::math::OpLog seed:166475515
+
+DEVID: 0 SGN:3 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58312B sgpr_count:52 vgpr_count:35 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm10TestKernelILm1000EEJRKPNS_7ComplexIfEERKNS_4test4unit4math5OpLogERKPNSC_8ArgsItemIS6_LNSC_5ArityE1EEEEEclERKNS_7DevOmp5E_l139
+
+testing acc:alpaka::AccCpuSerial<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:alpaka::Complex<float> functor:alpaka::test::unit::math::OpRsqrt seed:4233750958
+
+testing acc:alpaka::AccOmp5<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:alpaka::Complex<float> functor:alpaka::test::unit::math::OpRsqrt seed:3129158613
+
+DEVID: 0 SGN:3 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58320B sgpr_count:95 vgpr_count:39 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm10TestKernelILm1000EEJRKPNS_7ComplexIfEERKNS_4test4unit4math7OpRsqrtERKPNSC_8ArgsItemIS6_LNSC_5ArityE1EEEEEclERKNS_7DevOmp5E_l139
+
+testing acc:alpaka::AccCpuSerial<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:alpaka::Complex<float> functor:alpaka::test::unit::math::OpSin seed:1786823841
+
+testing acc:alpaka::AccOmp5<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:alpaka::Complex<float> functor:alpaka::test::unit::math::OpSin seed:1755842975
+
+DEVID: 0 SGN:3 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58312B sgpr_count:84 vgpr_count:41 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm10TestKernelILm1000EEJRKPNS_7ComplexIfEERKNS_4test4unit4math5OpSinERKPNSC_8ArgsItemIS6_LNSC_5ArityE1EEEEEclERKNS_7DevOmp5E_l139
+
+testing acc:alpaka::AccCpuSerial<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:alpaka::Complex<float> functor:alpaka::test::unit::math::OpSqrt seed:610282840
+
+testing acc:alpaka::AccOmp5<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:alpaka::Complex<float> functor:alpaka::test::unit::math::OpSqrt seed:1810963189
+
+DEVID: 0 SGN:3 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58320B sgpr_count:95 vgpr_count:39 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm10TestKernelILm1000EEJRKPNS_7ComplexIfEERKNS_4test4unit4math6OpSqrtERKPNSC_8ArgsItemIS6_LNSC_5ArityE1EEEEEclERKNS_7DevOmp5E_l139
+
+testing acc:alpaka::AccCpuSerial<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:alpaka::Complex<float> functor:alpaka::test::unit::math::OpTan seed:963472878
+
+testing acc:alpaka::AccOmp5<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:alpaka::Complex<float> functor:alpaka::test::unit::math::OpTan seed:2020550863
+
+DEVID: 0 SGN:3 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58312B sgpr_count:84 vgpr_count:40 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm10TestKernelILm1000EEJRKPNS_7ComplexIfEERKNS_4test4unit4math5OpTanERKPNSC_8ArgsItemIS6_LNSC_5ArityE1EEEEEclERKNS_7DevOmp5E_l139
+
+testing acc:alpaka::AccCpuSerial<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:alpaka::Complex<float> functor:alpaka::test::unit::math::OpDivides seed:2953577020
+
+testing acc:alpaka::AccOmp5<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:alpaka::Complex<float> functor:alpaka::test::unit::math::OpDivides seed:716925673
+
+DEVID: 0 SGN:3 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58312B sgpr_count:37 vgpr_count:31 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm10TestKernelILm1000EEJRKPNS_7ComplexIfEERKNS_4test4unit4math9OpDividesERKPNSC_8ArgsItemIS6_LNSC_5ArityE2EEEEEclERKNS_7DevOmp5E_l139
+
+testing acc:alpaka::AccCpuSerial<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:alpaka::Complex<float> functor:alpaka::test::unit::math::OpMinus seed:503267327
+
+testing acc:alpaka::AccOmp5<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:alpaka::Complex<float> functor:alpaka::test::unit::math::OpMinus seed:3826755666
+
+DEVID: 0 SGN:3 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58312B sgpr_count:44 vgpr_count:24 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm10TestKernelILm1000EEJRKPNS_7ComplexIfEERKNS_4test4unit4math7OpMinusERKPNSC_8ArgsItemIS6_LNSC_5ArityE2EEEEEclERKNS_7DevOmp5E_l139
+
+testing acc:alpaka::AccCpuSerial<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:alpaka::Complex<float> functor:alpaka::test::unit::math::OpMultiplies seed:1712897076
+
+testing acc:alpaka::AccOmp5<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:alpaka::Complex<float> functor:alpaka::test::unit::math::OpMultiplies seed:1658323300
+
+DEVID: 0 SGN:3 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58312B sgpr_count:42 vgpr_count:24 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm10TestKernelILm1000EEJRKPNS_7ComplexIfEERKNS_4test4unit4math12OpMultipliesERKPNSC_8ArgsItemIS6_LNSC_5ArityE2EEEEEclERKNS_7DevOmp5E_l139
+
+testing acc:alpaka::AccCpuSerial<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:alpaka::Complex<float> functor:alpaka::test::unit::math::OpPlus seed:1960366188
+
+testing acc:alpaka::AccOmp5<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:alpaka::Complex<float> functor:alpaka::test::unit::math::OpPlus seed:4093720683
+
+DEVID: 0 SGN:3 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58312B sgpr_count:44 vgpr_count:24 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm10TestKernelILm1000EEJRKPNS_7ComplexIfEERKNS_4test4unit4math6OpPlusERKPNSC_8ArgsItemIS6_LNSC_5ArityE2EEEEEclERKNS_7DevOmp5E_l139
+
+testing acc:alpaka::AccCpuSerial<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:alpaka::Complex<float> functor:alpaka::test::unit::math::OpPowComplex seed:378169215
+
+testing acc:alpaka::AccOmp5<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:alpaka::Complex<float> functor:alpaka::test::unit::math::OpPowComplex seed:372203378
+
+DEVID: 0 SGN:3 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58320B sgpr_count:107 vgpr_count:64 sgpr_spill_count:0 vgpr_spill_count:5 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm10TestKernelILm1000EEJRKPNS_7ComplexIfEERKNS_4test4unit4math12OpPowComplexERKPNSC_8ArgsItemIS6_LNSC_5ArityE2EEEEEclERKNS_7DevOmp5E_l139
+
+testing acc:alpaka::AccCpuSerial<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:double functor:alpaka::test::unit::math::OpAbs seed:3369116816
+
+testing acc:alpaka::AccOmp5<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:double functor:alpaka::test::unit::math::OpAbs seed:1405297764
+
+DEVID: 0 SGN:3 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58312B sgpr_count:36 vgpr_count:25 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm10TestKernelILm1000EEJRKPdRKNS_4test4unit4math5OpAbsERKPNSA_8ArgsItemIdLNSA_5ArityE1EEEEEclERKNS_7DevOmp5E_l139
+
+testing acc:alpaka::AccCpuSerial<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:double functor:alpaka::test::unit::math::OpAcos seed:4226648844
+
+testing acc:alpaka::AccOmp5<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:double functor:alpaka::test::unit::math::OpAcos seed:2336726525
+
+DEVID: 0 SGN:3 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58312B sgpr_count:63 vgpr_count:46 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm10TestKernelILm1000EEJRKPdRKNS_4test4unit4math6OpAcosERKPNSA_8ArgsItemIdLNSA_5ArityE1EEEEEclERKNS_7DevOmp5E_l139
+
+testing acc:alpaka::AccCpuSerial<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:double functor:alpaka::test::unit::math::OpArg seed:219439075
+
+testing acc:alpaka::AccOmp5<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:double functor:alpaka::test::unit::math::OpArg seed:2109408738
+
+DEVID: 0 SGN:3 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58312B sgpr_count:37 vgpr_count:28 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm10TestKernelILm1000EEJRKPdRKNS_4test4unit4math5OpArgERKPNSA_8ArgsItemIdLNSA_5ArityE1EEEEEclERKNS_7DevOmp5E_l139
+
+testing acc:alpaka::AccCpuSerial<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:double functor:alpaka::test::unit::math::OpAsin seed:2880021673
+
+testing acc:alpaka::AccOmp5<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:double functor:alpaka::test::unit::math::OpAsin seed:2831764853
+
+DEVID: 0 SGN:3 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58312B sgpr_count:64 vgpr_count:46 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm10TestKernelILm1000EEJRKPdRKNS_4test4unit4math6OpAsinERKPNSA_8ArgsItemIdLNSA_5ArityE1EEEEEclERKNS_7DevOmp5E_l139
+
+testing acc:alpaka::AccCpuSerial<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:double functor:alpaka::test::unit::math::OpAtan seed:347048688
+
+testing acc:alpaka::AccOmp5<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:double functor:alpaka::test::unit::math::OpAtan seed:3516567315
+
+DEVID: 0 SGN:3 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58312B sgpr_count:82 vgpr_count:38 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm10TestKernelILm1000EEJRKPdRKNS_4test4unit4math6OpAtanERKPNSA_8ArgsItemIdLNSA_5ArityE1EEEEEclERKNS_7DevOmp5E_l139
+
+testing acc:alpaka::AccCpuSerial<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:double functor:alpaka::test::unit::math::OpCbrt seed:3082129239
+
+testing acc:alpaka::AccOmp5<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:double functor:alpaka::test::unit::math::OpCbrt seed:633746580
+
+DEVID: 0 SGN:3 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58312B sgpr_count:38 vgpr_count:38 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm10TestKernelILm1000EEJRKPdRKNS_4test4unit4math6OpCbrtERKPNSA_8ArgsItemIdLNSA_5ArityE1EEEEEclERKNS_7DevOmp5E_l139
+
+testing acc:alpaka::AccCpuSerial<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:double functor:alpaka::test::unit::math::OpCeil seed:3643796405
+
+testing acc:alpaka::AccOmp5<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:double functor:alpaka::test::unit::math::OpCeil seed:2041199532
+
+DEVID: 0 SGN:3 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58312B sgpr_count:36 vgpr_count:24 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm10TestKernelILm1000EEJRKPdRKNS_4test4unit4math6OpCeilERKPNSA_8ArgsItemIdLNSA_5ArityE1EEEEEclERKNS_7DevOmp5E_l139
+
+testing acc:alpaka::AccCpuSerial<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:double functor:alpaka::test::unit::math::OpCos seed:3374823112
+
+testing acc:alpaka::AccOmp5<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:double functor:alpaka::test::unit::math::OpCos seed:1539725478
+
+DEVID: 0 SGN:3 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58312B sgpr_count:81 vgpr_count:55 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm10TestKernelILm1000EEJRKPdRKNS_4test4unit4math5OpCosERKPNSA_8ArgsItemIdLNSA_5ArityE1EEEEEclERKNS_7DevOmp5E_l139
+
+testing acc:alpaka::AccCpuSerial<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:double functor:alpaka::test::unit::math::OpErf seed:4168553347
+
+testing acc:alpaka::AccOmp5<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:double functor:alpaka::test::unit::math::OpErf seed:2168650608
+
+DEVID: 0 SGN:3 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58312B sgpr_count:104 vgpr_count:40 sgpr_spill_count:35 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm10TestKernelILm1000EEJRKPdRKNS_4test4unit4math5OpErfERKPNSA_8ArgsItemIdLNSA_5ArityE1EEEEEclERKNS_7DevOmp5E_l139
+
+testing acc:alpaka::AccCpuSerial<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:double functor:alpaka::test::unit::math::OpExp seed:1672743893
+
+testing acc:alpaka::AccOmp5<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:double functor:alpaka::test::unit::math::OpExp seed:1320601958
+
+DEVID: 0 SGN:3 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58312B sgpr_count:67 vgpr_count:34 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm10TestKernelILm1000EEJRKPdRKNS_4test4unit4math5OpExpERKPNSA_8ArgsItemIdLNSA_5ArityE1EEEEEclERKNS_7DevOmp5E_l139
+
+testing acc:alpaka::AccCpuSerial<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:double functor:alpaka::test::unit::math::OpFloor seed:1704296709
+
+testing acc:alpaka::AccOmp5<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:double functor:alpaka::test::unit::math::OpFloor seed:3406687702
+
+DEVID: 0 SGN:3 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58312B sgpr_count:36 vgpr_count:24 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm10TestKernelILm1000EEJRKPdRKNS_4test4unit4math7OpFloorERKPNSA_8ArgsItemIdLNSA_5ArityE1EEEEEclERKNS_7DevOmp5E_l139
+
+testing acc:alpaka::AccCpuSerial<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:double functor:alpaka::test::unit::math::OpLog seed:1813522107
+
+testing acc:alpaka::AccOmp5<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:double functor:alpaka::test::unit::math::OpLog seed:3906071487
+
+DEVID: 0 SGN:3 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58312B sgpr_count:58 vgpr_count:46 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm10TestKernelILm1000EEJRKPdRKNS_4test4unit4math5OpLogERKPNSA_8ArgsItemIdLNSA_5ArityE1EEEEEclERKNS_7DevOmp5E_l139
+
+testing acc:alpaka::AccCpuSerial<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:double functor:alpaka::test::unit::math::OpRound seed:1045544860
+
+testing acc:alpaka::AccOmp5<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:double functor:alpaka::test::unit::math::OpRound seed:3714853619
+
+DEVID: 0 SGN:3 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58312B sgpr_count:37 vgpr_count:31 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm10TestKernelILm1000EEJRKPdRKNS_4test4unit4math7OpRoundERKPNSA_8ArgsItemIdLNSA_5ArityE1EEEEEclERKNS_7DevOmp5E_l139
+
+testing acc:alpaka::AccCpuSerial<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:double functor:alpaka::test::unit::math::OpRsqrt seed:223437242
+
+testing acc:alpaka::AccOmp5<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:double functor:alpaka::test::unit::math::OpRsqrt seed:2052708048
+
+DEVID: 0 SGN:3 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58312B sgpr_count:41 vgpr_count:35 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm10TestKernelILm1000EEJRKPdRKNS_4test4unit4math7OpRsqrtERKPNSA_8ArgsItemIdLNSA_5ArityE1EEEEEclERKNS_7DevOmp5E_l139
+
+testing acc:alpaka::AccCpuSerial<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:double functor:alpaka::test::unit::math::OpSin seed:1646350279
+
+testing acc:alpaka::AccOmp5<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:double functor:alpaka::test::unit::math::OpSin seed:1540759512
+
+DEVID: 0 SGN:3 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58312B sgpr_count:81 vgpr_count:57 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm10TestKernelILm1000EEJRKPdRKNS_4test4unit4math5OpSinERKPNSA_8ArgsItemIdLNSA_5ArityE1EEEEEclERKNS_7DevOmp5E_l139
+
+testing acc:alpaka::AccCpuSerial<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:double functor:alpaka::test::unit::math::OpSqrt seed:4096465003
+
+testing acc:alpaka::AccOmp5<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:double functor:alpaka::test::unit::math::OpSqrt seed:2000402601
+
+DEVID: 0 SGN:3 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58312B sgpr_count:43 vgpr_count:34 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm10TestKernelILm1000EEJRKPdRKNS_4test4unit4math6OpSqrtERKPNSA_8ArgsItemIdLNSA_5ArityE1EEEEEclERKNS_7DevOmp5E_l139
+
+testing acc:alpaka::AccCpuSerial<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:double functor:alpaka::test::unit::math::OpTan seed:3915927938
+
+testing acc:alpaka::AccOmp5<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:double functor:alpaka::test::unit::math::OpTan seed:1002157574
+
+DEVID: 0 SGN:3 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58312B sgpr_count:79 vgpr_count:58 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm10TestKernelILm1000EEJRKPdRKNS_4test4unit4math5OpTanERKPNSA_8ArgsItemIdLNSA_5ArityE1EEEEEclERKNS_7DevOmp5E_l139
+
+testing acc:alpaka::AccCpuSerial<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:double functor:alpaka::test::unit::math::OpTrunc seed:146810817
+
+testing acc:alpaka::AccOmp5<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:double functor:alpaka::test::unit::math::OpTrunc seed:1765968121
+
+DEVID: 0 SGN:3 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58312B sgpr_count:36 vgpr_count:24 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm10TestKernelILm1000EEJRKPdRKNS_4test4unit4math7OpTruncERKPNSA_8ArgsItemIdLNSA_5ArityE1EEEEEclERKNS_7DevOmp5E_l139
+
+testing acc:alpaka::AccCpuSerial<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:double functor:alpaka::test::unit::math::OpIsnan seed:3693203624
+
+testing acc:alpaka::AccOmp5<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:double functor:alpaka::test::unit::math::OpIsnan seed:3365609817
+
+DEVID: 0 SGN:3 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58312B sgpr_count:36 vgpr_count:25 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm10TestKernelILm1000EEJRKPdRKNS_4test4unit4math7OpIsnanERKPNSA_8ArgsItemIdLNSA_5ArityE1EEEEEclERKNS_7DevOmp5E_l139
+
+testing acc:alpaka::AccCpuSerial<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:double functor:alpaka::test::unit::math::OpIsinf seed:89642756
+
+testing acc:alpaka::AccOmp5<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:double functor:alpaka::test::unit::math::OpIsinf seed:3349751597
+
+DEVID: 0 SGN:3 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58312B sgpr_count:37 vgpr_count:25 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm10TestKernelILm1000EEJRKPdRKNS_4test4unit4math7OpIsinfERKPNSA_8ArgsItemIdLNSA_5ArityE1EEEEEclERKNS_7DevOmp5E_l139
+
+testing acc:alpaka::AccCpuSerial<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:double functor:alpaka::test::unit::math::OpIsfinite seed:1887063173
+
+testing acc:alpaka::AccOmp5<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:double functor:alpaka::test::unit::math::OpIsfinite seed:2666700005
+
+DEVID: 0 SGN:3 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58312B sgpr_count:38 vgpr_count:25 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm10TestKernelILm1000EEJRKPdRKNS_4test4unit4math10OpIsfiniteERKPNSA_8ArgsItemIdLNSA_5ArityE1EEEEEclERKNS_7DevOmp5E_l139
+
+testing acc:alpaka::AccCpuSerial<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:double functor:alpaka::test::unit::math::OpAtan2 seed:864228060
+
+testing acc:alpaka::AccOmp5<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:double functor:alpaka::test::unit::math::OpAtan2 seed:4173252626
+
+DEVID: 0 SGN:3 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58312B sgpr_count:98 vgpr_count:51 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm10TestKernelILm1000EEJRKPdRKNS_4test4unit4math7OpAtan2ERKPNSA_8ArgsItemIdLNSA_5ArityE2EEEEEclERKNS_7DevOmp5E_l139
+
+testing acc:alpaka::AccCpuSerial<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:double functor:alpaka::test::unit::math::OpFmod seed:457464512
+
+testing acc:alpaka::AccOmp5<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:double functor:alpaka::test::unit::math::OpFmod seed:394643581
+
+DEVID: 0 SGN:3 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58312B sgpr_count:43 vgpr_count:43 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm10TestKernelILm1000EEJRKPdRKNS_4test4unit4math6OpFmodERKPNSA_8ArgsItemIdLNSA_5ArityE2EEEEEclERKNS_7DevOmp5E_l139
+
+testing acc:alpaka::AccCpuSerial<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:double functor:alpaka::test::unit::math::OpMax seed:388928321
+
+testing acc:alpaka::AccOmp5<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:double functor:alpaka::test::unit::math::OpMax seed:3118699822
+
+DEVID: 0 SGN:3 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58312B sgpr_count:43 vgpr_count:26 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm10TestKernelILm1000EEJRKPdRKNS_4test4unit4math5OpMaxERKPNSA_8ArgsItemIdLNSA_5ArityE2EEEEEclERKNS_7DevOmp5E_l139
+
+testing acc:alpaka::AccCpuSerial<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:double functor:alpaka::test::unit::math::OpMin seed:1187387283
+
+testing acc:alpaka::AccOmp5<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:double functor:alpaka::test::unit::math::OpMin seed:3062026717
+
+DEVID: 0 SGN:3 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58312B sgpr_count:43 vgpr_count:26 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm10TestKernelILm1000EEJRKPdRKNS_4test4unit4math5OpMinERKPNSA_8ArgsItemIdLNSA_5ArityE2EEEEEclERKNS_7DevOmp5E_l139
+
+testing acc:alpaka::AccCpuSerial<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:double functor:alpaka::test::unit::math::OpPow seed:593093266
+
+testing acc:alpaka::AccOmp5<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:double functor:alpaka::test::unit::math::OpPow seed:831705670
+
+DEVID: 0 SGN:3 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58312B sgpr_count:104 vgpr_count:55 sgpr_spill_count:14 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm10TestKernelILm1000EEJRKPdRKNS_4test4unit4math5OpPowERKPNSA_8ArgsItemIdLNSA_5ArityE2EEEEEclERKNS_7DevOmp5E_l139
+
+testing acc:alpaka::AccCpuSerial<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:double functor:alpaka::test::unit::math::OpRemainder seed:3281134042
+
+testing acc:alpaka::AccOmp5<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:double functor:alpaka::test::unit::math::OpRemainder seed:2041214282
+
+DEVID: 0 SGN:3 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58312B sgpr_count:45 vgpr_count:43 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm10TestKernelILm1000EEJRKPdRKNS_4test4unit4math11OpRemainderERKPNSA_8ArgsItemIdLNSA_5ArityE2EEEEEclERKNS_7DevOmp5E_l139
+
+testing acc:alpaka::AccCpuSerial<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:float functor:alpaka::test::unit::math::OpAbs seed:514932750
+
+testing acc:alpaka::AccOmp5<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:float functor:alpaka::test::unit::math::OpAbs seed:3603640510
+
+DEVID: 0 SGN:3 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58312B sgpr_count:36 vgpr_count:25 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm10TestKernelILm1000EEJRKPfRKNS_4test4unit4math5OpAbsERKPNSA_8ArgsItemIfLNSA_5ArityE1EEEEEclERKNS_7DevOmp5E_l139
+
+testing acc:alpaka::AccCpuSerial<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:float functor:alpaka::test::unit::math::OpAcos seed:2327045270
+
+testing acc:alpaka::AccOmp5<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:float functor:alpaka::test::unit::math::OpAcos seed:272648512
+
+DEVID: 0 SGN:3 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58312B sgpr_count:42 vgpr_count:27 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm10TestKernelILm1000EEJRKPfRKNS_4test4unit4math6OpAcosERKPNSA_8ArgsItemIfLNSA_5ArityE1EEEEEclERKNS_7DevOmp5E_l139
+
+testing acc:alpaka::AccCpuSerial<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:float functor:alpaka::test::unit::math::OpArg seed:2530212271
+
+testing acc:alpaka::AccOmp5<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:float functor:alpaka::test::unit::math::OpArg seed:2847253233
+
+DEVID: 0 SGN:3 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58312B sgpr_count:36 vgpr_count:29 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm10TestKernelILm1000EEJRKPfRKNS_4test4unit4math5OpArgERKPNSA_8ArgsItemIfLNSA_5ArityE1EEEEEclERKNS_7DevOmp5E_l139
+
+testing acc:alpaka::AccCpuSerial<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:float functor:alpaka::test::unit::math::OpAsin seed:590593908
+
+testing acc:alpaka::AccOmp5<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:float functor:alpaka::test::unit::math::OpAsin seed:3787055863
+
+DEVID: 0 SGN:3 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58312B sgpr_count:42 vgpr_count:27 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm10TestKernelILm1000EEJRKPfRKNS_4test4unit4math6OpAsinERKPNSA_8ArgsItemIfLNSA_5ArityE1EEEEEclERKNS_7DevOmp5E_l139
+
+testing acc:alpaka::AccCpuSerial<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:float functor:alpaka::test::unit::math::OpAtan seed:2393351305
+
+testing acc:alpaka::AccOmp5<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:float functor:alpaka::test::unit::math::OpAtan seed:293533419
+
+DEVID: 0 SGN:3 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58312B sgpr_count:44 vgpr_count:27 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm10TestKernelILm1000EEJRKPfRKNS_4test4unit4math6OpAtanERKPNSA_8ArgsItemIfLNSA_5ArityE1EEEEEclERKNS_7DevOmp5E_l139
+
+testing acc:alpaka::AccCpuSerial<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:float functor:alpaka::test::unit::math::OpCbrt seed:1746280110
+
+testing acc:alpaka::AccOmp5<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:float functor:alpaka::test::unit::math::OpCbrt seed:2808813338
+
+DEVID: 0 SGN:3 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58312B sgpr_count:40 vgpr_count:27 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm10TestKernelILm1000EEJRKPfRKNS_4test4unit4math6OpCbrtERKPNSA_8ArgsItemIfLNSA_5ArityE1EEEEEclERKNS_7DevOmp5E_l139
+
+testing acc:alpaka::AccCpuSerial<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:float functor:alpaka::test::unit::math::OpCeil seed:795552704
+
+testing acc:alpaka::AccOmp5<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:float functor:alpaka::test::unit::math::OpCeil seed:1027017786
+
+DEVID: 0 SGN:3 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58312B sgpr_count:36 vgpr_count:25 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm10TestKernelILm1000EEJRKPfRKNS_4test4unit4math6OpCeilERKPNSA_8ArgsItemIfLNSA_5ArityE1EEEEEclERKNS_7DevOmp5E_l139
+
+testing acc:alpaka::AccCpuSerial<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:float functor:alpaka::test::unit::math::OpCos seed:2676495316
+
+testing acc:alpaka::AccOmp5<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:float functor:alpaka::test::unit::math::OpCos seed:3061743463
+
+DEVID: 0 SGN:3 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58312B sgpr_count:66 vgpr_count:39 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm10TestKernelILm1000EEJRKPfRKNS_4test4unit4math5OpCosERKPNSA_8ArgsItemIfLNSA_5ArityE1EEEEEclERKNS_7DevOmp5E_l139
+
+testing acc:alpaka::AccCpuSerial<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:float functor:alpaka::test::unit::math::OpErf seed:2667444778
+
+testing acc:alpaka::AccOmp5<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:float functor:alpaka::test::unit::math::OpErf seed:2814391925
+
+DEVID: 0 SGN:3 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58312B sgpr_count:71 vgpr_count:31 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm10TestKernelILm1000EEJRKPfRKNS_4test4unit4math5OpErfERKPNSA_8ArgsItemIfLNSA_5ArityE1EEEEEclERKNS_7DevOmp5E_l139
+
+testing acc:alpaka::AccCpuSerial<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:float functor:alpaka::test::unit::math::OpExp seed:156893964
+
+testing acc:alpaka::AccOmp5<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:float functor:alpaka::test::unit::math::OpExp seed:363831342
+
+DEVID: 0 SGN:3 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58312B sgpr_count:36 vgpr_count:25 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm10TestKernelILm1000EEJRKPfRKNS_4test4unit4math5OpExpERKPNSA_8ArgsItemIfLNSA_5ArityE1EEEEEclERKNS_7DevOmp5E_l139
+
+testing acc:alpaka::AccCpuSerial<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:float functor:alpaka::test::unit::math::OpFloor seed:598401943
+
+testing acc:alpaka::AccOmp5<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:float functor:alpaka::test::unit::math::OpFloor seed:3678215569
+
+DEVID: 0 SGN:3 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58312B sgpr_count:36 vgpr_count:25 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm10TestKernelILm1000EEJRKPfRKNS_4test4unit4math7OpFloorERKPNSA_8ArgsItemIfLNSA_5ArityE1EEEEEclERKNS_7DevOmp5E_l139
+
+testing acc:alpaka::AccCpuSerial<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:float functor:alpaka::test::unit::math::OpLog seed:3764953257
+
+testing acc:alpaka::AccOmp5<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:float functor:alpaka::test::unit::math::OpLog seed:1668146439
+
+DEVID: 0 SGN:3 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58312B sgpr_count:36 vgpr_count:25 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm10TestKernelILm1000EEJRKPfRKNS_4test4unit4math5OpLogERKPNSA_8ArgsItemIfLNSA_5ArityE1EEEEEclERKNS_7DevOmp5E_l139
+
+testing acc:alpaka::AccCpuSerial<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:float functor:alpaka::test::unit::math::OpRound seed:882326949
+
+testing acc:alpaka::AccOmp5<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:float functor:alpaka::test::unit::math::OpRound seed:1683279937
+
+DEVID: 0 SGN:3 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58312B sgpr_count:37 vgpr_count:24 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm10TestKernelILm1000EEJRKPfRKNS_4test4unit4math7OpRoundERKPNSA_8ArgsItemIfLNSA_5ArityE1EEEEEclERKNS_7DevOmp5E_l139
+
+testing acc:alpaka::AccCpuSerial<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:float functor:alpaka::test::unit::math::OpRsqrt seed:2381704532
+
+testing acc:alpaka::AccOmp5<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:float functor:alpaka::test::unit::math::OpRsqrt seed:2934325218
+
+DEVID: 0 SGN:3 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58312B sgpr_count:38 vgpr_count:27 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm10TestKernelILm1000EEJRKPfRKNS_4test4unit4math7OpRsqrtERKPNSA_8ArgsItemIfLNSA_5ArityE1EEEEEclERKNS_7DevOmp5E_l139
+
+testing acc:alpaka::AccCpuSerial<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:float functor:alpaka::test::unit::math::OpSin seed:3407335445
+
+testing acc:alpaka::AccOmp5<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:float functor:alpaka::test::unit::math::OpSin seed:3116640852
+
+DEVID: 0 SGN:3 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58312B sgpr_count:66 vgpr_count:39 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm10TestKernelILm1000EEJRKPfRKNS_4test4unit4math5OpSinERKPNSA_8ArgsItemIfLNSA_5ArityE1EEEEEclERKNS_7DevOmp5E_l139
+
+testing acc:alpaka::AccCpuSerial<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:float functor:alpaka::test::unit::math::OpSqrt seed:1612415464
+
+testing acc:alpaka::AccOmp5<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:float functor:alpaka::test::unit::math::OpSqrt seed:2881396781
+
+DEVID: 0 SGN:3 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58312B sgpr_count:36 vgpr_count:25 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm10TestKernelILm1000EEJRKPfRKNS_4test4unit4math6OpSqrtERKPNSA_8ArgsItemIfLNSA_5ArityE1EEEEEclERKNS_7DevOmp5E_l139
+
+testing acc:alpaka::AccCpuSerial<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:float functor:alpaka::test::unit::math::OpTan seed:100397594
+
+testing acc:alpaka::AccOmp5<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:float functor:alpaka::test::unit::math::OpTan seed:740204112
+
+DEVID: 0 SGN:3 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58312B sgpr_count:64 vgpr_count:39 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm10TestKernelILm1000EEJRKPfRKNS_4test4unit4math5OpTanERKPNSA_8ArgsItemIfLNSA_5ArityE1EEEEEclERKNS_7DevOmp5E_l139
+
+testing acc:alpaka::AccCpuSerial<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:float functor:alpaka::test::unit::math::OpTrunc seed:2675192598
+
+testing acc:alpaka::AccOmp5<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:float functor:alpaka::test::unit::math::OpTrunc seed:3365704933
+
+DEVID: 0 SGN:3 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58312B sgpr_count:36 vgpr_count:25 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm10TestKernelILm1000EEJRKPfRKNS_4test4unit4math7OpTruncERKPNSA_8ArgsItemIfLNSA_5ArityE1EEEEEclERKNS_7DevOmp5E_l139
+
+testing acc:alpaka::AccCpuSerial<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:float functor:alpaka::test::unit::math::OpIsnan seed:1583424748
+
+testing acc:alpaka::AccOmp5<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:float functor:alpaka::test::unit::math::OpIsnan seed:1207372223
+
+DEVID: 0 SGN:3 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58312B sgpr_count:36 vgpr_count:25 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm10TestKernelILm1000EEJRKPfRKNS_4test4unit4math7OpIsnanERKPNSA_8ArgsItemIfLNSA_5ArityE1EEEEEclERKNS_7DevOmp5E_l139
+
+testing acc:alpaka::AccCpuSerial<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:float functor:alpaka::test::unit::math::OpIsinf seed:2803772698
+
+testing acc:alpaka::AccOmp5<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:float functor:alpaka::test::unit::math::OpIsinf seed:41945409
+
+DEVID: 0 SGN:3 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58312B sgpr_count:38 vgpr_count:25 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm10TestKernelILm1000EEJRKPfRKNS_4test4unit4math7OpIsinfERKPNSA_8ArgsItemIfLNSA_5ArityE1EEEEEclERKNS_7DevOmp5E_l139
+
+testing acc:alpaka::AccCpuSerial<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:float functor:alpaka::test::unit::math::OpIsfinite seed:1376235494
+
+testing acc:alpaka::AccOmp5<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:float functor:alpaka::test::unit::math::OpIsfinite seed:1734756427
+
+DEVID: 0 SGN:3 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58312B sgpr_count:38 vgpr_count:25 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm10TestKernelILm1000EEJRKPfRKNS_4test4unit4math10OpIsfiniteERKPNSA_8ArgsItemIfLNSA_5ArityE1EEEEEclERKNS_7DevOmp5E_l139
+
+testing acc:alpaka::AccCpuSerial<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:float functor:alpaka::test::unit::math::OpAtan2 seed:2605519371
+
+testing acc:alpaka::AccOmp5<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:float functor:alpaka::test::unit::math::OpAtan2 seed:1321928778
+
+DEVID: 0 SGN:3 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58312B sgpr_count:56 vgpr_count:47 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm10TestKernelILm1000EEJRKPfRKNS_4test4unit4math7OpAtan2ERKPNSA_8ArgsItemIfLNSA_5ArityE2EEEEEclERKNS_7DevOmp5E_l139
+
+testing acc:alpaka::AccCpuSerial<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:float functor:alpaka::test::unit::math::OpFmod seed:1636982829
+
+testing acc:alpaka::AccOmp5<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:float functor:alpaka::test::unit::math::OpFmod seed:175414386
+
+DEVID: 0 SGN:3 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58312B sgpr_count:38 vgpr_count:27 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm10TestKernelILm1000EEJRKPfRKNS_4test4unit4math6OpFmodERKPNSA_8ArgsItemIfLNSA_5ArityE2EEEEEclERKNS_7DevOmp5E_l139
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+mathTest is a Catch2 v3.0.1 host application.
+
+Run with -? for options
+
+
+
+-------------------------------------------------------------------------------
+
+mathOpsFloat - TestAccFunctorTuplesReal - 45
+
+-------------------------------------------------------------------------------
+
+/home/kelling/checkout/alpaka/test/unit/math/src/mathFloat.cpp:27
+
+...............................................................................
+
+
+
+/home/kelling/checkout/alpaka/test/unit/math/src/TestTemplate.hpp:147: FAILED:
+
+  REQUIRE( isApproxEqual(results(i), std_result) )
+
+with expansion:
+
+  false
+
+with messages:
+
+  Operator: OpFmod
+
+  Type: float
+
+  The args buffer: 
+
+  capacity: 1000
+
+  0: [ 0, 3.402823e+38, ]
+
+  1: [ 3.402823e+38, -3.402823e+38, ]
+
+  2: [ -3.402823e+38, 754.6026, ]
+
+  3: [ -857.7582, -606.0744, ]
+
+  4: [ 342.9316, 292.794, ]
+
+  5: [ -651.174, -989.4394, ]
+
+  6: [ 280.1709, 507.4229, ]
+
+  7: [ -831.5719, -257.1744, ]
+
+  8: [ 228.8016, 330.6618, ]
+
+  9: [ -467.8697, -433.2859, ]
+
+  10: [ 486.52, 236.6165, ]
+
+  11: [ -941.8361, -813.6535, ]
+
+  12: [ 440.0222, 75.28569, ]
+
+  13: [ -452.6081, -326.5986, ]
+
+  14: [ 984.6478, 143.5731, ]
+
+  15: [ -975.5781, -33.15902, ]
+
+  16: [ 540.8988, 303.5458, ]
+
+  17: [ -885.8915, -694.7253, ]
+
+  18: [ 177.9688, 249.2057, ]
+
+  19: [ -122.1876, -400.063, ]
+
+  20: [ 607.5421, 859.2302, ]
+
+  21: [ -959.9603, -82.09264, ]
+
+  22: [ 53.18457, 731.0322, ]
+
+  23: [ -873.1279, -459.2347, ]
+
+  24: [ 660.2711, 357.232, ]
+
+  25: [ -175.072, -999.0287, ]
+
+  26: [ 434.6732, 674.812, ]
+
+  27: [ -552.0906, -565.4186, ]
+
+  28: [ 986.0085, 990.7216, ]
+
+  29: [ -845.7943, -58.16811, ]
+
+  30: [ 265.4107, 631.3699, ]
+
+  31: [ -758.4098, -435.0953, ]
+
+  32: [ 593.4755, 647.1013, ]
+
+  33: [ -543.3535, -830.9254, ]
+
+  34: [ 141.83, 361.8409, ]
+
+  35: [ -737.4623, -459.8062, ]
+
+  36: [ 528.8172, 963.0203, ]
+
+  37: [ -830.2636, -481.7596, ]
+
+  38: [ 240.7893, 934.2719, ]
+
+  39: [ -945.9128, -308.6364, ]
+
+  40: [ 957.1301, 252.7663, ]
+
+  41: [ -486.5001, -243.0181, ]
+
+  42: [ 607.3919, 405.6162, ]
+
+  43: [ -435.7215, -191.7203, ]
+
+  44: [ 170.3748, 242.3617, ]
+
+  45: [ -488.5603, -373.073, ]
+
+  46: [ 233.2218, 238.673, ]
+
+  47: [ -757.9894, -377.0603, ]
+
+  48: [ 528.3068, 252.1555, ]
+
+  49: [ -252.0229, -976.4808, ]
+
+  50: [ 748.877, 713.5835, ]
+
+  51: [ -376.0199, -197.3287, ]
+
+  52: [ 765.6829, 503.1061, ]
+
+  53: [ -833.357, -704.2426, ]
+
+  54: [ 230.9925, 205.558, ]
+
+  55: [ -290.2719, -814.0455, ]
+
+  56: [ 599.0216, 662.9442, ]
+
+  57: [ -756.3113, -102.8612, ]
+
+  58: [ 325.4608, 789.003, ]
+
+  59: [ -19.41719, -774.1024, ]
+
+  60: [ 344.7906, 339.2238, ]
+
+  61: [ -896.0749, -334.7965, ]
+
+  62: [ 330.2633, 925.8334, ]
+
+  63: [ -735.1583, -482.7337, ]
+
+  64: [ 804.4743, 305.7295, ]
+
+  65: [ -799.1008, -394.6213, ]
+
+  66: [ 487.7302, 400.7095, ]
+
+  67: [ -281.3646, -724.43, ]
+
+  68: [ 894.5869, 494.1538, ]
+
+  69: [ -321.7734, -243.3345, ]
+
+  70: [ 45.39653, 723.0315, ]
+
+  71: [ -979.4578, -990.3538, ]
+
+  72: [ 746.4508, 877.1834, ]
+
+  73: [ -598.562, -821.6548, ]
+
+  74: [ 31.9432, 553.4172, ]
+
+  75: [ -869.3105, -284.3129, ]
+
+  76: [ 501.3864, 446.4377, ]
+
+  77: [ -800.0366, -279.0097, ]
+
+  78: [ 214.0679, 315.5262, ]
+
+  79: [ -839.0106, -48.76749, ]
+
+  80: [ 251.4269, 635.1005, ]
+
+  81: [ -731.4609, -134.0021, ]
+
+  82: [ 663.3215, 173.9097, ]
+
+  83: [ -444.3022, -901.0964, ]
+
+  84: [ 386.4507, 727.411, ]
+
+  85: [ -76.09608, -597.3176, ]
+
+  86: [ 947.0169, 116.981, ]
+
+  87: [ -513.1855, -98.87255, ]
+
+  88: [ 109.9028, 750.9066, ]
+
+  89: [ -135.7354, -488.3381, ]
+
+  90: [ 304.4074, 499.0575, ]
+
+  91: [ -176.1929, -659.2838, ]
+
+  92: [ 274.7319, 583.3492, ]
+
+  93: [ -418.7493, -349.1788, ]
+
+  94: [ 920.2839, 647.9595, ]
+
+  95: [ -210.4676, -255.2839, ]
+
+  96: [ 328.7401, 556.127, ]
+
+  97: [ -135.5348, -826.4565, ]
+
+  98: [ 934.0363, 254.0612, ]
+
+  99: [ -348.4936, -7.603189, ]
+
+  100: [ 131.9659, 786.7972, ]
+
+  101: [ -949.9874, -700.3721, ]
+
+  102: [ 438.8629, 153.7316, ]
+
+  103: [ -969.5897, -766.6097, ]
+
+  104: [ 894.0797, 408.7084, ]
+
+  105: [ -797.2685, -161.6296, ]
+
+  106: [ 691.9376, 509.236, ]
+
+  107: [ -395.7069, -730.3641, ]
+
+  108: [ 646.8094, 228.6922, ]
+
+  109: [ -925.271, -629.6826, ]
+
+  110: [ 29.31708, 74.68104, ]
+
+  111: [ -732.1958, -164.2069, ]
+
+  112: [ 15.17921, 824.8871, ]
+
+  113: [ -116.9101, -878.7899, ]
+
+  114: [ 907.7305, 821.5957, ]
+
+  115: [ -225.7024, -559.5232, ]
+
+  116: [ 380.7213, 905.9832, ]
+
+  117: [ -783.5793, -859.7562, ]
+
+  118: [ 616.8187, 922.8063, ]
+
+  119: [ -871.0267, -605.7455, ]
+
+  120: [ 346.7694, 764.8181, ]
+
+  121: [ -153.511, -298.1536, ]
+
+  122: [ 59.50117, 67.01288, ]
+
+  123: [ -36.13639, -285.4433, ]
+
+  124: [ 344.2708, 446.1622, ]
+
+  125: [ -159.898, -648.0844, ]
+
+  126: [ 405.7863, 353.9796, ]
+
+  127: [ -49.86335, -334.7821, ]
+
+  128: [ 53.36485, 682.8403, ]
+
+  129: [ -903.1068, -497.4875, ]
+
+  130: [ 514.9506, 271.6859, ]
+
+  131: [ -775.5598, -225.3254, ]
+
+  132: [ 833.2474, 43.52232, ]
+
+  133: [ -388.0547, -479.6128, ]
+
+  134: [ 34.99548, 852.9096, ]
+
+  135: [ -168.9618, -851.6052, ]
+
+  136: [ 740.5463, 928.2231, ]
+
+  137: [ -361.9294, -645.3207, ]
+
+  138: [ 948.139, 904.6815, ]
+
+  139: [ -372.6537, -982.1349, ]
+
+  140: [ 190.2762, 741.3512, ]
+
+  141: [ -971.2097, -889.4252, ]
+
+  142: [ 121.4079, 569.5929, ]
+
+  143: [ -502.2711, -147.407, ]
+
+  144: [ 670.639, 469.4494, ]
+
+  145: [ -429.9583, -35.482, ]
+
+  146: [ 309.9218, 345.9759, ]
+
+  147: [ -855.6899, -816.2117, ]
+
+  148: [ 579.6472, 69.37478, ]
+
+  149: [ -130.7328, -981.923, ]
+
+  150: [ 225.9651, 180.6036, ]
+
+  151: [ -795.8423, -405.0293, ]
+
+  152: [ 722.1556, 327.3644, ]
+
+  153: [ -269.6498, -14.18605, ]
+
+  154: [ 4.549263, 424.9784, ]
+
+  155: [ -459.4797, -612.3967, ]
+
+  156: [ 475.131, 551.026, ]
+
+  157: [ -527.0247, -93.70752, ]
+
+  158: [ 704.3221, 942.2041, ]
+
+  159: [ -542.881, -624.4426, ]
+
+  160: [ 202.0567, 7.412212, ]
+
+  161: [ -966.7689, -577.0623, ]
+
+  162: [ 485.5035, 685.7744, ]
+
+  163: [ -857.9286, -810.2036, ]
+
+  164: [ 206.107, 91.80549, ]
+
+  165: [ -40.97485, -974.8354, ]
+
+  166: [ 664.4268, 58.05113, ]
+
+  167: [ -19.88437, -665.3234, ]
+
+  168: [ 196.6347, 90.41145, ]
+
+  169: [ -839.7184, -545.3233, ]
+
+  170: [ 147.7821, 248.5851, ]
+
+  171: [ -773.261, -969.665, ]
+
+  172: [ 199.2442, 160.5271, ]
+
+  173: [ -697.5804, -979.0703, ]
+
+  174: [ 234.1705, 233.9646, ]
+
+  175: [ -702.8863, -242.7545, ]
+
+  176: [ 410.2245, 975.633, ]
+
+  177: [ -643.0905, -462.8842, ]
+
+  178: [ 422.1486, 695.0237, ]
+
+  179: [ -51.81679, -262.95, ]
+
+  180: [ 884.7647, 400.9789, ]
+
+  181: [ -241.3092, -251.9454, ]
+
+  182: [ 684.6097, 446.9057, ]
+
+  183: [ -236.7749, -144.1977, ]
+
+  184: [ 476.7087, 531.0986, ]
+
+  185: [ -43.8438, -173.3606, ]
+
+  186: [ 882.766, 671.6783, ]
+
+  187: [ -648.0123, -896.9119, ]
+
+  188: [ 142.7316, 397.802, ]
+
+  189: [ -889.0001, -858.6073, ]
+
+  190: [ 425.1508, 613.275, ]
+
+  191: [ -509.8203, -313.3271, ]
+
+  192: [ 550.1878, 89.68565, ]
+
+  193: [ -6.853304, -346.6667, ]
+
+  194: [ 183.4939, 428.1801, ]
+
+  195: [ -981.7067, -422.5672, ]
+
+  196: [ 544.6603, 87.25317, ]
+
+  197: [ -105.5649, -464.0382, ]
+
+  198: [ 229.2004, 89.64326, ]
+
+  199: [ -170.4976, -634.201, ]
+
+  200: [ 552.8904, 17.17425, ]
+
+  201: [ -429.4491, -647.6665, ]
+
+  202: [ 751.4035, 331.1436, ]
+
+  203: [ -839.0037, -531.3476, ]
+
+  204: [ 135.1662, 359.0751, ]
+
+  205: [ -737.618, -974.6086, ]
+
+  206: [ 146.2603, 246.5389, ]
+
+  207: [ -196.5924, -578.6576, ]
+
+  208: [ 129.1389, 498.0546, ]
+
+  209: [ -437.3832, -803.2254, ]
+
+  210: [ 99.24304, 809.0602, ]
+
+  211: [ -977.8165, -875.2906, ]
+
+  212: [ 161.7941, 9.029105, ]
+
+  213: [ -272.7662, -752.173, ]
+
+  214: [ 381.0464, 770.6545, ]
+
+  215: [ -245.9859, -390.1953, ]
+
+  216: [ 284.5154, 12.37669, ]
+
+  217: [ -850.0475, -14.93977, ]
+
+  218: [ 747.6953, 92.77884, ]
+
+  219: [ -514.0956, -333.9742, ]
+
+  220: [ 404.6396, 103.5575, ]
+
+  221: [ -778.9786, -490.4895, ]
+
+  222: [ 294.5444, 656.5157, ]
+
+  223: [ -407.0553, -58.22921, ]
+
+  224: [ 377.8153, 658.4401, ]
+
+  225: [ -941.3453, -402.1089, ]
+
+  226: [ 190.8333, 244.7436, ]
+
+  227: [ -335.4605, -405.0379, ]
+
+  228: [ 84.92118, 471.941, ]
+
+  229: [ -270.2775, -911.7465, ]
+
+  230: [ 553.4854, 722.0953, ]
+
+  231: [ -429.522, -256.2837, ]
+
+  232: [ 976.3633, 360.2027, ]
+
+  233: [ -738.9905, -926.7565, ]
+
+  234: [ 213.3802, 997.3995, ]
+
+  235: [ -280.3163, -292.3574, ]
+
+  236: [ 275.9583, 649.9172, ]
+
+  237: [ -31.55895, -158.929, ]
+
+  238: [ 411.3349, 119.6519, ]
+
+  239: [ -306.2733, -988.8448, ]
+
+  240: [ 534.7953, 514.6442, ]
+
+  241: [ -305.8105, -625.4332, ]
+
+  242: [ 756.4565, 654.8353, ]
+
+  243: [ -765.0731, -816.9949, ]
+
+  244: [ 584.1238, 232.9835, ]
+
+  245: [ -369.0093, -753.9172, ]
+
+  246: [ 939.2477, 85.90149, ]
+
+  247: [ -935.2077, -746.3188, ]
+
+  248: [ 35.84287, 378.9333, ]
+
+  249: [ -411.1068, -731.3857, ]
+
+  250: [ 472.0489, 399.4881, ]
+
+  251: [ -725.4683, -196.1216, ]
+
+  252: [ 946.8086, 216.6013, ]
+
+  253: [ -11.67579, -418.1926, ]
+
+  254: [ 235.0253, 562.4506, ]
+
+  255: [ -70.19064, -107.9406, ]
+
+  256: [ 694.035, 157.098, ]
+
+  257: [ -646.942, -345.7966, ]
+
+  258: [ 153.7279, 803.6074, ]
+
+  259: [ -704.4996, -228.5848, ]
+
+  260: [ 524.8217, 825.2505, ]
+
+  261: [ -677.7927, -985.3223, ]
+
+  262: [ 661.7891, 312.3322, ]
+
+  263: [ -689.5679, -367.7712, ]
+
+  264: [ 568.5895, 130.0666, ]
+
+  265: [ -283.6083, -29.5143, ]
+
+  266: [ 604.288, 46.89799, ]
+
+  267: [ -267.9301, -214.5915, ]
+
+  268: [ 102.065, 639.0193, ]
+
+  269: [ -406.3029, -998.104, ]
+
+  270: [ 733.267, 133.7636, ]
+
+  271: [ -18.53643, -164.9069, ]
+
+  272: [ 541.7141, 589.8846, ]
+
+  273: [ -588.2205, -190.3539, ]
+
+  274: [ 222.072, 277.7907, ]
+
+  275: [ -364.2335, -828.9872, ]
+
+  276: [ 672.0123, 788.3903, ]
+
+  277: [ -511.5492, -475.5631, ]
+
+  278: [ 607.0159, 789.1754, ]
+
+  279: [ -116.75, -670.2426, ]
+
+  280: [ 217.9169, 766.1884, ]
+
+  281: [ -529.4467, -328.6695, ]
+
+  282: [ 409.9574, 948.5016, ]
+
+  283: [ -154.339, -466.1708, ]
+
+  284: [ 976.0614, 933.671, ]
+
+  285: [ -664.1144, -207.8069, ]
+
+  286: [ 770.8011, 610.3219, ]
+
+  287: [ -854.4294, -680.1134, ]
+
+  288: [ 394.9648, 665.6038, ]
+
+  289: [ -173.5021, -803.6075, ]
+
+  290: [ 49.26665, 232.0989, ]
+
+  291: [ -24.64746, -885.7174, ]
+
+  292: [ 249.8423, 252.112, ]
+
+  293: [ -99.4846, -246.2415, ]
+
+  294: [ 37.86294, 580.2607, ]
+
+  295: [ -362.4601, -442.7413, ]
+
+  296: [ 867.7347, 152.547, ]
+
+  297: [ -16.73362, -857.1559, ]
+
+  298: [ 241.902, 218.6777, ]
+
+  299: [ -646.8109, -316.1296, ]
+
+  300: [ 950.3779, 190.5368, ]
+
+  301: [ -2.541445, -351.7147, ]
+
+  302: [ 714.0694, 268.3473, ]
+
+  303: [ -364.8024, -112.7622, ]
+
+  304: [ 234.2077, 194.628, ]
+
+  305: [ -328.8002, -113.1775, ]
+
+  306: [ 144.8312, 175.0607, ]
+
+  307: [ -178.733, -244.8759, ]
+
+  308: [ 966.4492, 629.1903, ]
+
+  309: [ -111.6288, -801.34, ]
+
+  310: [ 145.6913, 121.4451, ]
+
+  311: [ -634.491, -127.1363, ]
+
+  312: [ 890.3414, 779.1821, ]
+
+  313: [ -966.8317, -714.4877, ]
+
+  314: [ 541.0616, 395.1047, ]
+
+  315: [ -622.4911, -524.6921, ]
+
+  316: [ 207.1221, 500.0428, ]
+
+  317: [ -101.5676, -219.936, ]
+
+  318: [ 47.27097, 463.8246, ]
+
+  319: [ -483.2628, -500.1807, ]
+
+  320: [ 198.1128, 537.6604, ]
+
+  321: [ -681.812, -459.0187, ]
+
+  322: [ 212.6301, 727.1115, ]
+
+  323: [ -673.5224, -563.6786, ]
+
+  324: [ 891.4395, 747.0077, ]
+
+  325: [ -422.514, -957.4283, ]
+
+  326: [ 192.3313, 497.4583, ]
+
+  327: [ -512.5773, -780.8552, ]
+
+  328: [ 887.8662, 832.942, ]
+
+  329: [ -367.566, -255.7408, ]
+
+  330: [ 681.8779, 236.5892, ]
+
+  331: [ -321.5874, -355.6153, ]
+
+  332: [ 920.4134, 826.2346, ]
+
+  333: [ -387.5678, -525.1172, ]
+
+  334: [ 852.9569, 644.6023, ]
+
+  335: [ -646.0364, -830.5895, ]
+
+  336: [ 934.4841, 717.166, ]
+
+  337: [ -874.7607, -408.5614, ]
+
+  338: [ 103.6227, 691.651, ]
+
+  339: [ -586.1029, -577.9114, ]
+
+  340: [ 631.4778, 957.4953, ]
+
+  341: [ -247.2833, -623.0075, ]
+
+  342: [ 90.40803, 887.8569, ]
+
+  343: [ -487.6743, -212.3535, ]
+
+  344: [ 341.2376, 24.46343, ]
+
+  345: [ -180.8618, -156.8377, ]
+
+  346: [ 743.6554, 970.9971, ]
+
+  347: [ -615.5995, -547.7155, ]
+
+  348: [ 380.5981, 454.3736, ]
+
+  349: [ -712.1115, -657.2076, ]
+
+  350: [ 458.1285, 689.4192, ]
+
+  351: [ -765.5588, -68.44018, ]
+
+  352: [ 747.1522, 274.1104, ]
+
+  353: [ -386.6472, -972.9021, ]
+
+  354: [ 379.9822, 565.9869, ]
+
+  355: [ -361.206, -542.5392, ]
+
+  356: [ 788.7396, 456.312, ]
+
+  357: [ -345.794, -236.5281, ]
+
+  358: [ 759.4744, 327.0034, ]
+
+  359: [ -486.9975, -946.2767, ]
+
+  360: [ 966.8387, 73.22642, ]
+
+  361: [ -657.2284, -716.4138, ]
+
+  362: [ 37.88046, 765.3436, ]
+
+  363: [ -656.9195, -130.2661, ]
+
+  364: [ 845.4758, 381.697, ]
+
+  365: [ -911.3759, -180.7777, ]
+
+  366: [ 494.4655, 330.5887, ]
+
+  367: [ -481.3513, -204.8747, ]
+
+  368: [ 70.80438, 328.4651, ]
+
+  369: [ -9.181898, -513.4925, ]
+
+  370: [ 320.1769, 267.8792, ]
+
+  371: [ -212.7756, -246.5489, ]
+
+  372: [ 119.7246, 747.6055, ]
+
+  373: [ -210.9637, -4.28722, ]
+
+  374: [ 666.4139, 55.31561, ]
+
+  375: [ -418.9152, -689.4581, ]
+
+  376: [ 707.5357, 721.6447, ]
+
+  377: [ -552.1857, -680.9844, ]
+
+  378: [ 585.7654, 304.3032, ]
+
+  379: [ -958.9175, -423.2975, ]
+
+  380: [ 526.8994, 361.7081, ]
+
+  381: [ -597.2758, -227.9214, ]
+
+  382: [ 413.406, 674.2866, ]
+
+  383: [ -114.7941, -734.0026, ]
+
+  384: [ 343.652, 382.9007, ]
+
+  385: [ -758.7784, -411.7074, ]
+
+  386: [ 789.9487, 566.8052, ]
+
+  387: [ -666.3513, -294.5892, ]
+
+  388: [ 366.4407, 159.9833, ]
+
+  389: [ -768.8618, -839.1858, ]
+
+  390: [ 259.6676, 195.7618, ]
+
+  391: [ -233.3246, -168.1249, ]
+
+  392: [ 486.3648, 674.7685, ]
+
+  393: [ -333.4403, -834.4827, ]
+
+  394: [ 131.3764, 150.5358, ]
+
+  395: [ -44.01099, -54.70702, ]
+
+  396: [ 692.73, 460.9491, ]
+
+  397: [ -712.3917, -171.7245, ]
+
+  398: [ 166.4018, 172.8533, ]
+
+  399: [ -715.0657, -146.0386, ]
+
+  400: [ 108.5368, 470.4737, ]
+
+  401: [ -178.1612, -251.2795, ]
+
+  402: [ 355.1042, 254.6968, ]
+
+  403: [ -237.0683, -688.7346, ]
+
+  404: [ 406.4527, 561.619, ]
+
+  405: [ -249.6795, -131.1016, ]
+
+  406: [ 363.5581, 425.0757, ]
+
+  407: [ -320.9594, -247.0748, ]
+
+  408: [ 365.1378, 585.7599, ]
+
+  409: [ -871.9171, -866.1437, ]
+
+  410: [ 311.4135, 277.9587, ]
+
+  411: [ -927.4637, -651.7864, ]
+
+  412: [ 883.9638, 574.7422, ]
+
+  413: [ -780.3846, -691.9618, ]
+
+  414: [ 923.5819, 801.4572, ]
+
+  415: [ -640.8922, -91.89787, ]
+
+  416: [ 475.5576, 527.5948, ]
+
+  417: [ -697.6929, -286.7565, ]
+
+  418: [ 125.0369, 516.8522, ]
+
+  419: [ -495.5773, -735.2352, ]
+
+  420: [ 167.2775, 97.9931, ]
+
+  421: [ -432.2635, -970.1118, ]
+
+  422: [ 52.24187, 668.5667, ]
+
+  423: [ -29.15203, -599.2185, ]
+
+  424: [ 958.1314, 65.28465, ]
+
+  425: [ -314.6341, -239.2121, ]
+
+  426: [ 54.85273, 438.4306, ]
+
+  427: [ -909.8201, -703.2676, ]
+
+  428: [ 345.6345, 818.5183, ]
+
+  429: [ -78.16816, -836.3245, ]
+
+  430: [ 772.3174, 104.8045, ]
+
+  431: [ -339.0599, -449.0368, ]
+
+  432: [ 580.6816, 960.8957, ]
+
+  433: [ -515.1103, -774.7482, ]
+
+  434: [ 458.6427, 192.7231, ]
+
+  435: [ -407.0053, -97.86447, ]
+
+  436: [ 538.2415, 808.179, ]
+
+  437: [ -225.1223, -64.58331, ]
+
+  438: [ 629.8948, 451.8313, ]
+
+  439: [ -642.5585, -928.7925, ]
+
+  440: [ 479.5278, 215.8511, ]
+
+  441: [ -423.5641, -809.6769, ]
+
+  442: [ 842.2811, 239.6184, ]
+
+  443: [ -217.02, -265.7247, ]
+
+  444: [ 454.4272, 35.06535, ]
+
+  445: [ -558.5784, -343.3085, ]
+
+  446: [ 28.01743, 985.6572, ]
+
+  447: [ -889.0027, -940.5248, ]
+
+  448: [ 468.4541, 400.4341, ]
+
+  449: [ -308.4021, -96.62737, ]
+
+  450: [ 314.4355, 16.18468, ]
+
+  451: [ -718.0333, -15.87268, ]
+
+  452: [ 984.6185, 772.174, ]
+
+  453: [ -482.8847, -927.9669, ]
+
+  454: [ 842.5218, 339.675, ]
+
+  455: [ -264.0433, -916.6857, ]
+
+  456: [ 776.2139, 736.5506, ]
+
+  457: [ -826.2908, -205.874, ]
+
+  458: [ 469.8852, 124.8319, ]
+
+  459: [ -360.2358, -49.07122, ]
+
+  460: [ 482.6636, 739.975, ]
+
+  461: [ -126.4912, -760.9232, ]
+
+  462: [ 938.3929, 834.9966, ]
+
+  463: [ -568.7878, -788.0456, ]
+
+  464: [ 615.8024, 682.2889, ]
+
+  465: [ -790.6567, -229.9471, ]
+
+  466: [ 567.9345, 720.6207, ]
+
+  467: [ -275.4834, -472.2854, ]
+
+  468: [ 49.13972, 700.3561, ]
+
+  469: [ -891.234, -884.8019, ]
+
+  470: [ 969.559, 865.1335, ]
+
+  471: [ -377.8915, -298.6271, ]
+
+  472: [ 222.4515, 25.79648, ]
+
+  473: [ -742.9122, -561.4241, ]
+
+  474: [ 126.2559, 854.8035, ]
+
+  475: [ -983.6659, -681.5898, ]
+
+  476: [ 472.1367, 480.2815, ]
+
+  477: [ -201.6547, -91.58368, ]
+
+  478: [ 209.7948, 246.9165, ]
+
+  479: [ -20.73225, -926.5005, ]
+
+  480: [ 446.9583, 693.4129, ]
+
+  481: [ -28.20961, -190.3726, ]
+
+  482: [ 118.8827, 592.6612, ]
+
+  483: [ -61.3185, -857.2798, ]
+
+  484: [ 580.0294, 301.7128, ]
+
+  485: [ -554.6793, -887.6707, ]
+
+  486: [ 494.7753, 80.67092, ]
+
+  487: [ -689.1426, -836.2269, ]
+
+  488: [ 419.6394, 465.188, ]
+
+  489: [ -880.2556, -413.9586, ]
+
+  490: [ 456.3608, 401.5012, ]
+
+  491: [ -56.82547, -30.76035, ]
+
+  492: [ 65.65427, 989.2525, ]
+
+  493: [ -451.3066, -367.2879, ]
+
+  494: [ 110.8536, 8.126689, ]
+
+  495: [ -116.1014, -585.2642, ]
+
+  496: [ 315.5811, 534.1049, ]
+
+  497: [ -970.5807, -701.7858, ]
+
+  498: [ 550.4013, 914.1191, ]
+
+  499: [ -595.6663, -599.1451, ]
+
+  500: [ 362.3981, 830.5731, ]
+
+  501: [ -824.6205, -443.1413, ]
+
+  502: [ 397.2543, 875.9852, ]
+
+  503: [ -653.3492, -682.5049, ]
+
+  504: [ 839.9279, 860.8424, ]
+
+  505: [ -667.4412, -178.2118, ]
+
+  506: [ 684.2692, 205.0166, ]
+
+  507: [ -513.5311, -714.7095, ]
+
+  508: [ 917.6088, 122.0217, ]
+
+  509: [ -250.645, -819.4059, ]
+
+  510: [ 590.2434, 754.4721, ]
+
+  511: [ -220.9392, -412.7579, ]
+
+  512: [ 325.8311, 222.2803, ]
+
+  513: [ -243.1886, -864.7101, ]
+
+  514: [ 271.5935, 183.9018, ]
+
+  515: [ -672.0493, -837.1914, ]
+
+  516: [ 133.3229, 675.571, ]
+
+  517: [ -758.1328, -320.7257, ]
+
+  518: [ 937.1771, 436.3083, ]
+
+  519: [ -136.2977, -33.80706, ]
+
+  520: [ 755.3901, 195.277, ]
+
+  521: [ -841.4744, -19.88835, ]
+
+  522: [ 660.9188, 263.5502, ]
+
+  523: [ -62.35773, -487.8071, ]
+
+  524: [ 46.3725, 573.2868, ]
+
+  525: [ -382.6121, -231.889, ]
+
+  526: [ 560.4777, 359.1241, ]
+
+  527: [ -948.0601, -798.6235, ]
+
+  528: [ 46.38931, 465.6391, ]
+
+  529: [ -665.1597, -996.2155, ]
+
+  530: [ 337.7052, 394.4944, ]
+
+  531: [ -811.402, -267.3508, ]
+
+  532: [ 233.452, 364.9112, ]
+
+  533: [ -627.9647, -61.79797, ]
+
+  534: [ 202.25, 638.4741, ]
+
+  535: [ -216.1366, -832.8542, ]
+
+  536: [ 607.4604, 781.5895, ]
+
+  537: [ -586.8082, -173.428, ]
+
+  538: [ 485.1793, 803.9426, ]
+
+  539: [ -408.1381, -863.3359, ]
+
+  540: [ 577.3248, 86.57995, ]
+
+  541: [ -97.73354, -149.1431, ]
+
+  542: [ 607.5135, 647.8132, ]
+
+  543: [ -480.0865, -795.6909, ]
+
+  544: [ 813.7045, 175.4472, ]
+
+  545: [ -932.7975, -741.8503, ]
+
+  546: [ 527.4321, 277.1017, ]
+
+  547: [ -551.91, -247.9017, ]
+
+  548: [ 952.1635, 483.3099, ]
+
+  549: [ -11.44737, -988.8344, ]
+
+  550: [ 395.8938, 339.1614, ]
+
+  551: [ -786.6705, -285.1474, ]
+
+  552: [ 570.4962, 472.301, ]
+
+  553: [ -328.5285, -963.7369, ]
+
+  554: [ 578.6222, 525.9863, ]
+
+  555: [ -903.1566, -251.0413, ]
+
+  556: [ 352.873, 251.5167, ]
+
+  557: [ -737.3095, -241.6371, ]
+
+  558: [ 961.4628, 194.9216, ]
+
+  559: [ -305.7789, -47.27292, ]
+
+  560: [ 226.5018, 515.9066, ]
+
+  561: [ -815.2868, -842.2272, ]
+
+  562: [ 525.3367, 311.6108, ]
+
+  563: [ -333.9762, -242.3303, ]
+
+  564: [ 138.5335, 845.6697, ]
+
+  565: [ -332.8647, -170.2056, ]
+
+  566: [ 456.7005, 645.6082, ]
+
+  567: [ -765.6688, -737.0654, ]
+
+  568: [ 595.2241, 857.8861, ]
+
+  569: [ -930.7126, -491.9352, ]
+
+  570: [ 487.1334, 954.7312, ]
+
+  571: [ -251.4576, -167.5658, ]
+
+  572: [ 247.5786, 278.0461, ]
+
+  573: [ -54.29838, -120.6864, ]
+
+  574: [ 592.8796, 376.0476, ]
+
+  575: [ -528.0505, -232.4633, ]
+
+  576: [ 944.3345, 10.11743, ]
+
+  577: [ -429.5185, -43.61882, ]
+
+  578: [ 917.4464, 101.44, ]
+
+  579: [ -522.5214, -902.5953, ]
+
+  580: [ 16.51467, 920.1024, ]
+
+  581: [ -562.1232, -160.4611, ]
+
+  582: [ 604.1951, 868.8607, ]
+
+  583: [ -706.8043, -941.0275, ]
+
+  584: [ 259.4641, 849.7745, ]
+
+  585: [ -812.6846, -161.1689, ]
+
+  586: [ 791.4522, 766.4211, ]
+
+  587: [ -937.6898, -239.6471, ]
+
+  588: [ 752.8172, 748.9169, ]
+
+  589: [ -598.6242, -46.56752, ]
+
+  590: [ 76.99828, 660.2955, ]
+
+  591: [ -110.1612, -586.152, ]
+
+  592: [ 480.059, 456.9954, ]
+
+  593: [ -352.1523, -721.6389, ]
+
+  594: [ 623.2795, 584.1878, ]
+
+  595: [ -459.161, -444.9394, ]
+
+  596: [ 119.03, 96.67263, ]
+
+  597: [ -537.1043, -776.8765, ]
+
+  598: [ 112.3929, 962.7291, ]
+
+  599: [ -986.6971, -587.0701, ]
+
+  600: [ 418.8579, 886.1893, ]
+
+  601: [ -744.2584, -184.0824, ]
+
+  602: [ 749.6833, 873.7601, ]
+
+  603: [ -927.1043, -285.0682, ]
+
+  604: [ 842.0303, 140.8948, ]
+
+  605: [ -2.551416, -18.29356, ]
+
+  606: [ 881.6633, 459.7851, ]
+
+  607: [ -114.9977, -607.8987, ]
+
+  608: [ 766.5772, 954.6226, ]
+
+  609: [ -862.7252, -342.7773, ]
+
+  610: [ 822.4532, 58.90042, ]
+
+  611: [ -970.7491, -939.3687, ]
+
+  612: [ 379.8608, 969.9385, ]
+
+  613: [ -320.6758, -756.1555, ]
+
+  614: [ 598.926, 705.1923, ]
+
+  615: [ -148.1647, -167.9469, ]
+
+  616: [ 203.8287, 682.9197, ]
+
+  617: [ -749.0232, -831.9069, ]
+
+  618: [ 832.9833, 859.1777, ]
+
+  619: [ -949.6659, -199.5756, ]
+
+  620: [ 34.57497, 266.9657, ]
+
+  621: [ -101.5077, -891.8933, ]
+
+  622: [ 40.1816, 51.0561, ]
+
+  623: [ -332.2224, -99.8036, ]
+
+  624: [ 660.858, 399.0433, ]
+
+  625: [ -41.48612, -720.405, ]
+
+  626: [ 257.2871, 847.5181, ]
+
+  627: [ -224.3849, -236.8531, ]
+
+  628: [ 237.2696, 791.0379, ]
+
+  629: [ -789.6121, -973.8334, ]
+
+  630: [ 10.12467, 218.1541, ]
+
+  631: [ -165.4206, -516.567, ]
+
+  632: [ 224.0369, 941.5136, ]
+
+  633: [ -388.2247, -18.91532, ]
+
+  634: [ 892.1055, 909.8194, ]
+
+  635: [ -616.9769, -334.9123, ]
+
+  636: [ 530.6775, 871.3984, ]
+
+  637: [ -96.38968, -593.0261, ]
+
+  638: [ 21.36319, 988.3792, ]
+
+  639: [ -51.13298, -689.5663, ]
+
+  640: [ 391.9607, 541.025, ]
+
+  641: [ -682.4791, -7.518435, ]
+
+  642: [ 425.9154, 362.3432, ]
+
+  643: [ -360.2491, -902.1655, ]
+
+  644: [ 706.0516, 695.8549, ]
+
+  645: [ -609.5782, -232.0487, ]
+
+  646: [ 181.1043, 42.1287, ]
+
+  647: [ -819.5032, -57.00362, ]
+
+  648: [ 391.0598, 59.77271, ]
+
+  649: [ -542.7121, -599.841, ]
+
+  650: [ 362.4151, 527.7551, ]
+
+  651: [ -111.0969, -979.7711, ]
+
+  652: [ 206.4515, 12.06334, ]
+
+  653: [ -830.5628, -748.5759, ]
+
+  654: [ 269.3568, 315.1373, ]
+
+  655: [ -79.39944, -512.6691, ]
+
+  656: [ 466.3256, 429.7862, ]
+
+  657: [ -534.663, -416.4348, ]
+
+  658: [ 81.70502, 20.03546, ]
+
+  659: [ -216.2842, -735.9785, ]
+
+  660: [ 89.00642, 590.4594, ]
+
+  661: [ -930.9836, -850.6215, ]
+
+  662: [ 42.71427, 395.065, ]
+
+  663: [ -898.7178, -857.095, ]
+
+  664: [ 749.1273, 195.1764, ]
+
+  665: [ -581.7385, -330.3474, ]
+
+  666: [ 279.1997, 148.9214, ]
+
+  667: [ -510.1875, -922.0622, ]
+
+  668: [ 721.5852, 100.1075, ]
+
+  669: [ -682.778, -506.211, ]
+
+  670: [ 448.6523, 887.8979, ]
+
+  671: [ -498.0835, -900.9644, ]
+
+  672: [ 289.282, 508.291, ]
+
+  673: [ -963.3929, -846.7164, ]
+
+  674: [ 743.8255, 761.5045, ]
+
+  675: [ -475.4722, -605.8665, ]
+
+  676: [ 261.4524, 797.3419, ]
+
+  677: [ -230.9214, -924.8099, ]
+
+  678: [ 96.0853, 280.3976, ]
+
+  679: [ -905.6178, -642.0042, ]
+
+  680: [ 718.2242, 163.2526, ]
+
+  681: [ -195.0813, -786.6921, ]
+
+  682: [ 730.4966, 934.8997, ]
+
+  683: [ -457.3447, -859.4822, ]
+
+  684: [ 593.3098, 318.0289, ]
+
+  685: [ -757.4399, -111.9491, ]
+
+  686: [ 293.0737, 528.2142, ]
+
+  687: [ -688.9471, -695.9842, ]
+
+  688: [ 134.607, 405.8384, ]
+
+  689: [ -340.5982, -925.8611, ]
+
+  690: [ 434.028, 946.4539, ]
+
+  691: [ -709.1021, -51.21471, ]
+
+  692: [ 878.1901, 765.5667, ]
+
+  693: [ -741.3965, -879.6761, ]
+
+  694: [ 650.6884, 716.0139, ]
+
+  695: [ -118.7078, -44.90295, ]
+
+  696: [ 121.4916, 683.8898, ]
+
+  697: [ -909.1314, -136.3707, ]
+
+  698: [ 771.8978, 981.696, ]
+
+  699: [ -287.0708, -365.9608, ]
+
+  700: [ 798.9862, 703.2482, ]
+
+  701: [ -561.5198, -492.8787, ]
+
+  702: [ 464.0224, 812.0354, ]
+
+  703: [ -823.8989, -878.5586, ]
+
+  704: [ 268.6047, 934.3477, ]
+
+  705: [ -438.4591, -581.6815, ]
+
+  706: [ 182.4371, 320.9235, ]
+
+  707: [ -219.5973, -760.3317, ]
+
+  708: [ 772.1758, 894.725, ]
+
+  709: [ -959.1315, -643.325, ]
+
+  710: [ 123.1473, 362.569, ]
+
+  711: [ -737.0787, -697.3911, ]
+
+  712: [ 81.37592, 52.38351, ]
+
+  713: [ -685.0134, -409.7301, ]
+
+  714: [ 20.31182, 333.3021, ]
+
+  715: [ -380.733, -807.9074, ]
+
+  716: [ 979.2776, 500.0804, ]
+
+  717: [ -719.2112, -851.4926, ]
+
+  718: [ 782.1083, 37.17661, ]
+
+  719: [ -893.3182, -827.2606, ]
+
+  720: [ 998.2825, 768.7061, ]
+
+  721: [ -133.9553, -644.0089, ]
+
+  722: [ 386.7648, 857.6115, ]
+
+  723: [ -356.5161, -876.0287, ]
+
+  724: [ 966.526, 414.2, ]
+
+  725: [ -401.6493, -460.1937, ]
+
+  726: [ 519.311, 475.3891, ]
+
+  727: [ -59.74841, -864.5003, ]
+
+  728: [ 191.5863, 656.5024, ]
+
+  729: [ -990.5743, -835.3107, ]
+
+  730: [ 583.744, 67.62038, ]
+
+  731: [ -986.5817, -495.7168, ]
+
+  732: [ 478.4035, 513.036, ]
+
+  733: [ -528.1417, -595.8147, ]
+
+  734: [ 477.3089, 857.4368, ]
+
+  735: [ -130.6955, -939.9427, ]
+
+  736: [ 598.7208, 618.3647, ]
+
+  737: [ -699.8116, -856.7563, ]
+
+  738: [ 733.6083, 502.4476, ]
+
+  739: [ -754.8268, -637.0834, ]
+
+  740: [ 374.3069, 460.8738, ]
+
+  741: [ -975.4914, -906.404, ]
+
+  742: [ 84.36451, 932.4931, ]
+
+  743: [ -914.2913, -411.178, ]
+
+  744: [ 493.8764, 669.0451, ]
+
+  745: [ -580.7358, -640.9381, ]
+
+  746: [ 428.0563, 247.2064, ]
+
+  747: [ -341.6295, -797.4527, ]
+
+  748: [ 767.8394, 787.3841, ]
+
+  749: [ -76.13039, -563.9844, ]
+
+  750: [ 523.3664, 885.8173, ]
+
+  751: [ -218.98, -932.1987, ]
+
+  752: [ 397.0399, 463.2221, ]
+
+  753: [ -48.75048, -374.7764, ]
+
+  754: [ 349.305, 866.5613, ]
+
+  755: [ -768.5925, -295.4023, ]
+
+  756: [ 734.3591, 825.6849, ]
+
+  757: [ -374.2289, -286.4405, ]
+
+  758: [ 666.2025, 204.8997, ]
+
+  759: [ -864.7104, -749.9777, ]
+
+  760: [ 188.7306, 875.6863, ]
+
+  761: [ -996.0067, -659.322, ]
+
+  762: [ 884.0547, 225.354, ]
+
+  763: [ -307.8571, -525.478, ]
+
+  764: [ 153.6938, 708.1445, ]
+
+  765: [ -131.625, -784.2557, ]
+
+  766: [ 221.8052, 985.3792, ]
+
+  767: [ -879.4187, -267.4702, ]
+
+  768: [ 389.4326, 370.9739, ]
+
+  769: [ -193.3239, -959.1926, ]
+
+  770: [ 194.0686, 150.2644, ]
+
+  771: [ -711.7906, -493.319, ]
+
+  772: [ 64.74264, 212.6501, ]
+
+  773: [ -129.6157, -11.02678, ]
+
+  774: [ 451.4679, 327.0153, ]
+
+  775: [ -821.2348, -146.4283, ]
+
+  776: [ 493.6644, 20.62039, ]
+
+  777: [ -17.13169, -566.9236, ]
+
+  778: [ 932.3677, 283.8174, ]
+
+  779: [ -303.4585, -119.5956, ]
+
+  780: [ 227.3203, 43.92811, ]
+
+  781: [ -571.6178, -299.7928, ]
+
+  782: [ 180.1781, 616.858, ]
+
+  783: [ -252.7452, -531.1575, ]
+
+  784: [ 888.9141, 164.5859, ]
+
+  785: [ -978.3917, -195.6222, ]
+
+  786: [ 828.9175, 822.1785, ]
+
+  787: [ -617.1428, -354.3104, ]
+
+  788: [ 319.4164, 894.7601, ]
+
+  789: [ -430.2876, -232.1418, ]
+
+  790: [ 843.3997, 608.0599, ]
+
+  791: [ -18.04073, -663.8065, ]
+
+  792: [ 210.5988, 595.0588, ]
+
+  793: [ -533.5067, -152.8368, ]
+
+  794: [ 645.8326, 727.6854, ]
+
+  795: [ -509.3519, -209.6083, ]
+
+  796: [ 677.1578, 887.054, ]
+
+  797: [ -990.4172, -716.5858, ]
+
+  798: [ 942.3679, 657.2027, ]
+
+  799: [ -377.6967, -606.0605, ]
+
+  800: [ 948.9786, 59.45866, ]
+
+  801: [ -484.5679, -321.8237, ]
+
+  802: [ 132.984, 890.347, ]
+
+  803: [ -62.18729, -62.14127, ]
+
+  804: [ 181.8822, 408.2456, ]
+
+  805: [ -894.4627, -384.1047, ]
+
+  806: [ 234.5277, 648.4286, ]
+
+  807: [ -706.5255, -140.9848, ]
+
+  808: [ 573.6603, 532.2421, ]
+
+  809: [ -508.1676, -392.5991, ]
+
+  810: [ 772.9476, 412.6348, ]
+
+  811: [ -930.7046, -153.4422, ]
+
+  812: [ 352.4338, 902.7168, ]
+
+  813: [ -354.5858, -961.8221, ]
+
+  814: [ 524.3784, 344.0185, ]
+
+  815: [ -226.8778, -918.499, ]
+
+  816: [ 135.9565, 211.4933, ]
+
+  817: [ -21.49458, -568.369, ]
+
+  818: [ 259.4448, 576.8207, ]
+
+  819: [ -488.8765, -624.7653, ]
+
+  820: [ 547.0056, 430.3896, ]
+
+  821: [ -523.0894, -557.3823, ]
+
+  822: [ 562.259, 925.1819, ]
+
+  823: [ -886.9435, -531.7648, ]
+
+  824: [ 859.6231, 371.048, ]
+
+  825: [ -686.21, -203.5932, ]
+
+  826: [ 131.2633, 790.1169, ]
+
+  827: [ -142.6572, -495.1534, ]
+
+  828: [ 639.4029, 42.27611, ]
+
+  829: [ -444.2069, -534.5425, ]
+
+  830: [ 786.0521, 56.60067, ]
+
+  831: [ -176.8743, -287.451, ]
+
+  832: [ 725.8919, 189.4672, ]
+
+  833: [ -65.00881, -374.748, ]
+
+  834: [ 603.0588, 388.9649, ]
+
+  835: [ -609.6415, -333.4186, ]
+
+  836: [ 244.927, 766.5033, ]
+
+  837: [ -487.97, -620.7899, ]
+
+  838: [ 311.2952, 617.0039, ]
+
+  839: [ -937.8442, -984.5912, ]
+
+  840: [ 347.4621, 25.02641, ]
+
+  841: [ -795.3762, -618.8398, ]
+
+  842: [ 887.0443, 841.4843, ]
+
+  843: [ -553.7973, -826.196, ]
+
+  844: [ 671.2094, 877.3677, ]
+
+  845: [ -15.35888, -919.5667, ]
+
+  846: [ 136.7146, 156.098, ]
+
+  847: [ -763.2855, -538.9974, ]
+
+  848: [ 539.2714, 928.157, ]
+
+  849: [ -534.124, -534.5945, ]
+
+  850: [ 22.13476, 930.2505, ]
+
+  851: [ -18.86334, -719.2037, ]
+
+  852: [ 36.19312, 655.9785, ]
+
+  853: [ -297.7731, -30.32444, ]
+
+  854: [ 671.7031, 662.91, ]
+
+  855: [ -313.3999, -528.4292, ]
+
+  856: [ 312.7359, 309.9667, ]
+
+  857: [ -151.4333, -610.2692, ]
+
+  858: [ 138.6955, 795.491, ]
+
+  859: [ -54.63329, -817.8723, ]
+
+  860: [ 221.7453, 978.4345, ]
+
+  861: [ -872.9633, -549.0375, ]
+
+  862: [ 892.9529, 672.1054, ]
+
+  863: [ -860.1002, -76.32214, ]
+
+  864: [ 704.4036, 746.2261, ]
+
+  865: [ -910.5939, -822.4484, ]
+
+  866: [ 351.2992, 890.6931, ]
+
+  867: [ -286.0598, -879.8259, ]
+
+  868: [ 806.6081, 233.8351, ]
+
+  869: [ -662.037, -66.72649, ]
+
+  870: [ 856.6322, 472.0932, ]
+
+  871: [ -416.9706, -470.3118, ]
+
+  872: [ 25.75248, 529.644, ]
+
+  873: [ -821.8792, -725.7944, ]
+
+  874: [ 323.0507, 426.7306, ]
+
+  875: [ -512.2744, -60.94239, ]
+
+  876: [ 794.7155, 258.7571, ]
+
+  877: [ -784.2516, -930.1117, ]
+
+  878: [ 917.5637, 387.697, ]
+
+  879: [ -492.5359, -22.73948, ]
+
+  880: [ 50.85713, 182.4212, ]
+
+  881: [ -755.7995, -954.0095, ]
+
+  882: [ 722.1522, 37.33519, ]
+
+  883: [ -211.9695, -492.5228, ]
+
+  884: [ 571.0507, 830.9205, ]
+
+  885: [ -648.2551, -280.8771, ]
+
+  886: [ 223.6587, 701.3879, ]
+
+  887: [ -32.48498, -225.9622, ]
+
+  888: [ 975.119, 746.1449, ]
+
+  889: [ -824.0596, -457.2009, ]
+
+  890: [ 969.0934, 175.8539, ]
+
+  891: [ -552.2579, -576.2115, ]
+
+  892: [ 798.8604, 387.5221, ]
+
+  893: [ -447.6175, -84.29784, ]
+
+  894: [ 107.4449, 793.7117, ]
+
+  895: [ -826.374, -913.3701, ]
+
+  896: [ 867.9721, 10.704, ]
+
+  897: [ -7.634093, -902.1674, ]
+
+  898: [ 306.2098, 728.5769, ]
+
+  899: [ -468.7578, -191.5409, ]
+
+  900: [ 412.1497, 227.9808, ]
+
+  901: [ -999.915, -673.2052, ]
+
+  902: [ 571.9537, 559.5923, ]
+
+  903: [ -825.9487, -68.19904, ]
+
+  904: [ 719.2803, 221.2955, ]
+
+  905: [ -945.0285, -313.1523, ]
+
+  906: [ 93.25835, 150.3362, ]
+
+  907: [ -393.1075, -699.5738, ]
+
+  908: [ 957.0579, 737.3233, ]
+
+  909: [ -270.5719, -192.5207, ]
+
+  910: [ 502.0126, 695.8983, ]
+
+  911: [ -326.0493, -962.429, ]
+
+  912: [ 909.9287, 543.1316, ]
+
+  913: [ -172.2542, -412.4868, ]
+
+  914: [ 77.15626, 666.0342, ]
+
+  915: [ -765.2805, -36.73802, ]
+
+  916: [ 69.29996, 455.9008, ]
+
+  917: [ -724.5229, -324.4901, ]
+
+  918: [ 56.48496, 704.0356, ]
+
+  919: [ -342.7548, -727.0578, ]
+
+  920: [ 679.8693, 660.2652, ]
+
+  921: [ -564.2889, -77.0467, ]
+
+  922: [ 4.184581, 923.8767, ]
+
+  923: [ -330.2664, -595.4301, ]
+
+  924: [ 787.8845, 393.1062, ]
+
+  925: [ -974.553, -936.1458, ]
+
+  926: [ 312.1565, 801.602, ]
+
+  927: [ -413.6689, -524.5917, ]
+
+  928: [ 534.243, 812.8968, ]
+
+  929: [ -22.62518, -355.8704, ]
+
+  930: [ 261.3528, 113.3084, ]
+
+  931: [ -556.9941, -373.9417, ]
+
+  932: [ 399.3439, 838.757, ]
+
+  933: [ -772.4907, -989.3036, ]
+
+  934: [ 252.0581, 225.105, ]
+
+  935: [ -340.0418, -338.9339, ]
+
+  936: [ 82.84724, 462.2086, ]
+
+  937: [ -413.6949, -340.4645, ]
+
+  938: [ 971.0718, 187.6096, ]
+
+  939: [ -804.2704, -154.6958, ]
+
+  940: [ 372.4111, 971.3499, ]
+
+  941: [ -114.1074, -476.7302, ]
+
+  942: [ 802.7001, 404.9994, ]
+
+  943: [ -979.4756, -825.5376, ]
+
+  944: [ 47.31208, 811.2103, ]
+
+  945: [ -174.2138, -11.71928, ]
+
+  946: [ 11.73902, 965.9377, ]
+
+  947: [ -297.6819, -515.7631, ]
+
+  948: [ 139.5269, 430.6801, ]
+
+  949: [ -29.07736, -441.4124, ]
+
+  950: [ 703.2044, 818.7971, ]
+
+  951: [ -756.4565, -521.8699, ]
+
+  952: [ 763.86, 68.57455, ]
+
+  953: [ -195.7667, -532.5657, ]
+
+  954: [ 250.1844, 832.4266, ]
+
+  955: [ -848.4772, -593.8127, ]
+
+  956: [ 356.2859, 211.1083, ]
+
+  957: [ -97.16899, -98.01208, ]
+
+  958: [ 119.1913, 288.9268, ]
+
+  959: [ -248.0178, -991.9044, ]
+
+  960: [ 434.5255, 937.6234, ]
+
+  961: [ -69.4097, -637.0587, ]
+
+  962: [ 568.8538, 45.39536, ]
+
+  963: [ -725.4877, -959.8449, ]
+
+  964: [ 270.562, 112.7537, ]
+
+  965: [ -335.3579, -51.6246, ]
+
+  966: [ 360.3885, 654.7126, ]
+
+  967: [ -50.19791, -754.6135, ]
+
+  968: [ 676.345, 789.6654, ]
+
+  969: [ -331.6028, -906.2283, ]
+
+  970: [ 248.3668, 979.0874, ]
+
+  971: [ -301.2423, -522.2176, ]
+
+  972: [ 979.2419, 911.0297, ]
+
+  973: [ -118.8191, -675.2547, ]
+
+  974: [ 992.2286, 5.893088, ]
+
+  975: [ -386.6313, -45.1448, ]
+
+  976: [ 112.0621, 748.7417, ]
+
+  977: [ -428.1045, -101.2387, ]
+
+  978: [ 151.7449, 518.3324, ]
+
+  979: [ -375.8279, -612.8291, ]
+
+  980: [ 538.6361, 818.2481, ]
+
+  981: [ -857.1719, -296.1146, ]
+
+  982: [ 488.4918, 797.7603, ]
+
+  983: [ -81.37585, -956.3409, ]
+
+  984: [ 684.0195, 222.3147, ]
+
+  985: [ -315.0127, -443.2823, ]
+
+  986: [ 418.8571, 246.428, ]
+
+  987: [ -730.7109, -716.24, ]
+
+  988: [ 57.77202, 845.2235, ]
+
+  989: [ -974.2916, -671.5186, ]
+
+  990: [ 918.6519, 213.1168, ]
+
+  991: [ -782.4634, -854.1053, ]
+
+  992: [ 863.3118, 948.3362, ]
+
+  993: [ -680.7671, -685.9862, ]
+
+  994: [ 651.7523, 370.5755, ]
+
+  995: [ -0.6466973, -262.3876, ]
+
+  996: [ 869.0504, 948.0084, ]
+
+  997: [ -128.6529, -176.0658, ]
+
+  998: [ 270.1208, 136.9669, ]
+
+  999: [ -919.6617, -3.455829, ]
+
+  
+
+
+
+  Idx i: 2
+
+
+
+testing acc:alpaka::AccCpuSerial<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:float functor:alpaka::test::unit::math::OpMax seed:3448199585
+
+testing acc:alpaka::AccOmp5<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:float functor:alpaka::test::unit::math::OpMax seed:1890240575
+
+DEVID: 0 SGN:3 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58312B sgpr_count:41 vgpr_count:25 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm10TestKernelILm1000EEJRKPfRKNS_4test4unit4math5OpMaxERKPNSA_8ArgsItemIfLNSA_5ArityE2EEEEEclERKNS_7DevOmp5E_l139
+
+testing acc:alpaka::AccCpuSerial<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:float functor:alpaka::test::unit::math::OpMin seed:4265375542
+
+testing acc:alpaka::AccOmp5<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:float functor:alpaka::test::unit::math::OpMin seed:2370596411
+
+DEVID: 0 SGN:3 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58312B sgpr_count:41 vgpr_count:25 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm10TestKernelILm1000EEJRKPfRKNS_4test4unit4math5OpMinERKPNSA_8ArgsItemIfLNSA_5ArityE2EEEEEclERKNS_7DevOmp5E_l139
+
+testing acc:alpaka::AccCpuSerial<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:float functor:alpaka::test::unit::math::OpPow seed:2089106461
+
+testing acc:alpaka::AccOmp5<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:float functor:alpaka::test::unit::math::OpPow seed:1356086572
+
+DEVID: 0 SGN:3 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58312B sgpr_count:41 vgpr_count:25 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm10TestKernelILm1000EEJRKPfRKNS_4test4unit4math5OpPowERKPNSA_8ArgsItemIfLNSA_5ArityE2EEEEEclERKNS_7DevOmp5E_l139
+
+testing acc:alpaka::AccCpuSerial<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:float functor:alpaka::test::unit::math::OpRemainder seed:1352854541
+
+testing acc:alpaka::AccOmp5<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:float functor:alpaka::test::unit::math::OpRemainder seed:635278478
+
+DEVID: 0 SGN:3 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58312B sgpr_count:44 vgpr_count:31 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm10TestKernelILm1000EEJRKPfRKNS_4test4unit4math11OpRemainderERKPNSA_8ArgsItemIfLNSA_5ArityE2EEEEEclERKNS_7DevOmp5E_l139
+
+testing acc:alpaka::AccCpuSerial<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:float functor:LambdaMathTestTemplate<alpaka::AccCpuSerial<std::integral_constant<unsigned long, 1ul>, unsigned long>, float>::operator()<std::tuple<alpaka::test::unit::math::OpAbs, alpaka::test::unit::math::OpAcos, alpaka::test::unit::math::OpArg, alpaka::test::unit::math::OpAsin, alpaka::test::unit::math::OpAtan, alpaka::test::unit::math::OpCbrt, alpaka::test::unit::math::OpCeil, alpaka::test::unit::math::OpCos, alpaka::test::unit::math::OpErf, alpaka::test::unit::math::OpExp, alpaka::test::unit::math::OpFloor, alpaka::test::unit::math::OpLog, alpaka::test::unit::math::OpRound, alpaka::test::unit::math::OpRsqrt, alpaka::test::unit::math::OpSin, alpaka::test::unit::math::OpSqrt, alpaka::test::unit::math::OpTan, alpaka::test::unit::math::OpTrunc, alpaka::test::unit::math::OpIsnan, alpaka::test::unit::math::OpIsinf, alpaka::test::unit::math::OpIsfinite> >() const::{lambda(alpaka::test::unit::math::ArgsItem<float, (alpaka::test::unit::math::Arity)1> const&, alpaka::AccCpuSerial<std::integral_constant<unsigned long, 1ul>, unsigned long> const&)#1} seed:1679702636
+
+testing acc:alpaka::AccCpuSerial<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:float functor:LambdaMathTestTemplate<alpaka::AccCpuSerial<std::integral_constant<unsigned long, 1ul>, unsigned long>, float>::operator()<std::tuple<alpaka::test::unit::math::OpAtan2, alpaka::test::unit::math::OpFmod, alpaka::test::unit::math::OpMax, alpaka::test::unit::math::OpMin, alpaka::test::unit::math::OpPow, alpaka::test::unit::math::OpRemainder> >() const::{lambda(alpaka::test::unit::math::ArgsItem<float, (alpaka::test::unit::math::Arity)2> const&, alpaka::AccCpuSerial<std::integral_constant<unsigned long, 1ul>, unsigned long> const&)#1} seed:1403821736
+
+testing acc:alpaka::AccOmp5<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:float functor:LambdaMathTestTemplate<alpaka::AccOmp5<std::integral_constant<unsigned long, 1ul>, unsigned long>, float>::operator()<std::tuple<alpaka::test::unit::math::OpAbs, alpaka::test::unit::math::OpAcos, alpaka::test::unit::math::OpArg, alpaka::test::unit::math::OpAsin, alpaka::test::unit::math::OpAtan, alpaka::test::unit::math::OpCbrt, alpaka::test::unit::math::OpCeil, alpaka::test::unit::math::OpCos, alpaka::test::unit::math::OpErf, alpaka::test::unit::math::OpExp, alpaka::test::unit::math::OpFloor, alpaka::test::unit::math::OpLog, alpaka::test::unit::math::OpRound, alpaka::test::unit::math::OpRsqrt, alpaka::test::unit::math::OpSin, alpaka::test::unit::math::OpSqrt, alpaka::test::unit::math::OpTan, alpaka::test::unit::math::OpTrunc, alpaka::test::unit::math::OpIsnan, alpaka::test::unit::math::OpIsinf, alpaka::test::unit::math::OpIsfinite> >() const::{lambda(alpaka::test::unit::math::ArgsItem<float, (alpaka::test::unit::math::Arity)1> const&, alpaka::AccOmp5<std::integral_constant<unsigned long, 1ul>, unsigned long> const&)#1} seed:1164144851
+
+DEVID: 0 SGN:3 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58312B sgpr_count:36 vgpr_count:25 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm10TestKernelILm1000EEJRKPfRKZNK22LambdaMathTestTemplateINS_7AccOmp5IS2_mEEfEclISt5tupleIJNS_4test4unit4math5OpAbsENSG_6OpAcosENSG_5OpArgENSG_6OpAsinENSG_6OpAtanENSG_6OpCbrtENSG_6OpCeilENSG_5OpCosENSG_5OpErfENSG_5OpExpENSG_7OpFloorENSG_5OpLogENSG_7OpRoundENSG_7OpRsqrtENSG_5OpSinENSG_6OpSqrtENSG_5OpTanENSG_7OpTruncENSG_7OpIsnanENSG_7OpIsinfENSG_10OpIsfiniteEEEEEvvEUlRKNSG_8ArgsItemIfLNSG_5ArityE1EEERKSA_E_RKPS15_EEclERKNS_7DevOmp5E_l139
+
+testing acc:alpaka::AccOmp5<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:float functor:LambdaMathTestTemplate<alpaka::AccOmp5<std::integral_constant<unsigned long, 1ul>, unsigned long>, float>::operator()<std::tuple<alpaka::test::unit::math::OpAtan2, alpaka::test::unit::math::OpFmod, alpaka::test::unit::math::OpMax, alpaka::test::unit::math::OpMin, alpaka::test::unit::math::OpPow, alpaka::test::unit::math::OpRemainder> >() const::{lambda(alpaka::test::unit::math::ArgsItem<float, (alpaka::test::unit::math::Arity)2> const&, alpaka::AccOmp5<std::integral_constant<unsigned long, 1ul>, unsigned long> const&)#1} seed:595620980
+
+DEVID: 0 SGN:3 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58312B sgpr_count:41 vgpr_count:25 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm10TestKernelILm1000EEJRKPfRKZNK22LambdaMathTestTemplateINS_7AccOmp5IS2_mEEfEclISt5tupleIJNS_4test4unit4math7OpAtan2ENSG_6OpFmodENSG_5OpMaxENSG_5OpMinENSG_5OpPowENSG_11OpRemainderEEEEEvvEUlRKNSG_8ArgsItemIfLNSG_5ArityE2EEERKSA_E_RKPSQ_EEclERKNS_7DevOmp5E_l139
+
+testing acc:alpaka::AccCpuSerial<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:double functor:LambdaMathTestTemplate<alpaka::AccCpuSerial<std::integral_constant<unsigned long, 1ul>, unsigned long>, double>::operator()<std::tuple<alpaka::test::unit::math::OpAbs, alpaka::test::unit::math::OpAcos, alpaka::test::unit::math::OpArg, alpaka::test::unit::math::OpAsin, alpaka::test::unit::math::OpAtan, alpaka::test::unit::math::OpCbrt, alpaka::test::unit::math::OpCeil, alpaka::test::unit::math::OpCos, alpaka::test::unit::math::OpErf, alpaka::test::unit::math::OpExp, alpaka::test::unit::math::OpFloor, alpaka::test::unit::math::OpLog, alpaka::test::unit::math::OpRound, alpaka::test::unit::math::OpRsqrt, alpaka::test::unit::math::OpSin, alpaka::test::unit::math::OpSqrt, alpaka::test::unit::math::OpTan, alpaka::test::unit::math::OpTrunc, alpaka::test::unit::math::OpIsnan, alpaka::test::unit::math::OpIsinf, alpaka::test::unit::math::OpIsfinite> >() const::{lambda(alpaka::test::unit::math::ArgsItem<double, (alpaka::test::unit::math::Arity)1> const&, alpaka::AccCpuSerial<std::integral_constant<unsigned long, 1ul>, unsigned long> const&)#1} seed:2178349065
+
+testing acc:alpaka::AccCpuSerial<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:double functor:LambdaMathTestTemplate<alpaka::AccCpuSerial<std::integral_constant<unsigned long, 1ul>, unsigned long>, double>::operator()<std::tuple<alpaka::test::unit::math::OpAtan2, alpaka::test::unit::math::OpFmod, alpaka::test::unit::math::OpMax, alpaka::test::unit::math::OpMin, alpaka::test::unit::math::OpPow, alpaka::test::unit::math::OpRemainder> >() const::{lambda(alpaka::test::unit::math::ArgsItem<double, (alpaka::test::unit::math::Arity)2> const&, alpaka::AccCpuSerial<std::integral_constant<unsigned long, 1ul>, unsigned long> const&)#1} seed:733458960
+
+testing acc:alpaka::AccOmp5<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:double functor:LambdaMathTestTemplate<alpaka::AccOmp5<std::integral_constant<unsigned long, 1ul>, unsigned long>, double>::operator()<std::tuple<alpaka::test::unit::math::OpAbs, alpaka::test::unit::math::OpAcos, alpaka::test::unit::math::OpArg, alpaka::test::unit::math::OpAsin, alpaka::test::unit::math::OpAtan, alpaka::test::unit::math::OpCbrt, alpaka::test::unit::math::OpCeil, alpaka::test::unit::math::OpCos, alpaka::test::unit::math::OpErf, alpaka::test::unit::math::OpExp, alpaka::test::unit::math::OpFloor, alpaka::test::unit::math::OpLog, alpaka::test::unit::math::OpRound, alpaka::test::unit::math::OpRsqrt, alpaka::test::unit::math::OpSin, alpaka::test::unit::math::OpSqrt, alpaka::test::unit::math::OpTan, alpaka::test::unit::math::OpTrunc, alpaka::test::unit::math::OpIsnan, alpaka::test::unit::math::OpIsinf, alpaka::test::unit::math::OpIsfinite> >() const::{lambda(alpaka::test::unit::math::ArgsItem<double, (alpaka::test::unit::math::Arity)1> const&, alpaka::AccOmp5<std::integral_constant<unsigned long, 1ul>, unsigned long> const&)#1} seed:564998685
+
+DEVID: 0 SGN:3 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58312B sgpr_count:36 vgpr_count:25 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm10TestKernelILm1000EEJRKPdRKZNK22LambdaMathTestTemplateINS_7AccOmp5IS2_mEEdEclISt5tupleIJNS_4test4unit4math5OpAbsENSG_6OpAcosENSG_5OpArgENSG_6OpAsinENSG_6OpAtanENSG_6OpCbrtENSG_6OpCeilENSG_5OpCosENSG_5OpErfENSG_5OpExpENSG_7OpFloorENSG_5OpLogENSG_7OpRoundENSG_7OpRsqrtENSG_5OpSinENSG_6OpSqrtENSG_5OpTanENSG_7OpTruncENSG_7OpIsnanENSG_7OpIsinfENSG_10OpIsfiniteEEEEEvvEUlRKNSG_8ArgsItemIdLNSG_5ArityE1EEERKSA_E_RKPS15_EEclERKNS_7DevOmp5E_l139
+
+testing acc:alpaka::AccOmp5<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:double functor:LambdaMathTestTemplate<alpaka::AccOmp5<std::integral_constant<unsigned long, 1ul>, unsigned long>, double>::operator()<std::tuple<alpaka::test::unit::math::OpAtan2, alpaka::test::unit::math::OpFmod, alpaka::test::unit::math::OpMax, alpaka::test::unit::math::OpMin, alpaka::test::unit::math::OpPow, alpaka::test::unit::math::OpRemainder> >() const::{lambda(alpaka::test::unit::math::ArgsItem<double, (alpaka::test::unit::math::Arity)2> const&, alpaka::AccOmp5<std::integral_constant<unsigned long, 1ul>, unsigned long> const&)#1} seed:1827079743
+
+DEVID: 0 SGN:3 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58312B sgpr_count:98 vgpr_count:51 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm10TestKernelILm1000EEJRKPdRKZNK22LambdaMathTestTemplateINS_7AccOmp5IS2_mEEdEclISt5tupleIJNS_4test4unit4math7OpAtan2ENSG_6OpFmodENSG_5OpMaxENSG_5OpMinENSG_5OpPowENSG_11OpRemainderEEEEEvvEUlRKNSG_8ArgsItemIdLNSG_5ArityE2EEERKSA_E_RKPSQ_EEclERKNS_7DevOmp5E_l139
+
+testing acc:alpaka::AccCpuSerial<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:alpaka::Complex<float> functor:LambdaMathTestTemplate<alpaka::AccCpuSerial<std::integral_constant<unsigned long, 1ul>, unsigned long>, alpaka::Complex<float> >::operator()<std::tuple<alpaka::test::unit::math::OpAbs, alpaka::test::unit::math::OpAcos, alpaka::test::unit::math::OpArg, alpaka::test::unit::math::OpAsin, alpaka::test::unit::math::OpAtan, alpaka::test::unit::math::OpConj, alpaka::test::unit::math::OpCos, alpaka::test::unit::math::OpExp, alpaka::test::unit::math::OpLog, alpaka::test::unit::math::OpRsqrt, alpaka::test::unit::math::OpSin, alpaka::test::unit::math::OpSqrt, alpaka::test::unit::math::OpTan> >() const::{lambda(alpaka::test::unit::math::ArgsItem<alpaka::Complex<float>, (alpaka::test::unit::math::Arity)1> const&, alpaka::AccCpuSerial<std::integral_constant<unsigned long, 1ul>, unsigned long> const&)#1} seed:1716853918
+
+testing acc:alpaka::AccCpuSerial<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:alpaka::Complex<float> functor:LambdaMathTestTemplate<alpaka::AccCpuSerial<std::integral_constant<unsigned long, 1ul>, unsigned long>, alpaka::Complex<float> >::operator()<std::tuple<alpaka::test::unit::math::OpDivides, alpaka::test::unit::math::OpMinus, alpaka::test::unit::math::OpMultiplies, alpaka::test::unit::math::OpPlus, alpaka::test::unit::math::OpPowComplex> >() const::{lambda(alpaka::test::unit::math::ArgsItem<alpaka::Complex<float>, (alpaka::test::unit::math::Arity)2> const&, alpaka::AccCpuSerial<std::integral_constant<unsigned long, 1ul>, unsigned long> const&)#1} seed:1163265131
+
+testing acc:alpaka::AccOmp5<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:alpaka::Complex<float> functor:LambdaMathTestTemplate<alpaka::AccOmp5<std::integral_constant<unsigned long, 1ul>, unsigned long>, alpaka::Complex<float> >::operator()<std::tuple<alpaka::test::unit::math::OpAbs, alpaka::test::unit::math::OpAcos, alpaka::test::unit::math::OpArg, alpaka::test::unit::math::OpAsin, alpaka::test::unit::math::OpAtan, alpaka::test::unit::math::OpConj, alpaka::test::unit::math::OpCos, alpaka::test::unit::math::OpExp, alpaka::test::unit::math::OpLog, alpaka::test::unit::math::OpRsqrt, alpaka::test::unit::math::OpSin, alpaka::test::unit::math::OpSqrt, alpaka::test::unit::math::OpTan> >() const::{lambda(alpaka::test::unit::math::ArgsItem<alpaka::Complex<float>, (alpaka::test::unit::math::Arity)1> const&, alpaka::AccOmp5<std::integral_constant<unsigned long, 1ul>, unsigned long> const&)#1} seed:341744105
+
+DEVID: 0 SGN:3 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58312B sgpr_count:84 vgpr_count:40 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm10TestKernelILm1000EEJRKPNS_7ComplexIfEERKZNK22LambdaMathTestTemplateINS_7AccOmp5IS2_mEES6_EclISt5tupleIJNS_4test4unit4math5OpAbsENSI_6OpAcosENSI_5OpArgENSI_6OpAsinENSI_6OpAtanENSI_6OpConjENSI_5OpCosENSI_5OpExpENSI_5OpLogENSI_7OpRsqrtENSI_5OpSinENSI_6OpSqrtENSI_5OpTanEEEEEvvEUlRKNSI_8ArgsItemIS6_LNSI_5ArityE1EEERKSC_E_RKPSZ_EEclERKNS_7DevOmp5E_l139
+
+testing acc:alpaka::AccOmp5<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:alpaka::Complex<float> functor:LambdaMathTestTemplate<alpaka::AccOmp5<std::integral_constant<unsigned long, 1ul>, unsigned long>, alpaka::Complex<float> >::operator()<std::tuple<alpaka::test::unit::math::OpDivides, alpaka::test::unit::math::OpMinus, alpaka::test::unit::math::OpMultiplies, alpaka::test::unit::math::OpPlus, alpaka::test::unit::math::OpPowComplex> >() const::{lambda(alpaka::test::unit::math::ArgsItem<alpaka::Complex<float>, (alpaka::test::unit::math::Arity)2> const&, alpaka::AccOmp5<std::integral_constant<unsigned long, 1ul>, unsigned long> const&)#1} seed:3823260505
+
+DEVID: 0 SGN:3 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58312B sgpr_count:44 vgpr_count:24 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm10TestKernelILm1000EEJRKPNS_7ComplexIfEERKZNK22LambdaMathTestTemplateINS_7AccOmp5IS2_mEES6_EclISt5tupleIJNS_4test4unit4math9OpDividesENSI_7OpMinusENSI_12OpMultipliesENSI_6OpPlusENSI_12OpPowComplexEEEEEvvEUlRKNSI_8ArgsItemIS6_LNSI_5ArityE2EEERKSC_E_RKPSR_EEclERKNS_7DevOmp5E_l139
+
+testing acc:alpaka::AccCpuSerial<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:alpaka::Complex<double> functor:LambdaMathTestTemplate<alpaka::AccCpuSerial<std::integral_constant<unsigned long, 1ul>, unsigned long>, alpaka::Complex<double> >::operator()<std::tuple<alpaka::test::unit::math::OpAbs, alpaka::test::unit::math::OpAcos, alpaka::test::unit::math::OpArg, alpaka::test::unit::math::OpAsin, alpaka::test::unit::math::OpAtan, alpaka::test::unit::math::OpConj, alpaka::test::unit::math::OpCos, alpaka::test::unit::math::OpExp, alpaka::test::unit::math::OpLog, alpaka::test::unit::math::OpRsqrt, alpaka::test::unit::math::OpSin, alpaka::test::unit::math::OpSqrt, alpaka::test::unit::math::OpTan> >() const::{lambda(alpaka::test::unit::math::ArgsItem<alpaka::Complex<double>, (alpaka::test::unit::math::Arity)1> const&, alpaka::AccCpuSerial<std::integral_constant<unsigned long, 1ul>, unsigned long> const&)#1} seed:230817527
+
+testing acc:alpaka::AccCpuSerial<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:alpaka::Complex<double> functor:LambdaMathTestTemplate<alpaka::AccCpuSerial<std::integral_constant<unsigned long, 1ul>, unsigned long>, alpaka::Complex<double> >::operator()<std::tuple<alpaka::test::unit::math::OpDivides, alpaka::test::unit::math::OpMinus, alpaka::test::unit::math::OpMultiplies, alpaka::test::unit::math::OpPlus, alpaka::test::unit::math::OpPowComplex> >() const::{lambda(alpaka::test::unit::math::ArgsItem<alpaka::Complex<double>, (alpaka::test::unit::math::Arity)2> const&, alpaka::AccCpuSerial<std::integral_constant<unsigned long, 1ul>, unsigned long> const&)#1} seed:1142024706
+
+testing acc:alpaka::AccOmp5<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:alpaka::Complex<double> functor:LambdaMathTestTemplate<alpaka::AccOmp5<std::integral_constant<unsigned long, 1ul>, unsigned long>, alpaka::Complex<double> >::operator()<std::tuple<alpaka::test::unit::math::OpAbs, alpaka::test::unit::math::OpAcos, alpaka::test::unit::math::OpArg, alpaka::test::unit::math::OpAsin, alpaka::test::unit::math::OpAtan, alpaka::test::unit::math::OpConj, alpaka::test::unit::math::OpCos, alpaka::test::unit::math::OpExp, alpaka::test::unit::math::OpLog, alpaka::test::unit::math::OpRsqrt, alpaka::test::unit::math::OpSin, alpaka::test::unit::math::OpSqrt, alpaka::test::unit::math::OpTan> >() const::{lambda(alpaka::test::unit::math::ArgsItem<alpaka::Complex<double>, (alpaka::test::unit::math::Arity)1> const&, alpaka::AccOmp5<std::integral_constant<unsigned long, 1ul>, unsigned long> const&)#1} seed:942761205
+
+DEVID: 0 SGN:3 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58312B sgpr_count:104 vgpr_count:60 sgpr_spill_count:20 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm10TestKernelILm1000EEJRKPNS_7ComplexIdEERKZNK22LambdaMathTestTemplateINS_7AccOmp5IS2_mEES6_EclISt5tupleIJNS_4test4unit4math5OpAbsENSI_6OpAcosENSI_5OpArgENSI_6OpAsinENSI_6OpAtanENSI_6OpConjENSI_5OpCosENSI_5OpExpENSI_5OpLogENSI_7OpRsqrtENSI_5OpSinENSI_6OpSqrtENSI_5OpTanEEEEEvvEUlRKNSI_8ArgsItemIS6_LNSI_5ArityE1EEERKSC_E_RKPSZ_EEclERKNS_7DevOmp5E_l139
+
+testing acc:alpaka::AccOmp5<std::integral_constant<unsigned long, 1ul>, unsigned long> data type:alpaka::Complex<double> functor:LambdaMathTestTemplate<alpaka::AccOmp5<std::integral_constant<unsigned long, 1ul>, unsigned long>, alpaka::Complex<double> >::operator()<std::tuple<alpaka::test::unit::math::OpDivides, alpaka::test::unit::math::OpMinus, alpaka::test::unit::math::OpMultiplies, alpaka::test::unit::math::OpPlus, alpaka::test::unit::math::OpPowComplex> >() const::{lambda(alpaka::test::unit::math::ArgsItem<alpaka::Complex<double>, (alpaka::test::unit::math::Arity)2> const&, alpaka::AccOmp5<std::integral_constant<unsigned long, 1ul>, unsigned long> const&)#1} seed:356936324
+
+DEVID: 0 SGN:3 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58320B sgpr_count:108 vgpr_count:64 sgpr_spill_count:32 vgpr_spill_count:6 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm10TestKernelILm1000EEJRKPNS_7ComplexIdEERKZNK22LambdaMathTestTemplateINS_7AccOmp5IS2_mEES6_EclISt5tupleIJNS_4test4unit4math9OpDividesENSI_7OpMinusENSI_12OpMultipliesENSI_6OpPlusENSI_12OpPowComplexEEEEEvvEUlRKNSI_8ArgsItemIS6_LNSI_5ArityE2EEERKSC_E_RKPSR_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58008B sgpr_count:57 vgpr_count:26 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEmNS_12MemSetKernelEJRKhPhRNS_3VecIS2_mEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:9784B sgpr_count:32 vgpr_count:24 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm23PowMixedTypesTestKernelIfEJPbRKfS7_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58008B sgpr_count:57 vgpr_count:26 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEmNS_12MemSetKernelEJRKhPhRNS_3VecIS2_mEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:10120B sgpr_count:108 vgpr_count:42 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm23PowMixedTypesTestKernelIdEJPbRKfRKdEEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58008B sgpr_count:57 vgpr_count:26 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEmNS_12MemSetKernelEJRKhPhRNS_3VecIS2_mEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:10120B sgpr_count:108 vgpr_count:40 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm23PowMixedTypesTestKernelIdEJPbRKdRKfEEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58008B sgpr_count:57 vgpr_count:26 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEmNS_12MemSetKernelEJRKhPhRNS_3VecIS2_mEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:10120B sgpr_count:108 vgpr_count:42 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm23PowMixedTypesTestKernelIdEJPbRKdS7_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58008B sgpr_count:57 vgpr_count:26 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEmNS_12MemSetKernelEJRKhPhRNS_3VecIS2_mEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:10120B sgpr_count:94 vgpr_count:64 sgpr_spill_count:0 vgpr_spill_count:9 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm23PowMixedTypesTestKernelINS_7ComplexIfEEEJPbRKfRS5_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58008B sgpr_count:57 vgpr_count:26 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEmNS_12MemSetKernelEJRKhPhRNS_3VecIS2_mEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:10120B sgpr_count:108 vgpr_count:64 sgpr_spill_count:4 vgpr_spill_count:78 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm23PowMixedTypesTestKernelINS_7ComplexIdEEEJPbRKfRS5_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58008B sgpr_count:57 vgpr_count:26 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEmNS_12MemSetKernelEJRKhPhRNS_3VecIS2_mEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:10120B sgpr_count:108 vgpr_count:64 sgpr_spill_count:4 vgpr_spill_count:71 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm23PowMixedTypesTestKernelINS_7ComplexIdEEEJPbRKdRNS4_IfEEEEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58008B sgpr_count:57 vgpr_count:26 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEmNS_12MemSetKernelEJRKhPhRNS_3VecIS2_mEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:10120B sgpr_count:108 vgpr_count:64 sgpr_spill_count:4 vgpr_spill_count:76 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm23PowMixedTypesTestKernelINS_7ComplexIdEEEJPbRKdRS5_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58008B sgpr_count:57 vgpr_count:26 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEmNS_12MemSetKernelEJRKhPhRNS_3VecIS2_mEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:10120B sgpr_count:100 vgpr_count:64 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm23PowMixedTypesTestKernelINS_7ComplexIfEEEJPbRS5_RKfEEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58008B sgpr_count:57 vgpr_count:26 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEmNS_12MemSetKernelEJRKhPhRNS_3VecIS2_mEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:10120B sgpr_count:108 vgpr_count:64 sgpr_spill_count:6 vgpr_spill_count:72 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm23PowMixedTypesTestKernelINS_7ComplexIdEEEJPbRNS4_IfEERKdEEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58008B sgpr_count:57 vgpr_count:26 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEmNS_12MemSetKernelEJRKhPhRNS_3VecIS2_mEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:10120B sgpr_count:108 vgpr_count:64 sgpr_spill_count:6 vgpr_spill_count:73 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm23PowMixedTypesTestKernelINS_7ComplexIdEEEJPbRS5_RKfEEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58008B sgpr_count:57 vgpr_count:26 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEmNS_12MemSetKernelEJRKhPhRNS_3VecIS2_mEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:10120B sgpr_count:108 vgpr_count:64 sgpr_spill_count:6 vgpr_spill_count:70 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm23PowMixedTypesTestKernelINS_7ComplexIdEEEJPbRS5_RKdEEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58008B sgpr_count:57 vgpr_count:26 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEmNS_12MemSetKernelEJRKhPhRNS_3VecIS2_mEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:10120B sgpr_count:100 vgpr_count:64 sgpr_spill_count:0 vgpr_spill_count:3 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm23PowMixedTypesTestKernelINS_7ComplexIfEEEJPbRS5_S8_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58008B sgpr_count:57 vgpr_count:26 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEmNS_12MemSetKernelEJRKhPhRNS_3VecIS2_mEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:10120B sgpr_count:108 vgpr_count:64 sgpr_spill_count:6 vgpr_spill_count:80 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm23PowMixedTypesTestKernelINS_7ComplexIdEEEJPbRNS4_IfEERS5_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58008B sgpr_count:57 vgpr_count:26 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEmNS_12MemSetKernelEJRKhPhRNS_3VecIS2_mEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:10120B sgpr_count:108 vgpr_count:64 sgpr_spill_count:6 vgpr_spill_count:66 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm23PowMixedTypesTestKernelINS_7ComplexIdEEEJPbRS5_RNS4_IfEEEEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58008B sgpr_count:57 vgpr_count:26 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEmNS_12MemSetKernelEJRKhPhRNS_3VecIS2_mEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:10120B sgpr_count:108 vgpr_count:64 sgpr_spill_count:6 vgpr_spill_count:77 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm23PowMixedTypesTestKernelINS_7ComplexIdEEEJPbRS5_S8_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58008B sgpr_count:57 vgpr_count:26 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEmNS_12MemSetKernelEJRKhPhRNS_3VecIS2_mEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:10120B sgpr_count:65 vgpr_count:34 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm16SinCosTestKernelJPbfEEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58008B sgpr_count:57 vgpr_count:26 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEmNS_12MemSetKernelEJRKhPhRNS_3VecIS2_mEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:10120B sgpr_count:89 vgpr_count:49 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm16SinCosTestKernelJPbdEEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58008B sgpr_count:57 vgpr_count:26 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEmNS_12MemSetKernelEJRKhPhRNS_3VecIS2_mEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:10120B sgpr_count:81 vgpr_count:48 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm16SinCosTestKernelJPbNS_7ComplexIfEEEEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58008B sgpr_count:57 vgpr_count:26 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEmNS_12MemSetKernelEJRKhPhRNS_3VecIS2_mEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:10120B sgpr_count:108 vgpr_count:64 sgpr_spill_count:0 vgpr_spill_count:2 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm16SinCosTestKernelJPbNS_7ComplexIdEEEEclERKNS_7DevOmp5E_l139
+
+===============================================================================
+
+test cases:    238 |    237 passed | 1 failed
+
+assertions: 195171 | 195170 passed | 1 failed
+
+
+
+

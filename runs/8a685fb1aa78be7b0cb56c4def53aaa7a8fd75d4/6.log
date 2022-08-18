@@ -1,0 +1,11 @@
+Randomness seeded to: 1033160774
+
+SharedMemKernel( accelerator: AccCpuSerial<1,unsigned int>, kernel: 15SharedMemKernelISt17integral_constantIjLj100EEiE, workDiv: {gridBlockExtent: (65536), blockThreadExtent: (1), threadElemExtent: (1)})
+
+Execution time: 0 ms
+
+SharedMemKernel( accelerator: AccOmp5<1,unsigned int>, kernel: 15SharedMemKernelISt17integral_constantIjLj100EEiE, workDiv: {gridBlockExtent: (2048), blockThreadExtent: (32), threadElemExtent: (1)})
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58240B sgpr_count:52 vgpr_count:23 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:2048 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEj15SharedMemKernelIS1_IjLj100EEiEJPiEEclERKNS_7DevOmp5E_l139
+
+
