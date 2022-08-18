@@ -45,66 +45,77 @@ except OSError:
 	raise RuntimeError("Not inside a cmake build dir.")
 
 OUTDIR = "testOut"
-os.mkdir(OUTDIR)
+os.makedirs(OUTDIR, exist_ok=True)
 
-f = subprocess.run("make -k 2>&1", stdout=subprocess.PIPE, shell=True)
+with open('make.log', 'w') as f:
+	subprocess.run("make -k", stdout=f, stderr=f, shell=True)
 # f = subprocess.run("cat /home/kelling/checkout/alpaka/buildClang15_hsa/log 2>&1", stdout=subprocess.PIPE, shell=True)
 log = []
-for line in f.stdout.decode("utf-8").strip().split('\n'):
-	match = RE_step.match(line)
-	if match:
-		action = match.groups()[1]
-		target = match.groups()[2]
-		if action == "Building CXX object":
-			match = RE_targetFromObject.match(target)
-			if not match:
-				raise RuntimeError("Invalid 'building object' line: '{}'.".format(target))
-			target = match.groups()[0]
+with open('make.log', 'r') as f:
+	for line in f:
+		match = RE_step.match(line)
+		if match:
+			action = match.groups()[1]
+			target = match.groups()[2]
+			if action == "Building CXX object":
+				match = RE_targetFromObject.match(target)
+				if not match:
+					raise RuntimeError("Invalid 'building object' line: '{}'.".format(target))
+				target = match.groups()[0]
 
-		if not action in ActionsMap:
-			raise RuntimeError("Unknown axction '{}'.".format(action))
-		action = ActionsMap[action]
+			if not action in ActionsMap:
+				raise RuntimeError("Unknown action '{}'.".format(action))
+			action = ActionsMap[action]
 
-		if not targets or targets[-1].name != target:
+			if targets:
+				if log:
+					if targets[-1].log is not None:
+						raise RuntimeError("Target '{}' has non-empty log when not closed.".format(target))
+					targets[-1].log = '\n'.join(log)
+					log = []
+				if targets[-1].name == target:
+					targets[-1].action = action
+					continue
+
 			targets.append(TargetInfo(target, action, '\n'.join(log) if log else None))
 			targetsMap[targets[-1].name] = targets[-1]
-			log = []
-		else:
-			targets[-1].action = action
-		continue
 
-	match = RE_targetConsolidate.match(line)
-	if match:
-		continue
+			continue
 
-	log.append(line)
+		match = RE_targetConsolidate.match(line)
+		if match:
+			continue
 
-f = subprocess.run("ctest --output-on-failure --timeout 120 2>&1", stdout=subprocess.PIPE, shell=True)
+		log.append(line)
+
+with open('ctest.log', 'w') as f:
+	subprocess.run("ctest --output-on-failure --timeout 120", stdout=f, stderr=f, shell=True)
 # f = subprocess.run("cat /home/kelling/checkout/alpaka/buildClang15_hsa/ctest.log 2>&1", stdout=subprocess.PIPE, shell=True)
 target = None
 log = []
-for line in f.stdout.decode("utf-8").strip().split('\n'):
-	if target is None:
-		match = RE_ctestResult.match(line)
-		if match:
-			target = match.groups()[2]
-			result = match.groups()[3]
-			targetsMap[target].testResult = result
-			targetsMap[target].testTime = float(match.groups()[4])
-			if result != "Passed":
+with open('ctest.log', 'r') as f:
+	for line in f:
+		if target is None:
+			match = RE_ctestResult.match(line)
+			if match:
+				target = match.groups()[2]
+				result = match.groups()[3]
+				targetsMap[target].testResult = result
+				targetsMap[target].testTime = float(match.groups()[4])
+				if result != "Passed":
+					continue
+			else:
 				continue
 		else:
-			continue
-	else:
-		match = RE_ctestStart.match(line)
-		if not match:
-			log.append(line)
-			continue
+			match = RE_ctestStart.match(line)
+			if not match:
+				log.append(line)
+				continue
 
-	if log:
-		targetsMap[target].testLog = '\n'.join(log)
-		log = []
-	target = None
+		if log:
+			targetsMap[target].testLog = '\n'.join(log)
+			log = []
+		target = None
 
 HOSTNAME = socket.gethostname()
 CXX = cmakeCache["CMAKE_CXX_COMPILER"][1]
@@ -124,9 +135,9 @@ m.update(CXX_VERSION.encode())
 ID = m.digest().hex()
 os.mkdir(os.path.join(OUTDIR, ID))
 
-with open(os.path.join(OUTDIR, "out.dat"), 'w') as f:
+with open(os.path.join(OUTDIR, "out.dat"), 'a') as f:
 	DELIM = '\t'
-	f.writelines(DELIM.join(['']*2 + [DELIM.join(x.name for x in targets)]*3 + ['']*2) + '\n')
+	f.writelines(DELIM.join(['arch', 'compiler-version'] + [DELIM.join(x.name for x in targets)]*3 + ['CXX', 'CXX_FLAGS']) + '\n')
 	actions = []
 	results = []
 	c = 0
