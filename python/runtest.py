@@ -2,8 +2,13 @@
 
 import re
 import subprocess
-import os, socket
+import os, socket, sys
 import hashlib
+import argparse
+
+cli = argparse.ArgumentParser(description='runtest.py: compile and run alpaka tests')
+cli.add_argument("--noRun", help="Do not run compile/tests, only read logs.", action='store_true')
+args = cli.parse_args()
 
 RE_step = re.compile("^\[ *([0-9]*)%\] (.*) ([^\s]+)$")
 RE_targetFromObject = re.compile("^.*/([^/]+)\.dir/(.*)\.o$")
@@ -12,7 +17,7 @@ RE_cmakeLog = re.compile("^-- (.*)$")
 
 RE_cmakeCacheLine = re.compile("^([^:]+):([^=]+)=(.*)$")
 
-RE_ctestResult = re.compile("^ *([0-9]+)/([0-9]+) Test.*: ([^ ]+) \.* *([a-zA-Z*]+) *([0-9.]+) ([a-z]+)$")
+RE_ctestResult = re.compile("^ *([0-9]+)/([0-9]+) Test.*: ([^ ]+) \.* *([a-zA-Z*: ]+[a-zA-Z*:]) *([0-9.]+) ([a-z]+)$")
 RE_ctestStart = re.compile("^ *Start.*: ([^ ]+).*$")
 
 class TargetInfo:
@@ -48,8 +53,9 @@ except OSError:
 OUTDIR = "testOut"
 os.makedirs(OUTDIR, exist_ok=True)
 
-with open('make.log', 'w') as f:
-	subprocess.run("make -k", stdout=f, stderr=f, shell=True)
+if not args.noRun:
+	with open('make.log', 'w') as f:
+		subprocess.run("make -k", stdout=f, stderr=f, shell=True)
 # f = subprocess.run("cat /home/kelling/checkout/alpaka/buildClang15_hsa/log 2>&1", stdout=subprocess.PIPE, shell=True)
 log = []
 with open('make.log', 'r') as f:
@@ -93,8 +99,9 @@ with open('make.log', 'r') as f:
 
 		log.append(line)
 
-with open('ctest.log', 'w') as f:
-	subprocess.run("ctest --output-on-failure --timeout 120", stdout=f, stderr=f, shell=True)
+if not args.noRun:
+	with open('ctest.log', 'w') as f:
+		subprocess.run("ctest --output-on-failure --timeout 120", stdout=f, stderr=f, shell=True)
 # f = subprocess.run("cat /home/kelling/checkout/alpaka/buildClang15_hsa/ctest.log 2>&1", stdout=subprocess.PIPE, shell=True)
 target = None
 log = []
