@@ -149,7 +149,7 @@ with open(os.path.join(OUTDIR, "out.dat"), 'a') as f:
 	for t in targets:
 		a = str(t.action)
 		if t.log is not None:
-			logout = "{}/{}.log".format(ID, c)
+			logout = "{}/{}.txt".format(ID, c)
 			a = "{} [{}]".format(a, logout)
 			with open(os.path.join(OUTDIR, logout), 'w') as fl:
 				fl.writelines(t.log)
@@ -158,7 +158,7 @@ with open(os.path.join(OUTDIR, "out.dat"), 'a') as f:
 
 		r = str(t.testResult)
 		if t.testLog is not None:
-			logout = "{}/{}.log".format(ID, c)
+			logout = "{}/{}.txt".format(ID, c)
 			r = "{} [{}]".format(r, logout)
 			with open(os.path.join(OUTDIR, logout), 'w') as fl:
 				fl.writelines(t.testLog)
