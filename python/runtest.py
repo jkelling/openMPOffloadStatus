@@ -149,7 +149,8 @@ for l in CXX_VERSION:
 	if m:
 		CXX_VERSION = m.groups()[0]
 		break
-	elif m := RE_nvcppVersion.match(l):
+	m = RE_nvcppVersion.match(l)
+	if m:
 		CXX_VERSION = m.groups()[0]
 		break
 
