@@ -20,6 +20,9 @@ RE_cmakeCacheLine = re.compile("^([^:]+):([^=]+)=(.*)$")
 RE_ctestResult = re.compile("^ *([0-9]+)/([0-9]+) Test.*: ([^ ]+) \.* *([a-zA-Z*: ]+[a-zA-Z*:]) *([0-9.]+) ([a-z]+)$")
 RE_ctestStart = re.compile("^ *Start.*: ([^ ]+).*$")
 
+RE_clangVersion = re.compile("^(clang version .*)$")
+RE_nvcppVersion = re.compile("^(nvc\+\+ [0-9.-]+).*$")
+
 class TargetInfo:
 	def __init__(self, name, action, log = None):
 		self.name = name
@@ -135,9 +138,20 @@ CXX_FLAGS = cmakeCache["CMAKE_CXX_FLAGS"][1]
 TGTARCH = "??"
 if re.search("amdgcn-amd-amdhsa", CXX_FLAGS):
 	TGTARCH = "HSA"
+elif re.search("ta=tesla", CXX_FLAGS):
+	TGTARCH = "NVPTX"
 
-f = subprocess.run("{} --version | head -n1".format(CXX), stdout=subprocess.PIPE, shell=True)
-CXX_VERSION = f.stdout.decode("utf-8").strip()
+f = subprocess.run("{} --version".format(CXX), stdout=subprocess.PIPE, shell=True)
+CXX_VERSION = f.stdout.decode("utf-8").split(sep='\n')
+for l in CXX_VERSION:
+	l = l.strip()
+	m = RE_clangVersion.match(l)
+	if m:
+		CXX_VERSION = m.groups()[0]
+		break
+	elif m := RE_nvcppVersion.match(l):
+		CXX_VERSION = m.groups()[0]
+		break
 
 m = hashlib.sha1()
 m.update(HOSTNAME.encode())
@@ -149,7 +163,7 @@ os.mkdir(os.path.join(OUTDIR, ID))
 
 with open(os.path.join(OUTDIR, "out.dat"), 'a') as f:
 	DELIM = '\t'
-	f.writelines(DELIM.join(['arch', 'compiler-version'] + [DELIM.join(x.name for x in targets)]*3 + ['CXX', 'CXX_FLAGS']) + '\n')
+	f.writelines(DELIM.join(['arch', 'compiler-version'] + [DELIM.join(x.name for x in targets)]*3 + ['CXX', 'CXX_FLAGS', 'host']) + '\n')
 	actions = []
 	results = []
 	c = 0
@@ -174,4 +188,4 @@ with open(os.path.join(OUTDIR, "out.dat"), 'a') as f:
 
 	f.writelines(
 		DELIM.join([TGTARCH, CXX_VERSION] + actions + results +
-			[str(x.testTime) for x in targets] + [CXX, CXX_FLAGS]) + '\n')
+			[str(x.testTime) for x in targets] + [CXX, CXX_FLAGS, HOSTNAME]) + '\n')
