@@ -13,19 +13,25 @@ def colorizeMake(td, val):
 		case 'e_lnk':
 			td.set('bgcolor', '#f77300')
 		case 'built':
-			return 1
-	return 0
+			return 0
+	return 1
 
 def colorizeCTest(td, val):
 	match val:
 		case '***Failed':
 			td.set('bgcolor', '#f70000')
+		case 'Subprocess aborted***Exception:':
+			td.set('bgcolor', '#ce0000')
 		case '***Timeout':
 			td.set('bgcolor', '#f77300')
+		case '***Not Run':
+			td.set('bgcolor', '#f7f700')
 		case 'Passed':
 			td.set('bgcolor', '#00f700')
-			return 1
-	return 0
+			return 0
+		case 'None':
+			return 0
+	return 1
 
 def shrinkLongText(td, val):
 	td.set('title', val)
@@ -98,12 +104,12 @@ with open(fname, 'r') as f:
 					colTypeMap[c] = 4
 
 			td = ET.SubElement(tr, 'td')
-			td.text = "build success"
+			td.text = "build failures"
 			td = ET.SubElement(tr, 'td')
-			td.text = "run success"
+			td.text = "run failures"
 
 		else:
-			goodCount = [0]*len(colorize)
+			badCount = [0]*len(colorize)
 			for c, cell in enumerate(row):
 				td = ET.SubElement(tr, 'td')
 				m = RE_resultLog.match(cell)
@@ -123,11 +129,11 @@ with open(fname, 'r') as f:
 					val = cell
 					td.text = val
 				ct = colTypeMap[c]
-				goodCount[ct] += colorize[ct](td, val)
+				badCount[ct] += colorize[ct](td, val)
 
 			td = ET.SubElement(tr, 'td')
-			td.text = "{}/{}".format(goodCount[1], ntests)
+			td.text = "{}/{}".format(badCount[1], ntests)
 			td = ET.SubElement(tr, 'td')
-			td.text = "{}/{}".format(goodCount[2], ntests)
+			td.text = "{}/{}".format(badCount[2], ntests)
 
 	doc.write(re.sub("[^.]+$", 'html', fname))
