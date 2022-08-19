@@ -1,3 +1,5 @@
-'+atomic-fadd-insts' is not a recognized feature for this target (ignoring feature)
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:19896B sgpr_count:108 vgpr_count:64 sgpr_spill_count:7 vgpr_spill_count:36 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EElNS_12MemSetKernelEJRKhPhRNS_3VecIS2_lEES9_EEclERKNS_7DevOmp5E_l139
 
-'+atomic-fadd-insts' is not a recognized feature for this target (ignoring feature)
+DEVID: 0 SGN:1 ConstWGSize:256  args: 7 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:19896B sgpr_count:108 vgpr_count:64 sgpr_spill_count:0 vgpr_spill_count:7 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm0EEl19BlockSyncTestKernelJPbEEclERKNS_7DevOmp5E_l139
+
+

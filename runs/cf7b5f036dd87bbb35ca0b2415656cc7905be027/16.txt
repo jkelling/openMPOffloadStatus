@@ -1,3 +1,53 @@
-'+atomic-fadd-insts' is not a recognized feature for this target (ignoring feature)
+Using alpaka accelerator: AccOmp5<1,unsigned long>
 
-'+atomic-fadd-insts' is not a recognized feature for this target (ignoring feature)
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:10072B sgpr_count:108 vgpr_count:64 sgpr_spill_count:7 vgpr_spill_count:36 tripcount:483 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm15VectorAddKernelJPjS4_S4_RKmEEclERKNS_7DevOmp5E_l139
+
+Time for kernel execution: 0.0657811s
+
+Time for HtoD copy: 0.000167325s
+
+C[8] == 0 != 23
+
+C[9] == 0 != 64
+
+C[10] == 0 != 69
+
+C[11] == 0 != 31
+
+C[12] == 0 != 29
+
+C[13] == 0 != 48
+
+C[14] == 0 != 34
+
+C[15] == 0 != 56
+
+C[16] == 0 != 53
+
+C[17] == 0 != 70
+
+C[18] == 0 != 30
+
+C[19] == 0 != 55
+
+C[20] == 0 != 42
+
+C[21] == 0 != 9
+
+C[22] == 0 != 58
+
+C[23] == 0 != 60
+
+C[24] == 0 != 45
+
+C[25] == 0 != 27
+
+C[26] == 0 != 33
+
+C[27] == 0 != 25
+
+Found 119624 false results, printed no more than 20
+
+Execution results incorrect!
+
+

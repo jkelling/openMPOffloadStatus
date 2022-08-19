@@ -2,49 +2,49 @@ Using alpaka accelerator: AccOmp5<1,unsigned long>
 
 DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58248B sgpr_count:49 vgpr_count:26 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:483 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm15VectorAddKernelJPjS4_S4_RKmEEclERKNS_7DevOmp5E_l139
 
-Time for kernel execution: 0.00511461s
+Time for kernel execution: 0.00402348s
 
-Time for HtoD copy: 0.000118774s
+Time for HtoD copy: 0.000109606s
 
-C[8] == 0 != 52
+C[8] == 0 != 40
 
-C[9] == 0 != 52
+C[9] == 0 != 27
 
-C[10] == 0 != 49
+C[10] == 0 != 57
 
-C[11] == 0 != 48
+C[11] == 0 != 33
 
-C[12] == 0 != 23
+C[12] == 0 != 52
 
-C[13] == 0 != 46
+C[13] == 0 != 12
 
-C[14] == 0 != 45
+C[14] == 0 != 36
 
-C[15] == 0 != 55
+C[15] == 0 != 45
 
-C[16] == 0 != 81
+C[16] == 0 != 28
 
-C[17] == 0 != 57
+C[17] == 0 != 72
 
-C[18] == 0 != 40
+C[18] == 0 != 24
 
-C[19] == 0 != 38
+C[19] == 0 != 26
 
-C[20] == 0 != 55
+C[20] == 0 != 61
 
-C[21] == 0 != 24
+C[21] == 0 != 60
 
-C[22] == 0 != 71
+C[22] == 0 != 56
 
-C[23] == 0 != 56
+C[23] == 0 != 64
 
-C[24] == 0 != 21
+C[24] == 0 != 15
 
-C[25] == 0 != 28
+C[25] == 0 != 18
 
-C[26] == 0 != 65
+C[26] == 0 != 33
 
-C[27] == 0 != 48
+C[27] == 0 != 49
 
 Found 119592 false results, printed no more than 20
 

@@ -1,4 +1,4 @@
-Randomness seeded to: 116113586
+Randomness seeded to: 1826569408
 
 MatMulKernel(m:64, n:79, k:23, accelerator: AccCpuSerial<2,unsigned int>, kernel: 12MatMulKernel, workDiv: {gridBlockExtent: (64, 79), blockThreadExtent: (1, 1), threadElemExtent: (1, 1)})
 
