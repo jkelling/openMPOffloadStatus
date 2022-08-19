@@ -4,7 +4,7 @@ import sys
 from xml.etree import ElementTree as ET
 
 RE_resultLog = re.compile("^(.*) \[(.*)\]$")
-RE_clangVerison = re.compile("^(clang version .* )\((.*)\)")
+RE_clangVerison = re.compile("^clang version (.*) \((.*)\)")
 
 def colorizeMake(td, val):
 	match val:
@@ -27,12 +27,21 @@ def colorizeCTest(td, val):
 			return 1
 	return 0
 
+def shrinkLongText(td, val):
+	td.set('title', val)
+	td.set('style', "font-size:4pt;")
+	return 0
+
 colorize = [
 		lambda td, val : 0,
 		colorizeMake,
 		colorizeCTest,
 		lambda td, val : 0,
+		shrinkLongText,
 	]
+
+def colorizeIdx(c):
+	return c if c < len(colorize) else 0
 
 fname = sys.argv[1]
 with open(fname, 'r') as f:
@@ -85,6 +94,8 @@ with open(fname, 'r') as f:
 					tests[cell] += 1
 					colTypeMap[c] = tests[cell]
 					td.set('bgcolor', colHeadColors[colTypeMap[c]])
+				elif cell == 'CXX' or cell == 'CXX_FLAGS':
+					colTypeMap[c] = 4
 
 			td = ET.SubElement(tr, 'td')
 			td.text = "build success"
@@ -95,23 +106,24 @@ with open(fname, 'r') as f:
 			goodCount = [0]*len(colorize)
 			for c, cell in enumerate(row):
 				td = ET.SubElement(tr, 'td')
-				match = RE_resultLog.match(cell)
-				if match:
+				m = RE_resultLog.match(cell)
+				if m:
 					a = ET.SubElement(td, 'a')
-					val = match.groups()[0]
+					val = m.groups()[0]
 					a.text =  val
-					a.set('href', match.groups()[1])
+					a.set('href', m.groups()[1])
 					# a.set('type', 'text/plain')
 					a.set('target', 'new')
-				elif match := RE_clangVerison.match(cell):
+				elif m := RE_clangVerison.match(cell):
 					a = ET.SubElement(td, 'a')
-					val = match.groups()[0]
+					val = "clang {}".format(m.groups()[0])
 					a.text =  val
-					a.set('href', match.groups()[1])
+					a.set('href', m.groups()[1])
 				else:
 					val = cell
 					td.text = val
-				goodCount[colTypeMap[c]] += colorize[colTypeMap[c]](td, val)
+				ct = colTypeMap[c]
+				goodCount[ct] += colorize[ct](td, val)
 
 			td = ET.SubElement(tr, 'td')
 			td.text = "{}/{}".format(goodCount[1], ntests)
