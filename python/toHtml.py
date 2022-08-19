@@ -7,29 +7,27 @@ RE_resultLog = re.compile("^(.*) \[(.*)\]$")
 RE_clangVerison = re.compile("^clang version (.*) \((.*)\)")
 
 def colorizeMake(td, val):
-	match val:
-		case 'e_cmp':
-			td.set('bgcolor', '#f70000')
-		case 'e_lnk':
-			td.set('bgcolor', '#f77300')
-		case 'built':
+	if val == 'e_cmp':
+		td.set('bgcolor', '#f70000')
+	elif val == 'e_lnk':
+		td.set('bgcolor', '#f77300')
+	elif val == 'built':
 			return 0
 	return 1
 
 def colorizeCTest(td, val):
-	match val:
-		case '***Failed':
+	if val == '***Failed':
 			td.set('bgcolor', '#f70000')
-		case 'Subprocess aborted***Exception:':
+	elif val == 'Subprocess aborted***Exception:':
 			td.set('bgcolor', '#ce0000')
-		case '***Timeout':
+	elif val == '***Timeout':
 			td.set('bgcolor', '#f77300')
-		case '***Not Run':
+	elif val == '***Not Run':
 			td.set('bgcolor', '#f7f700')
-		case 'Passed':
+	elif val == 'Passed':
 			td.set('bgcolor', '#00f700')
 			return 0
-		case 'None':
+	elif val == 'None':
 			return 0
 	return 1
 
@@ -120,14 +118,16 @@ with open(fname, 'r') as f:
 					a.set('href', m.groups()[1])
 					# a.set('type', 'text/plain')
 					a.set('target', 'new')
-				elif m := RE_clangVerison.match(cell):
-					a = ET.SubElement(td, 'a')
-					val = "clang {}".format(m.groups()[0])
-					a.text =  val
-					a.set('href', m.groups()[1])
 				else:
-					val = cell
-					td.text = val
+					m = RE_clangVerison.match(cell)
+					if m:
+						a = ET.SubElement(td, 'a')
+						val = "clang {}".format(m.groups()[0])
+						a.text =  val
+						a.set('href', m.groups()[1])
+					else:
+						val = cell
+						td.text = val
 				ct = colTypeMap[c]
 				badCount[ct] += colorize[ct](td, val)
 
