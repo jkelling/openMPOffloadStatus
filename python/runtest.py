@@ -59,6 +59,7 @@ OUTDIR = "testOut"
 os.makedirs(OUTDIR, exist_ok=True)
 
 if not args.noRun:
+	subprocess.run("nice -n 20 make -k -j{}".format(os.cpu_count() // 2), shell=True)
 	with open('make.log', 'w') as f:
 		subprocess.run("make -k", stdout=f, stderr=f, shell=True)
 # f = subprocess.run("cat /home/kelling/checkout/alpaka/buildClang15_hsa/log 2>&1", stdout=subprocess.PIPE, shell=True)
