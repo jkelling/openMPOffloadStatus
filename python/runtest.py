@@ -23,6 +23,8 @@ RE_ctestStart = re.compile("^ *Start.*: ([^ ]+).*$")
 RE_clangVersion = re.compile("^(clang version .*)$")
 RE_nvcppVersion = re.compile("^(nvc\+\+ [0-9.-]+).*$")
 
+RE_gitDescribe = re.compile("^(.*g)?(.*)$")
+
 class TargetInfo:
 	def __init__(self, name, action, log = None):
 		self.name = name
@@ -154,17 +156,26 @@ for l in CXX_VERSION:
 		CXX_VERSION = m.groups()[0]
 		break
 
+f = subprocess.run("git describe --always", stdout=subprocess.PIPE, shell=True)
+ALPAKA_COMMIT = f.stdout.decode("utf-8").strip()
+m = RE_gitDescribe.match(ALPAKA_COMMIT)
+if m:
+	ALPAKA_COMMIT = m.groups()[1]
+else:
+	raise RuntimeError("Failes to parse alpaka git commit: '{}'".format(ALPAKA_COMMIT))
+
 m = hashlib.sha1()
 m.update(HOSTNAME.encode())
 m.update(CXX.encode())
 m.update(CXX_FLAGS.encode())
 m.update(CXX_VERSION.encode())
+m.update(ALPAKA_COMMIT.encode())
 ID = m.digest().hex()
 os.mkdir(os.path.join(OUTDIR, ID))
 
 with open(os.path.join(OUTDIR, "out.dat"), 'a') as f:
 	DELIM = '\t'
-	f.writelines(DELIM.join(['arch', 'compiler-version'] + [DELIM.join(x.name for x in targets)]*3 + ['CXX', 'CXX_FLAGS', 'host']) + '\n')
+	f.writelines(DELIM.join(['arch', 'compiler version', 'alpaka version'] + [DELIM.join(x.name for x in targets)]*3 + ['CXX', 'CXX_FLAGS', 'host']) + '\n')
 	actions = []
 	results = []
 	c = 0
@@ -188,5 +199,5 @@ with open(os.path.join(OUTDIR, "out.dat"), 'a') as f:
 		results.append(r)
 
 	f.writelines(
-		DELIM.join([TGTARCH, CXX_VERSION] + actions + results +
+		DELIM.join([TGTARCH, CXX_VERSION, ALPAKA_COMMIT] + actions + results +
 			[str(x.testTime) for x in targets] + [CXX, CXX_FLAGS, HOSTNAME]) + '\n')

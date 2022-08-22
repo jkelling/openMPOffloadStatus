@@ -4,7 +4,8 @@ import sys
 from xml.etree import ElementTree as ET
 
 RE_resultLog = re.compile("^(.*) \[(.*)\]$")
-RE_clangVerison = re.compile("^clang version (.*) \((.*)\)")
+RE_clangVerison = re.compile("^clang version (.*) \((.*)\.git (.*)\)")
+RE_gitCommitHash = re.compile("^[0-9abcdef]+$")
 
 def colorizeMake(td, val):
 	if val == 'e_cmp':
@@ -123,11 +124,18 @@ with open(fname, 'r') as f:
 					if m:
 						a = ET.SubElement(td, 'a')
 						val = "clang {}".format(m.groups()[0])
-						a.text =  val
-						a.set('href', m.groups()[1])
+						a.text = val
+						a.set('href', "{}/commit/{}".format(m.groups()[1], m.groups()[2]))
 					else:
-						val = cell
-						td.text = val
+						m = RE_gitCommitHash.match(cell)
+						if m:
+							a = ET.SubElement(td, 'a')
+							val = cell
+							a.text = val
+							a.set('href', "https://github.com/alpaka-group/alpaka/commit/{}".format(cell))
+						else:
+							val = cell
+							td.text = val
 				ct = colTypeMap[c]
 				badCount[ct] += colorize[ct](td, val)
 
