@@ -1,5 +1,5 @@
 import csv, re
-import sys
+import sys, os
 
 from xml.etree import ElementTree as ET
 
@@ -66,11 +66,20 @@ with open(fname, 'r') as f:
 	}
 	"""
 
+	sortableScript = None
+	try:
+		with open(os.path.join(re.sub("[^/]+$", '', sys.argv[0]), "blob/sortable.js"), 'r') as f:
+			sortableScript = ET.SubElement(head, 'script')
+			sortableScript.text = f.read()
+	except FileNotFoundError as e:
+		print(e.strerror, e.filename)
+
 	colTypeMap = None
 	ntests = 0
 
 	body = ET.SubElement(html, 'body')
 	tab = ET.SubElement(body, 'table')
+	tab.set('id', 'table')
 	for i, row in enumerate(reader):
 		tr = ET.SubElement(tab, 'tr')
 		if i == 0:
@@ -96,6 +105,8 @@ with open(fname, 'r') as f:
 			for c, cell in enumerate(row):
 				td = ET.SubElement(tr, 'th')
 				td.text = cell
+				if sortableScript is not None:
+					td.set('onclick', 'sortTable({})'.format(c))
 
 				if cell in tests:
 					tests[cell] += 1
@@ -146,4 +157,4 @@ with open(fname, 'r') as f:
 			td = ET.SubElement(tr, 'td')
 			td.text = "{}/{}".format(badCount[2], ntests)
 
-	doc.write(re.sub("[^.]+$", 'html', fname))
+	doc.write(re.sub("[^.]+$", 'html', fname), method='html')
