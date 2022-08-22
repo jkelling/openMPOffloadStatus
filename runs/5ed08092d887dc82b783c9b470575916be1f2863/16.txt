@@ -1,0 +1,541 @@
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:10072B sgpr_count:108 vgpr_count:64 sgpr_spill_count:7 vgpr_spill_count:36 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EElNS_12MemSetKernelEJRKhPhRNS_3VecIS2_lEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 7 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:10072B sgpr_count:108 vgpr_count:64 sgpr_spill_count:0 vgpr_spill_count:4 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm0EEl15ClockTestKernelJPbEEclERKNS_7DevOmp5E_l139
+
+Randomness seeded to: 3999163949
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+timeTest is a Catch2 v3.0.1 host application.
+
+Run with -? for options
+
+
+
+-------------------------------------------------------------------------------
+
+clockIsWorking - alpaka::test::TestAccs - 1
+
+-------------------------------------------------------------------------------
+
+/home/kelling/checkout/alpaka/test/unit/time/src/ClockTest.cpp:43
+
+...............................................................................
+
+
+
+/home/kelling/checkout/alpaka/test/unit/time/src/ClockTest.cpp:53: FAILED:
+
+  REQUIRE( fixture(kernel) )
+
+with expansion:
+
+  false
+
+
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:10072B sgpr_count:108 vgpr_count:64 sgpr_spill_count:7 vgpr_spill_count:36 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EElNS_12MemSetKernelEJRKhPhRNS_3VecIS2_lEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:10072B sgpr_count:108 vgpr_count:64 sgpr_spill_count:0 vgpr_spill_count:14 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEl15ClockTestKernelJPbEEclERKNS_7DevOmp5E_l139
+
+-------------------------------------------------------------------------------
+
+clockIsWorking - alpaka::test::TestAccs - 3
+
+-------------------------------------------------------------------------------
+
+/home/kelling/checkout/alpaka/test/unit/time/src/ClockTest.cpp:43
+
+...............................................................................
+
+
+
+/home/kelling/checkout/alpaka/test/unit/time/src/ClockTest.cpp:53: FAILED:
+
+  REQUIRE( fixture(kernel) )
+
+with expansion:
+
+  false
+
+
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:10072B sgpr_count:108 vgpr_count:64 sgpr_spill_count:7 vgpr_spill_count:36 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EElNS_12MemSetKernelEJRKhPhRNS_3VecIS2_lEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:10072B sgpr_count:108 vgpr_count:64 sgpr_spill_count:0 vgpr_spill_count:14 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm2EEl15ClockTestKernelJPbEEclERKNS_7DevOmp5E_l139
+
+-------------------------------------------------------------------------------
+
+clockIsWorking - alpaka::test::TestAccs - 5
+
+-------------------------------------------------------------------------------
+
+/home/kelling/checkout/alpaka/test/unit/time/src/ClockTest.cpp:43
+
+...............................................................................
+
+
+
+/home/kelling/checkout/alpaka/test/unit/time/src/ClockTest.cpp:53: FAILED:
+
+  REQUIRE( fixture(kernel) )
+
+with expansion:
+
+  false
+
+
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:10072B sgpr_count:108 vgpr_count:64 sgpr_spill_count:7 vgpr_spill_count:36 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EElNS_12MemSetKernelEJRKhPhRNS_3VecIS2_lEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:10072B sgpr_count:108 vgpr_count:64 sgpr_spill_count:0 vgpr_spill_count:14 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm3EEl15ClockTestKernelJPbEEclERKNS_7DevOmp5E_l139
+
+-------------------------------------------------------------------------------
+
+clockIsWorking - alpaka::test::TestAccs - 7
+
+-------------------------------------------------------------------------------
+
+/home/kelling/checkout/alpaka/test/unit/time/src/ClockTest.cpp:43
+
+...............................................................................
+
+
+
+/home/kelling/checkout/alpaka/test/unit/time/src/ClockTest.cpp:53: FAILED:
+
+  REQUIRE( fixture(kernel) )
+
+with expansion:
+
+  false
+
+
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:10072B sgpr_count:108 vgpr_count:64 sgpr_spill_count:7 vgpr_spill_count:36 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EElNS_12MemSetKernelEJRKhPhRNS_3VecIS2_lEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:10072B sgpr_count:108 vgpr_count:64 sgpr_spill_count:0 vgpr_spill_count:15 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm4EEl15ClockTestKernelJPbEEclERKNS_7DevOmp5E_l139
+
+-------------------------------------------------------------------------------
+
+clockIsWorking - alpaka::test::TestAccs - 9
+
+-------------------------------------------------------------------------------
+
+/home/kelling/checkout/alpaka/test/unit/time/src/ClockTest.cpp:43
+
+...............................................................................
+
+
+
+/home/kelling/checkout/alpaka/test/unit/time/src/ClockTest.cpp:53: FAILED:
+
+  REQUIRE( fixture(kernel) )
+
+with expansion:
+
+  false
+
+
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:10072B sgpr_count:108 vgpr_count:64 sgpr_spill_count:7 vgpr_spill_count:36 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEmNS_12MemSetKernelEJRKhPhRNS_3VecIS2_mEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 7 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:10072B sgpr_count:108 vgpr_count:64 sgpr_spill_count:0 vgpr_spill_count:4 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm0EEm15ClockTestKernelJPbEEclERKNS_7DevOmp5E_l139
+
+-------------------------------------------------------------------------------
+
+clockIsWorking - alpaka::test::TestAccs - 11
+
+-------------------------------------------------------------------------------
+
+/home/kelling/checkout/alpaka/test/unit/time/src/ClockTest.cpp:43
+
+...............................................................................
+
+
+
+/home/kelling/checkout/alpaka/test/unit/time/src/ClockTest.cpp:53: FAILED:
+
+  REQUIRE( fixture(kernel) )
+
+with expansion:
+
+  false
+
+
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:10072B sgpr_count:108 vgpr_count:64 sgpr_spill_count:7 vgpr_spill_count:36 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEmNS_12MemSetKernelEJRKhPhRNS_3VecIS2_mEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:10072B sgpr_count:108 vgpr_count:64 sgpr_spill_count:0 vgpr_spill_count:14 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm15ClockTestKernelJPbEEclERKNS_7DevOmp5E_l139
+
+-------------------------------------------------------------------------------
+
+clockIsWorking - alpaka::test::TestAccs - 13
+
+-------------------------------------------------------------------------------
+
+/home/kelling/checkout/alpaka/test/unit/time/src/ClockTest.cpp:43
+
+...............................................................................
+
+
+
+/home/kelling/checkout/alpaka/test/unit/time/src/ClockTest.cpp:53: FAILED:
+
+  REQUIRE( fixture(kernel) )
+
+with expansion:
+
+  false
+
+
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:10072B sgpr_count:108 vgpr_count:64 sgpr_spill_count:7 vgpr_spill_count:36 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEmNS_12MemSetKernelEJRKhPhRNS_3VecIS2_mEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:10072B sgpr_count:108 vgpr_count:64 sgpr_spill_count:0 vgpr_spill_count:14 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm2EEm15ClockTestKernelJPbEEclERKNS_7DevOmp5E_l139
+
+-------------------------------------------------------------------------------
+
+clockIsWorking - alpaka::test::TestAccs - 15
+
+-------------------------------------------------------------------------------
+
+/home/kelling/checkout/alpaka/test/unit/time/src/ClockTest.cpp:43
+
+...............................................................................
+
+
+
+/home/kelling/checkout/alpaka/test/unit/time/src/ClockTest.cpp:53: FAILED:
+
+  REQUIRE( fixture(kernel) )
+
+with expansion:
+
+  false
+
+
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:10072B sgpr_count:108 vgpr_count:64 sgpr_spill_count:7 vgpr_spill_count:36 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEmNS_12MemSetKernelEJRKhPhRNS_3VecIS2_mEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:10072B sgpr_count:108 vgpr_count:64 sgpr_spill_count:0 vgpr_spill_count:14 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm3EEm15ClockTestKernelJPbEEclERKNS_7DevOmp5E_l139
+
+-------------------------------------------------------------------------------
+
+clockIsWorking - alpaka::test::TestAccs - 17
+
+-------------------------------------------------------------------------------
+
+/home/kelling/checkout/alpaka/test/unit/time/src/ClockTest.cpp:43
+
+...............................................................................
+
+
+
+/home/kelling/checkout/alpaka/test/unit/time/src/ClockTest.cpp:53: FAILED:
+
+  REQUIRE( fixture(kernel) )
+
+with expansion:
+
+  false
+
+
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:10072B sgpr_count:108 vgpr_count:64 sgpr_spill_count:7 vgpr_spill_count:36 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEmNS_12MemSetKernelEJRKhPhRNS_3VecIS2_mEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:10072B sgpr_count:108 vgpr_count:64 sgpr_spill_count:0 vgpr_spill_count:15 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm4EEm15ClockTestKernelJPbEEclERKNS_7DevOmp5E_l139
+
+-------------------------------------------------------------------------------
+
+clockIsWorking - alpaka::test::TestAccs - 19
+
+-------------------------------------------------------------------------------
+
+/home/kelling/checkout/alpaka/test/unit/time/src/ClockTest.cpp:43
+
+...............................................................................
+
+
+
+/home/kelling/checkout/alpaka/test/unit/time/src/ClockTest.cpp:53: FAILED:
+
+  REQUIRE( fixture(kernel) )
+
+with expansion:
+
+  false
+
+
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:10072B sgpr_count:108 vgpr_count:64 sgpr_spill_count:7 vgpr_spill_count:36 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEiNS_12MemSetKernelEJRKhPhRNS_3VecIS2_iEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 7 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:10072B sgpr_count:108 vgpr_count:64 sgpr_spill_count:0 vgpr_spill_count:4 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm0EEi15ClockTestKernelJPbEEclERKNS_7DevOmp5E_l139
+
+-------------------------------------------------------------------------------
+
+clockIsWorking - alpaka::test::TestAccs - 21
+
+-------------------------------------------------------------------------------
+
+/home/kelling/checkout/alpaka/test/unit/time/src/ClockTest.cpp:43
+
+...............................................................................
+
+
+
+/home/kelling/checkout/alpaka/test/unit/time/src/ClockTest.cpp:53: FAILED:
+
+  REQUIRE( fixture(kernel) )
+
+with expansion:
+
+  false
+
+
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:10072B sgpr_count:108 vgpr_count:64 sgpr_spill_count:7 vgpr_spill_count:36 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEiNS_12MemSetKernelEJRKhPhRNS_3VecIS2_iEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:10072B sgpr_count:108 vgpr_count:64 sgpr_spill_count:0 vgpr_spill_count:14 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEi15ClockTestKernelJPbEEclERKNS_7DevOmp5E_l139
+
+-------------------------------------------------------------------------------
+
+clockIsWorking - alpaka::test::TestAccs - 23
+
+-------------------------------------------------------------------------------
+
+/home/kelling/checkout/alpaka/test/unit/time/src/ClockTest.cpp:43
+
+...............................................................................
+
+
+
+/home/kelling/checkout/alpaka/test/unit/time/src/ClockTest.cpp:53: FAILED:
+
+  REQUIRE( fixture(kernel) )
+
+with expansion:
+
+  false
+
+
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:10072B sgpr_count:108 vgpr_count:64 sgpr_spill_count:7 vgpr_spill_count:36 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEiNS_12MemSetKernelEJRKhPhRNS_3VecIS2_iEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:10072B sgpr_count:108 vgpr_count:64 sgpr_spill_count:0 vgpr_spill_count:14 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm2EEi15ClockTestKernelJPbEEclERKNS_7DevOmp5E_l139
+
+-------------------------------------------------------------------------------
+
+clockIsWorking - alpaka::test::TestAccs - 25
+
+-------------------------------------------------------------------------------
+
+/home/kelling/checkout/alpaka/test/unit/time/src/ClockTest.cpp:43
+
+...............................................................................
+
+
+
+/home/kelling/checkout/alpaka/test/unit/time/src/ClockTest.cpp:53: FAILED:
+
+  REQUIRE( fixture(kernel) )
+
+with expansion:
+
+  false
+
+
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:10072B sgpr_count:108 vgpr_count:64 sgpr_spill_count:7 vgpr_spill_count:36 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEiNS_12MemSetKernelEJRKhPhRNS_3VecIS2_iEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:10072B sgpr_count:108 vgpr_count:64 sgpr_spill_count:0 vgpr_spill_count:14 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm3EEi15ClockTestKernelJPbEEclERKNS_7DevOmp5E_l139
+
+-------------------------------------------------------------------------------
+
+clockIsWorking - alpaka::test::TestAccs - 27
+
+-------------------------------------------------------------------------------
+
+/home/kelling/checkout/alpaka/test/unit/time/src/ClockTest.cpp:43
+
+...............................................................................
+
+
+
+/home/kelling/checkout/alpaka/test/unit/time/src/ClockTest.cpp:53: FAILED:
+
+  REQUIRE( fixture(kernel) )
+
+with expansion:
+
+  false
+
+
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:10072B sgpr_count:108 vgpr_count:64 sgpr_spill_count:7 vgpr_spill_count:36 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEiNS_12MemSetKernelEJRKhPhRNS_3VecIS2_iEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:10072B sgpr_count:108 vgpr_count:64 sgpr_spill_count:0 vgpr_spill_count:15 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm4EEi15ClockTestKernelJPbEEclERKNS_7DevOmp5E_l139
+
+-------------------------------------------------------------------------------
+
+clockIsWorking - alpaka::test::TestAccs - 29
+
+-------------------------------------------------------------------------------
+
+/home/kelling/checkout/alpaka/test/unit/time/src/ClockTest.cpp:43
+
+...............................................................................
+
+
+
+/home/kelling/checkout/alpaka/test/unit/time/src/ClockTest.cpp:53: FAILED:
+
+  REQUIRE( fixture(kernel) )
+
+with expansion:
+
+  false
+
+
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:10072B sgpr_count:108 vgpr_count:64 sgpr_spill_count:7 vgpr_spill_count:36 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEjNS_12MemSetKernelEJRKhPhRNS_3VecIS2_jEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 7 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:10072B sgpr_count:108 vgpr_count:64 sgpr_spill_count:0 vgpr_spill_count:4 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm0EEj15ClockTestKernelJPbEEclERKNS_7DevOmp5E_l139
+
+-------------------------------------------------------------------------------
+
+clockIsWorking - alpaka::test::TestAccs - 31
+
+-------------------------------------------------------------------------------
+
+/home/kelling/checkout/alpaka/test/unit/time/src/ClockTest.cpp:43
+
+...............................................................................
+
+
+
+/home/kelling/checkout/alpaka/test/unit/time/src/ClockTest.cpp:53: FAILED:
+
+  REQUIRE( fixture(kernel) )
+
+with expansion:
+
+  false
+
+
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:10072B sgpr_count:108 vgpr_count:64 sgpr_spill_count:7 vgpr_spill_count:36 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEjNS_12MemSetKernelEJRKhPhRNS_3VecIS2_jEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:10072B sgpr_count:108 vgpr_count:64 sgpr_spill_count:0 vgpr_spill_count:14 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEj15ClockTestKernelJPbEEclERKNS_7DevOmp5E_l139
+
+-------------------------------------------------------------------------------
+
+clockIsWorking - alpaka::test::TestAccs - 33
+
+-------------------------------------------------------------------------------
+
+/home/kelling/checkout/alpaka/test/unit/time/src/ClockTest.cpp:43
+
+...............................................................................
+
+
+
+/home/kelling/checkout/alpaka/test/unit/time/src/ClockTest.cpp:53: FAILED:
+
+  REQUIRE( fixture(kernel) )
+
+with expansion:
+
+  false
+
+
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:10072B sgpr_count:108 vgpr_count:64 sgpr_spill_count:7 vgpr_spill_count:36 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEjNS_12MemSetKernelEJRKhPhRNS_3VecIS2_jEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:10072B sgpr_count:108 vgpr_count:64 sgpr_spill_count:0 vgpr_spill_count:14 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm2EEj15ClockTestKernelJPbEEclERKNS_7DevOmp5E_l139
+
+-------------------------------------------------------------------------------
+
+clockIsWorking - alpaka::test::TestAccs - 35
+
+-------------------------------------------------------------------------------
+
+/home/kelling/checkout/alpaka/test/unit/time/src/ClockTest.cpp:43
+
+...............................................................................
+
+
+
+/home/kelling/checkout/alpaka/test/unit/time/src/ClockTest.cpp:53: FAILED:
+
+  REQUIRE( fixture(kernel) )
+
+with expansion:
+
+  false
+
+
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:10072B sgpr_count:108 vgpr_count:64 sgpr_spill_count:7 vgpr_spill_count:36 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEjNS_12MemSetKernelEJRKhPhRNS_3VecIS2_jEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:10072B sgpr_count:108 vgpr_count:64 sgpr_spill_count:0 vgpr_spill_count:14 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm3EEj15ClockTestKernelJPbEEclERKNS_7DevOmp5E_l139
+
+-------------------------------------------------------------------------------
+
+clockIsWorking - alpaka::test::TestAccs - 37
+
+-------------------------------------------------------------------------------
+
+/home/kelling/checkout/alpaka/test/unit/time/src/ClockTest.cpp:43
+
+...............................................................................
+
+
+
+/home/kelling/checkout/alpaka/test/unit/time/src/ClockTest.cpp:53: FAILED:
+
+  REQUIRE( fixture(kernel) )
+
+with expansion:
+
+  false
+
+
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:10072B sgpr_count:108 vgpr_count:64 sgpr_spill_count:7 vgpr_spill_count:36 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEjNS_12MemSetKernelEJRKhPhRNS_3VecIS2_jEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:10072B sgpr_count:108 vgpr_count:64 sgpr_spill_count:0 vgpr_spill_count:15 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm4EEj15ClockTestKernelJPbEEclERKNS_7DevOmp5E_l139
+
+-------------------------------------------------------------------------------
+
+clockIsWorking - alpaka::test::TestAccs - 39
+
+-------------------------------------------------------------------------------
+
+/home/kelling/checkout/alpaka/test/unit/time/src/ClockTest.cpp:43
+
+...............................................................................
+
+
+
+/home/kelling/checkout/alpaka/test/unit/time/src/ClockTest.cpp:53: FAILED:
+
+  REQUIRE( fixture(kernel) )
+
+with expansion:
+
+  false
+
+
+
+===============================================================================
+
+test cases: 40 | 20 passed | 20 failed
+
+assertions: 40 | 20 passed | 20 failed
+
+
+
+

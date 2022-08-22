@@ -1,0 +1,143 @@
+DEVID: 0 SGN:1 ConstWGSize:256  args: 7 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:10072B sgpr_count:108 vgpr_count:64 sgpr_spill_count:0 vgpr_spill_count:3 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm0EElZNS_5trait16CreateTaskMemsetIS2_NS_7DevOmp5EvE16createTaskMemsetINS_3VecIS2_lEERNS_7BufOmp5IfS2_lEEEEDaOT0_RKhRKT_EUlRKNS_7AccOmp5IS2_lEEhPhE_JSG_SO_EEclERKS5__l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:10072B sgpr_count:108 vgpr_count:64 sgpr_spill_count:7 vgpr_spill_count:36 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EElNS_12MemSetKernelEJRKhPhRNS_3VecIS2_lEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 7 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:10072B sgpr_count:108 vgpr_count:64 sgpr_spill_count:0 vgpr_spill_count:7 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm0EElNS_4test20VerifyBytesSetKernelEJPbNS3_5trait12IteratorViewIKNS_7BufOmp5IfS2_lEEvEESB_RKhEEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:10072B sgpr_count:108 vgpr_count:64 sgpr_spill_count:7 vgpr_spill_count:36 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EElNS_12MemSetKernelEJRKhPhRNS_3VecIS2_lEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 7 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:10072B sgpr_count:108 vgpr_count:64 sgpr_spill_count:0 vgpr_spill_count:7 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm0EElNS_4test22VerifyViewsEqualKernelEJPbNS3_5trait12IteratorViewIKNS_7BufOmp5IfS2_lEEvEESB_SB_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:10072B sgpr_count:108 vgpr_count:64 sgpr_spill_count:7 vgpr_spill_count:36 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EElNS_12MemSetKernelEJRKhPhRNS_3VecIS2_lEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 7 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:10072B sgpr_count:108 vgpr_count:64 sgpr_spill_count:0 vgpr_spill_count:7 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm0EElNS_4test22VerifyViewsEqualKernelEJPbNS3_5trait12IteratorViewIKNS_7BufOmp5IfS2_lEEvEESB_SB_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:10072B sgpr_count:108 vgpr_count:64 sgpr_spill_count:7 vgpr_spill_count:36 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EElNS_12MemSetKernelEJRKhPhRNS_3VecIS2_lEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:10072B sgpr_count:108 vgpr_count:64 sgpr_spill_count:7 vgpr_spill_count:36 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EElNS_12MemSetKernelEJRKhPhRNS_3VecIS2_lEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:10072B sgpr_count:108 vgpr_count:64 sgpr_spill_count:7 vgpr_spill_count:36 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EElNS_4test20VerifyBytesSetKernelEJPbNS3_5trait12IteratorViewIKNS_7BufOmp5IfS2_lEEvEESB_RKhEEclERKNS_7DevOmp5E_l139
+
+Randomness seeded to: 3681004546
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+memBufTest is a Catch2 v3.0.1 host application.
+
+Run with -? for options
+
+
+
+-------------------------------------------------------------------------------
+
+memBufBasicTest - alpaka::test::TestAccs - 3
+
+-------------------------------------------------------------------------------
+
+/home/kelling/checkout/alpaka/test/unit/mem/buf/src/BufTest.cpp:75
+
+...............................................................................
+
+
+
+/home/kelling/checkout/alpaka/include/alpaka/test/mem/view/ViewTest.hpp:152: FAILED:
+
+  REQUIRE( fixture(verifyBytesSet, test::begin(view), test::end(view), byte) )
+
+with expansion:
+
+  false
+
+
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:10072B sgpr_count:108 vgpr_count:64 sgpr_spill_count:7 vgpr_spill_count:36 tripcount:6 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm2EElNS_12MemSetKernelEJRKhPhRNS_3VecIS2_lEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:10072B sgpr_count:108 vgpr_count:64 sgpr_spill_count:7 vgpr_spill_count:36 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EElNS_12MemSetKernelEJRKhPhRNS_3VecIS2_lEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:10072B sgpr_count:108 vgpr_count:64 sgpr_spill_count:7 vgpr_spill_count:36 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm2EElNS_4test20VerifyBytesSetKernelEJPbNS3_5trait12IteratorViewIKNS_7BufOmp5IfS2_lEEvEESB_RKhEEclERKNS_7DevOmp5E_l139
+
+-------------------------------------------------------------------------------
+
+memBufBasicTest - alpaka::test::TestAccs - 5
+
+-------------------------------------------------------------------------------
+
+/home/kelling/checkout/alpaka/test/unit/mem/buf/src/BufTest.cpp:75
+
+...............................................................................
+
+
+
+/home/kelling/checkout/alpaka/include/alpaka/test/mem/view/ViewTest.hpp:152: FAILED:
+
+  REQUIRE( fixture(verifyBytesSet, test::begin(view), test::end(view), byte) )
+
+with expansion:
+
+  false
+
+
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:10072B sgpr_count:108 vgpr_count:64 sgpr_spill_count:7 vgpr_spill_count:36 tripcount:60 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm3EElNS_12MemSetKernelEJRKhPhRNS_3VecIS2_lEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:10072B sgpr_count:108 vgpr_count:64 sgpr_spill_count:7 vgpr_spill_count:36 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EElNS_12MemSetKernelEJRKhPhRNS_3VecIS2_lEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:10072B sgpr_count:108 vgpr_count:64 sgpr_spill_count:7 vgpr_spill_count:36 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm3EElNS_4test20VerifyBytesSetKernelEJPbNS3_5trait12IteratorViewIKNS_7BufOmp5IfS2_lEEvEESB_RKhEEclERKNS_7DevOmp5E_l139
+
+-------------------------------------------------------------------------------
+
+memBufBasicTest - alpaka::test::TestAccs - 7
+
+-------------------------------------------------------------------------------
+
+/home/kelling/checkout/alpaka/test/unit/mem/buf/src/BufTest.cpp:75
+
+...............................................................................
+
+
+
+/home/kelling/checkout/alpaka/include/alpaka/test/mem/view/ViewTest.hpp:152: FAILED:
+
+  REQUIRE( fixture(verifyBytesSet, test::begin(view), test::end(view), byte) )
+
+with expansion:
+
+  false
+
+
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   2X 256) reqd:(   2X   0) lds_usage:10072B sgpr_count:108 vgpr_count:64 sgpr_spill_count:7 vgpr_spill_count:36 tripcount:540 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm4EElNS_12MemSetKernelEJRKhPhRNS_3VecIS2_lEES9_EEclERKNS_7DevOmp5E_l139
+
+-------------------------------------------------------------------------------
+
+memBufBasicTest - alpaka::test::TestAccs - 9
+
+-------------------------------------------------------------------------------
+
+/home/kelling/checkout/alpaka/test/unit/mem/buf/src/BufTest.cpp:75
+
+...............................................................................
+
+
+
+/home/kelling/checkout/alpaka/test/unit/mem/buf/src/BufTest.cpp:75: FAILED:
+
+  {Unknown expression after the reported line}
+
+due to a fatal error condition:
+
+  SIGABRT - Abort (abnormal termination) signal
+
+
+
+===============================================================================
+
+test cases: 10 |  6 passed | 4 failed
+
+assertions: 82 | 78 passed | 4 failed
+
+
+
+
