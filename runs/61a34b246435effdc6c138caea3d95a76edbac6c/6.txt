@@ -1,0 +1,21 @@
+Randomness seeded to: 551060449
+
+MatMulKernel(m:64, n:79, k:23, accelerator: AccCpuSerial<2,unsigned int>, kernel: 12MatMulKernel, workDiv: {gridBlockExtent: (64, 79), blockThreadExtent: (1, 1), threadElemExtent: (1, 1)})
+
+Input1 copy time: 0 ms
+
+Input2 copy time: 0 ms
+
+Execution time:   18 ms
+
+Output copy time: 0 ms
+
+MatMulKernel(m:64, n:79, k:23, accelerator: AccOmp5<2,unsigned int>, kernel: 12MatMulKernel, workDiv: {gridBlockExtent: (13, 16), blockThreadExtent: (5, 5), threadElemExtent: (1, 1)})
+
+Input1 copy time: 7 ms
+
+Input2 copy time: 4 ms
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:10072B sgpr_count:108 vgpr_count:64 sgpr_spill_count:7 vgpr_spill_count:36 tripcount:208 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm2EEj12MatMulKernelJRKjS5_S5_jPjjS6_jjS6_jEEclERKNS_7DevOmp5E_l139
+
+

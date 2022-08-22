@@ -1,0 +1,5 @@
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:10072B sgpr_count:108 vgpr_count:64 sgpr_spill_count:7 vgpr_spill_count:36 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEmNS_12MemSetKernelEJRKhPhRNS_3VecIS2_mEES9_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:10072B sgpr_count:108 vgpr_count:64 sgpr_spill_count:0 vgpr_spill_count:15 tripcount:1 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm20BlockFenceTestKernelJPbEEclERKNS_7DevOmp5E_l139
+
+
