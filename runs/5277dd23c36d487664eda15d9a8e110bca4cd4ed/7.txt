@@ -1,0 +1,65 @@
+'+atomic-fadd-insts' is not a recognized feature for this target (ignoring feature)
+
+'+atomic-fadd-insts' is not a recognized feature for this target (ignoring feature)
+
+/home/kelling/checkout/llvm/llvm-project/install/bin/clang-linker-wrapper: error: unhandled SGPR spill to memory
+
+/home/kelling/checkout/llvm/llvm-project/install/bin/clang-linker-wrapper: error: unhandled SGPR spill to memory
+
+/home/kelling/checkout/llvm/llvm-project/install/bin/clang-linker-wrapper: error: unhandled SGPR spill to memory
+
+/home/kelling/checkout/llvm/llvm-project/install/bin/clang-linker-wrapper: error: unhandled SGPR spill to memory
+
+/home/kelling/checkout/llvm/llvm-project/install/bin/clang-linker-wrapper: error: local memory (68072) exceeds limit (65536) in function '__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EElNS_12MemSetKernelEJRKhPhRNS_3VecIS2_lEES9_EEclERKNS_7DevOmp5E_l139'
+
+/home/kelling/checkout/llvm/llvm-project/install/bin/clang-linker-wrapper: error: local memory (68072) exceeds limit (65536) in function '__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEl27BlockSharedMemDynTestKernelJPbEEclERKNS_7DevOmp5E_l139'
+
+/home/kelling/checkout/llvm/llvm-project/install/bin/clang-linker-wrapper: error: local memory (68104) exceeds limit (65536) in function '__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm2EEl27BlockSharedMemDynTestKernelJPbEEclERKNS_7DevOmp5E_l139'
+
+/home/kelling/checkout/llvm/llvm-project/install/bin/clang-linker-wrapper: error: local memory (68120) exceeds limit (65536) in function '__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm3EEl27BlockSharedMemDynTestKernelJPbEEclERKNS_7DevOmp5E_l139'
+
+/home/kelling/checkout/llvm/llvm-project/install/bin/clang-linker-wrapper: error: local memory (68152) exceeds limit (65536) in function '__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm4EEl27BlockSharedMemDynTestKernelJPbEEclERKNS_7DevOmp5E_l139'
+
+/home/kelling/checkout/llvm/llvm-project/install/bin/clang-linker-wrapper: error: local memory (68072) exceeds limit (65536) in function '__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEmNS_12MemSetKernelEJRKhPhRNS_3VecIS2_mEES9_EEclERKNS_7DevOmp5E_l139'
+
+/home/kelling/checkout/llvm/llvm-project/install/bin/clang-linker-wrapper: error: local memory (68072) exceeds limit (65536) in function '__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm27BlockSharedMemDynTestKernelJPbEEclERKNS_7DevOmp5E_l139'
+
+/home/kelling/checkout/llvm/llvm-project/install/bin/clang-linker-wrapper: error: local memory (68104) exceeds limit (65536) in function '__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm2EEm27BlockSharedMemDynTestKernelJPbEEclERKNS_7DevOmp5E_l139'
+
+/home/kelling/checkout/llvm/llvm-project/install/bin/clang-linker-wrapper: error: local memory (68120) exceeds limit (65536) in function '__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm3EEm27BlockSharedMemDynTestKernelJPbEEclERKNS_7DevOmp5E_l139'
+
+/home/kelling/checkout/llvm/llvm-project/install/bin/clang-linker-wrapper: error: local memory (68152) exceeds limit (65536) in function '__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm4EEm27BlockSharedMemDynTestKernelJPbEEclERKNS_7DevOmp5E_l139'
+
+/home/kelling/checkout/llvm/llvm-project/install/bin/clang-linker-wrapper: error: local memory (68056) exceeds limit (65536) in function '__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEiNS_12MemSetKernelEJRKhPhRNS_3VecIS2_iEES9_EEclERKNS_7DevOmp5E_l139'
+
+/home/kelling/checkout/llvm/llvm-project/install/bin/clang-linker-wrapper: error: local memory (68056) exceeds limit (65536) in function '__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEi27BlockSharedMemDynTestKernelJPbEEclERKNS_7DevOmp5E_l139'
+
+/home/kelling/checkout/llvm/llvm-project/install/bin/clang-linker-wrapper: error: local memory (68072) exceeds limit (65536) in function '__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm2EEi27BlockSharedMemDynTestKernelJPbEEclERKNS_7DevOmp5E_l139'
+
+/home/kelling/checkout/llvm/llvm-project/install/bin/clang-linker-wrapper: error: local memory (68088) exceeds limit (65536) in function '__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm3EEi27BlockSharedMemDynTestKernelJPbEEclERKNS_7DevOmp5E_l139'
+
+/home/kelling/checkout/llvm/llvm-project/install/bin/clang-linker-wrapper: error: local memory (68104) exceeds limit (65536) in function '__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm4EEi27BlockSharedMemDynTestKernelJPbEEclERKNS_7DevOmp5E_l139'
+
+/home/kelling/checkout/llvm/llvm-project/install/bin/clang-linker-wrapper: error: local memory (68056) exceeds limit (65536) in function '__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEjNS_12MemSetKernelEJRKhPhRNS_3VecIS2_jEES9_EEclERKNS_7DevOmp5E_l139'
+
+/home/kelling/checkout/llvm/llvm-project/install/bin/clang-linker-wrapper: error: local memory (68056) exceeds limit (65536) in function '__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEj27BlockSharedMemDynTestKernelJPbEEclERKNS_7DevOmp5E_l139'
+
+/home/kelling/checkout/llvm/llvm-project/install/bin/clang-linker-wrapper: error: local memory (68072) exceeds limit (65536) in function '__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm2EEj27BlockSharedMemDynTestKernelJPbEEclERKNS_7DevOmp5E_l139'
+
+/home/kelling/checkout/llvm/llvm-project/install/bin/clang-linker-wrapper: error: local memory (68088) exceeds limit (65536) in function '__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm3EEj27BlockSharedMemDynTestKernelJPbEEclERKNS_7DevOmp5E_l139'
+
+/home/kelling/checkout/llvm/llvm-project/install/bin/clang-linker-wrapper: error: local memory (68104) exceeds limit (65536) in function '__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm4EEj27BlockSharedMemDynTestKernelJPbEEclERKNS_7DevOmp5E_l139'
+
+/home/kelling/checkout/llvm/llvm-project/install/bin/clang-linker-wrapper: error: Errors encountered inside the LTO pipeline.
+
+clang-16: error: linker command failed with exit code 1 (use -v to see invocation)
+
+test/unit/block/shared/CMakeFiles/blockSharedTest.dir/build.make:116: recipe for target 'test/unit/block/shared/blockSharedTest' failed
+
+make[2]: *** [test/unit/block/shared/blockSharedTest] Error 1
+
+make[2]: Target 'test/unit/block/shared/CMakeFiles/blockSharedTest.dir/build' not remade because of errors.
+
+CMakeFiles/Makefile2:2467: recipe for target 'test/unit/block/shared/CMakeFiles/blockSharedTest.dir/all' failed
+
+make[1]: *** [test/unit/block/shared/CMakeFiles/blockSharedTest.dir/all] Error 2

@@ -1,0 +1,3 @@
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:10888B sgpr_count:104 vgpr_count:23 sgpr_spill_count:29 vgpr_spill_count:0 tripcount:2 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEj33BlockSharedMemStSharingTestKernelJPjEEclERKNS_7DevOmp5E_l139
+
+

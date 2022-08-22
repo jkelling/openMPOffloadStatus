@@ -1,0 +1,41 @@
+'+atomic-fadd-insts' is not a recognized feature for this target (ignoring feature)
+
+'+atomic-fadd-insts' is not a recognized feature for this target (ignoring feature)
+
+/home/kelling/checkout/llvm/llvm-project-15/install/bin/clang-linker-wrapper: error: unhandled SGPR spill to memory
+
+/home/kelling/checkout/llvm/llvm-project-15/install/bin/clang-linker-wrapper: error: unhandled SGPR spill to memory
+
+/home/kelling/checkout/llvm/llvm-project-15/install/bin/clang-linker-wrapper: error: unhandled SGPR spill to memory
+
+/home/kelling/checkout/llvm/llvm-project-15/install/bin/clang-linker-wrapper: error: unhandled SGPR spill to memory
+
+/home/kelling/checkout/llvm/llvm-project-15/install/bin/clang-linker-wrapper: error: unhandled SGPR spill to memory
+
+/home/kelling/checkout/llvm/llvm-project-15/install/bin/clang-linker-wrapper: error: unhandled SGPR spill to memory
+
+/home/kelling/checkout/llvm/llvm-project-15/install/bin/clang-linker-wrapper: error: unhandled SGPR spill to memory
+
+/home/kelling/checkout/llvm/llvm-project-15/install/bin/clang-linker-wrapper: error: unhandled SGPR spill to memory
+
+/home/kelling/checkout/llvm/llvm-project-15/install/bin/clang-linker-wrapper: error: unhandled SGPR spill to memory
+
+/home/kelling/checkout/llvm/llvm-project-15/install/bin/clang-linker-wrapper: error: unhandled SGPR spill to memory
+
+/home/kelling/checkout/llvm/llvm-project-15/install/bin/clang-linker-wrapper: error: unhandled SGPR spill to memory
+
+/home/kelling/checkout/llvm/llvm-project-15/install/bin/clang-linker-wrapper: error: unhandled SGPR spill to memory
+
+/home/kelling/checkout/llvm/llvm-project-15/install/bin/clang-linker-wrapper: error: Errors encountered inside the LTO pipeline.
+
+clang-15: error: linker command failed with exit code 1 (use -v to see invocation)
+
+test/unit/block/shared/CMakeFiles/blockSharedTest.dir/build.make:116: recipe for target 'test/unit/block/shared/blockSharedTest' failed
+
+make[2]: *** [test/unit/block/shared/blockSharedTest] Error 1
+
+make[2]: Target 'test/unit/block/shared/CMakeFiles/blockSharedTest.dir/build' not remade because of errors.
+
+CMakeFiles/Makefile2:2467: recipe for target 'test/unit/block/shared/CMakeFiles/blockSharedTest.dir/all' failed
+
+make[1]: *** [test/unit/block/shared/CMakeFiles/blockSharedTest.dir/all] Error 2

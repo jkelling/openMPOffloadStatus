@@ -1,0 +1,9 @@
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:11144B sgpr_count:46 vgpr_count:39 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:4 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm6KernelJRKmRKPj8FunctionEEclERKNS_7DevOmp5E_l139
+
+exact result (pi / 4): 0.785398
+
+final result: 0.0245337
+
+error: 0.760864
+
+

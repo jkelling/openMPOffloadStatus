@@ -1,0 +1,23 @@
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58040B sgpr_count:81 vgpr_count:39 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:83109 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm2EEm16InitRandomKernelJRKNS_3VecIS2_mEERKPNS_4rand13Philox4x32x10INS_7AccOmp5IS2_mEEEERmEEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58040B sgpr_count:78 vgpr_count:38 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:83109 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm2EEm16InitRandomKernelJRKNS_3VecIS2_mEERKPNS_4rand19Philox4x32x10VectorINS_7AccOmp5IS2_mEEEERmEEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58040B sgpr_count:80 vgpr_count:46 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:83109 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm2EEm23RunTimestepKernelSingleJRKNS_3VecIS2_mEERKPNS_4rand13Philox4x32x10INS_7AccOmp5IS2_mEEEERKPfRmSJ_EEclERKNS_7DevOmp5E_l139
+
+DEVID: 0 SGN:1 ConstWGSize:256  args: 9 teamsXthrds:(   1X 256) reqd:(   1X   0) lds_usage:58040B sgpr_count:81 vgpr_count:48 sgpr_spill_count:0 vgpr_spill_count:0 tripcount:83109 n:__omp_offloading_802_a0677__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm2EEm23RunTimestepKernelVectorJRKNS_3VecIS2_mEERKPNS_4rand19Philox4x32x10VectorINS_7AccOmp5IS2_mEEEERKPfRmSJ_EEclERKNS_7DevOmp5E_l139
+
+Number of cells: 2636047
+
+Number of calculations per cell: 256
+
+Total number of calculations: 674828032
+
+Mean value A: 0.0157658 (should converge to 0.5)
+
+Mean value B: 0.015765 (should converge to 0.5)
+
+Maximum error expected at 674828032 calculations should be around 1.92475e-05
+
+Convergence test failed!
+
+
