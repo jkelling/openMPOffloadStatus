@@ -1,0 +1,3 @@
+Using alpaka accelerator: AccOmp5<1,unsigned int>
+
+

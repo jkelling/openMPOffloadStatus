@@ -1,0 +1,61 @@
+Randomness seeded to: 4025067897
+
+MandelbrotKernel( numRows:1024, numCols:1024, maxIterations:300, accelerator: AccCpuSerial<2,unsigned int>, kernel: 16MandelbrotKernel, workDiv: {gridBlockExtent: (1024, 1024), blockThreadExtent: (1, 1), threadElemExtent: (1, 1)})
+
+Execution time: 2073 ms
+
+MandelbrotKernel( numRows:1024, numCols:1024, maxIterations:300, accelerator: AccOmp5<2,unsigned int>, kernel: 16MandelbrotKernel, workDiv: {gridBlockExtent: (1024, 86), blockThreadExtent: (1, 12), threadElemExtent: (1, 1)})
+
+Execution time: CUDA error: the launch timed out and was terminated 
+
+Libomptarget error: Copying data from device failed.
+
+Libomptarget error: Call to targetDataEnd failed, abort target.
+
+Libomptarget error: Failed to process data after launching the kernel.
+
+Libomptarget error: Consult https://openmp.llvm.org/design/Runtimes.html for debugging options.
+
+Libomptarget error: Source location information not present. Compile with -g or -gline-tables-only.
+
+Libomptarget fatal error 1: failure of target construct while offloading is mandatory
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+mandelbrotTest is a Catch2 v3.0.1 host application.
+
+Run with -? for options
+
+
+
+-------------------------------------------------------------------------------
+
+mandelbrot - TestAccs - 1
+
+-------------------------------------------------------------------------------
+
+/home/kelling/checkout/alpakaTrees/develop/test/integ/mandelbrot/src/mandelbrot.cpp:259
+
+...............................................................................
+
+
+
+/home/kelling/checkout/alpakaTrees/develop/test/integ/mandelbrot/src/mandelbrot.cpp:259: FAILED:
+
+due to a fatal error condition:
+
+  SIGABRT - Abort (abnormal termination) signal
+
+
+
+===============================================================================
+
+test cases: 2 | 1 passed | 1 failed
+
+assertions: 1 | 1 failed
+
+
+
+

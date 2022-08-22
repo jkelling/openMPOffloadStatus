@@ -1,0 +1,11 @@
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm6KernelJRKmRKPj8FunctionEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe28c bytes, 0xc000 max)
+
+/home/kelling/checkout/llvm/trunk/llvm-project/install/bin/clang-linker-wrapper: error: 'nvlink' failed
+
+clang-16: error: linker command failed with exit code 1 (use -v to see invocation)
+
+make[2]: *** [example/monteCarloIntegration/CMakeFiles/monteCarloIntegration.dir/build.make:99: example/monteCarloIntegration/monteCarloIntegration] Error 1
+
+make[2]: Target 'example/monteCarloIntegration/CMakeFiles/monteCarloIntegration.dir/build' not remade because of errors.
+
+make[1]: *** [CMakeFiles/Makefile2:2042: example/monteCarloIntegration/CMakeFiles/monteCarloIntegration.dir/all] Error 2

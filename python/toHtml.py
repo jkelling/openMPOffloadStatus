@@ -12,6 +12,8 @@ def colorizeMake(td, val):
 		td.set('bgcolor', '#f70000')
 	elif val == 'e_lnk':
 		td.set('bgcolor', '#f77300')
+	elif val == 'ICE':
+		td.set('bgcolor', '#c2024f')
 	elif val == 'built':
 			return 0
 	return 1

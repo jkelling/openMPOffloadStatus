@@ -25,6 +25,8 @@ RE_nvcppVersion = re.compile("^(nvc\+\+ [0-9.-]+).*$")
 
 RE_gitDescribe = re.compile("^(.*g)?(.*)$")
 
+RE_clangICE = re.compile("^PLEASE submit a bug report to https.*$")
+
 class TargetInfo:
 	def __init__(self, name, action, log = None):
 		self.name = name
@@ -102,6 +104,9 @@ with open('make.log', 'r') as f:
 		match = RE_cmakeLog.match(line)
 		if match:
 			continue
+		match = RE_clangICE.match(line)
+		if match:
+			targets[-1].action = "ICE"
 
 		log.append(line)
 
@@ -141,7 +146,7 @@ CXX_FLAGS = cmakeCache["CMAKE_CXX_FLAGS"][1]
 TGTARCH = "??"
 if re.search("amdgcn-amd-amdhsa", CXX_FLAGS):
 	TGTARCH = "HSA"
-elif re.search("ta=tesla", CXX_FLAGS):
+elif re.search("ta=tesla", CXX_FLAGS) or re.search("nvptx64", CXX_FLAGS):
 	TGTARCH = "NVPTX"
 
 f = subprocess.run("{} --version".format(CXX), stdout=subprocess.PIPE, shell=True)

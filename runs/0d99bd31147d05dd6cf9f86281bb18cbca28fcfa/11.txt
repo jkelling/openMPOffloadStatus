@@ -1,0 +1,11 @@
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm2EEj16MandelbrotKernelJPjRKjS6_jRKfS8_S8_S8_S6_EEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe294 bytes, 0xc000 max)
+
+/home/kelling/checkout/llvm/trunk/llvm-project/install/bin/clang-linker-wrapper: error: 'nvlink' failed
+
+clang-16: error: linker command failed with exit code 1 (use -v to see invocation)
+
+make[2]: *** [test/integ/mandelbrot/CMakeFiles/mandelbrotTest.dir/build.make:101: test/integ/mandelbrot/mandelbrotTest] Error 1
+
+make[2]: Target 'test/integ/mandelbrot/CMakeFiles/mandelbrotTest.dir/build' not remade because of errors.
+
+make[1]: *** [CMakeFiles/Makefile2:2306: test/integ/mandelbrot/CMakeFiles/mandelbrotTest.dir/all] Error 2

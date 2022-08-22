@@ -1,0 +1,61 @@
+Randomness seeded to: 1049936584
+
+SharedMemKernel( accelerator: AccCpuSerial<1,unsigned int>, kernel: 15SharedMemKernelISt17integral_constantIjLj100EEiE, workDiv: {gridBlockExtent: (65536), blockThreadExtent: (1), threadElemExtent: (1)})
+
+Execution time: 42 ms
+
+SharedMemKernel( accelerator: AccOmp5<1,unsigned int>, kernel: 15SharedMemKernelISt17integral_constantIjLj100EEiE, workDiv: {gridBlockExtent: (5462), blockThreadExtent: (12), threadElemExtent: (1)})
+
+Execution time: CUDA error: an illegal instruction was encountered 
+
+Libomptarget error: Copying data from device failed.
+
+Libomptarget error: Call to targetDataEnd failed, abort target.
+
+Libomptarget error: Failed to process data after launching the kernel.
+
+Libomptarget error: Consult https://openmp.llvm.org/design/Runtimes.html for debugging options.
+
+Libomptarget error: Source location information not present. Compile with -g or -gline-tables-only.
+
+Libomptarget fatal error 1: failure of target construct while offloading is mandatory
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+sharedMemTest is a Catch2 v3.0.1 host application.
+
+Run with -? for options
+
+
+
+-------------------------------------------------------------------------------
+
+sharedMem - TestAccs - 1
+
+-------------------------------------------------------------------------------
+
+/home/kelling/checkout/alpakaTrees/develop/test/integ/sharedMem/src/sharedMem.cpp:112
+
+...............................................................................
+
+
+
+/home/kelling/checkout/alpakaTrees/develop/test/integ/sharedMem/src/sharedMem.cpp:112: FAILED:
+
+due to a fatal error condition:
+
+  SIGABRT - Abort (abnormal termination) signal
+
+
+
+===============================================================================
+
+test cases: 2 | 1 passed | 1 failed
+
+assertions: 2 | 1 passed | 1 failed
+
+
+
+

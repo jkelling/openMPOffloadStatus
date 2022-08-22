@@ -1,0 +1,73 @@
+Randomness seeded to: 2724446048
+
+MatMulKernel(m:64, n:79, k:23, accelerator: AccCpuSerial<2,unsigned int>, kernel: 12MatMulKernel, workDiv: {gridBlockExtent: (64, 79), blockThreadExtent: (1, 1), threadElemExtent: (1, 1)})
+
+Input1 copy time: 0 ms
+
+Input2 copy time: 0 ms
+
+Execution time:   5 ms
+
+Output copy time: 0 ms
+
+MatMulKernel(m:64, n:79, k:23, accelerator: AccOmp5<2,unsigned int>, kernel: 12MatMulKernel, workDiv: {gridBlockExtent: (22, 27), blockThreadExtent: (3, 3), threadElemExtent: (1, 1)})
+
+Input1 copy time: 0 ms
+
+Input2 copy time: 0 ms
+
+Execution time:   CUDA error: an illegal instruction was encountered 
+
+Libomptarget error: Copying data from device failed.
+
+Libomptarget error: Call to targetDataEnd failed, abort target.
+
+Libomptarget error: Failed to process data after launching the kernel.
+
+Libomptarget error: Consult https://openmp.llvm.org/design/Runtimes.html for debugging options.
+
+Libomptarget error: Source location information not present. Compile with -g or -gline-tables-only.
+
+Libomptarget fatal error 1: failure of target construct while offloading is mandatory
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+matMulTest is a Catch2 v3.0.1 host application.
+
+Run with -? for options
+
+
+
+-------------------------------------------------------------------------------
+
+matMul - TestAccs - 1
+
+-------------------------------------------------------------------------------
+
+/home/kelling/checkout/alpakaTrees/develop/test/integ/matMul/src/matMul.cpp:157
+
+...............................................................................
+
+
+
+/home/kelling/checkout/alpakaTrees/develop/test/integ/matMul/src/matMul.cpp:157: FAILED:
+
+  {Unknown expression after the reported line}
+
+due to a fatal error condition:
+
+  SIGABRT - Abort (abnormal termination) signal
+
+
+
+===============================================================================
+
+test cases: 2 | 1 passed | 1 failed
+
+assertions: 8 | 7 passed | 1 failed
+
+
+
+

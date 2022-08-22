@@ -1,0 +1,15 @@
+CUDA error: the launch timed out and was terminated 
+
+Libomptarget error: Copying data from device failed.
+
+Libomptarget error: Call to targetDataEnd failed, abort target.
+
+Libomptarget error: Failed to process data after launching the kernel.
+
+Libomptarget error: Consult https://openmp.llvm.org/design/Runtimes.html for debugging options.
+
+Libomptarget error: Source location information not present. Compile with -g or -gline-tables-only.
+
+Libomptarget fatal error 1: failure of target construct while offloading is mandatory
+
+

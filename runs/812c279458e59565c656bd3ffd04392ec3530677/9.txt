@@ -1,0 +1,55 @@
+Randomness seeded to: 1082999426
+
+CUDA error: an illegal instruction was encountered 
+
+Libomptarget error: Copying data from device failed.
+
+Libomptarget error: Call to targetDataEnd failed, abort target.
+
+Libomptarget error: Failed to process data after launching the kernel.
+
+Libomptarget error: Consult https://openmp.llvm.org/design/Runtimes.html for debugging options.
+
+Libomptarget error: Source location information not present. Compile with -g or -gline-tables-only.
+
+Libomptarget fatal error 1: failure of target construct while offloading is mandatory
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+blockSharedTest is a Catch2 v3.0.1 host application.
+
+Run with -? for options
+
+
+
+-------------------------------------------------------------------------------
+
+nonNull - alpaka::test::TestAccs - 1
+
+-------------------------------------------------------------------------------
+
+/home/kelling/checkout/alpakaTrees/develop/test/unit/block/shared/src/BlockSharedMemSt.cpp:65
+
+...............................................................................
+
+
+
+/home/kelling/checkout/alpakaTrees/develop/test/unit/block/shared/src/BlockSharedMemSt.cpp:65: FAILED:
+
+due to a fatal error condition:
+
+  SIGABRT - Abort (abnormal termination) signal
+
+
+
+===============================================================================
+
+test cases: 42 | 41 passed | 1 failed
+
+assertions: 42 | 41 passed | 1 failed
+
+
+
+

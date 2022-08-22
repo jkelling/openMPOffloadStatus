@@ -1,0 +1,369 @@
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm4EEj38ActivemaskMultipleThreadWarpTestKernelJPbRjEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2b0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm4EEj36ActivemaskSingleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2b0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm3EEj38ActivemaskMultipleThreadWarpTestKernelJPbRjEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2a0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm3EEj36ActivemaskSingleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2a0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm2EEj38ActivemaskMultipleThreadWarpTestKernelJPbRjEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe290 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm2EEj36ActivemaskSingleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe290 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEj38ActivemaskMultipleThreadWarpTestKernelJPbRjEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe280 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEj36ActivemaskSingleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe280 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEjNS_12MemSetKernelEJRKhPhRNS_3VecIS2_jEES9_EEclERKNS_7DevOmp5E_l139' uses too much shared data (0x48fc0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm4EEi38ActivemaskMultipleThreadWarpTestKernelJPbRjEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2b0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm4EEi36ActivemaskSingleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2b0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm3EEi38ActivemaskMultipleThreadWarpTestKernelJPbRjEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2a0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm3EEi36ActivemaskSingleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2a0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm2EEi38ActivemaskMultipleThreadWarpTestKernelJPbRjEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe290 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm2EEi36ActivemaskSingleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe290 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEi38ActivemaskMultipleThreadWarpTestKernelJPbRjEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe280 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEi36ActivemaskSingleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe280 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEiNS_12MemSetKernelEJRKhPhRNS_3VecIS2_iEES9_EEclERKNS_7DevOmp5E_l139' uses too much shared data (0x48fc0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm4EEm38ActivemaskMultipleThreadWarpTestKernelJPbRjEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2e0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm4EEm36ActivemaskSingleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2e0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm3EEm38ActivemaskMultipleThreadWarpTestKernelJPbRjEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2c0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm3EEm36ActivemaskSingleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2c0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm2EEm38ActivemaskMultipleThreadWarpTestKernelJPbRjEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2b0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm2EEm36ActivemaskSingleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2b0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm38ActivemaskMultipleThreadWarpTestKernelJPbRjEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe290 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm36ActivemaskSingleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe290 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEmNS_12MemSetKernelEJRKhPhRNS_3VecIS2_mEES9_EEclERKNS_7DevOmp5E_l139' uses too much shared data (0x49020 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm4EEl38ActivemaskMultipleThreadWarpTestKernelJPbRjEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2e0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm4EEl36ActivemaskSingleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2e0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm3EEl38ActivemaskMultipleThreadWarpTestKernelJPbRjEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2c0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm3EEl36ActivemaskSingleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2c0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm2EEl38ActivemaskMultipleThreadWarpTestKernelJPbRjEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2b0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm2EEl36ActivemaskSingleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2b0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEl38ActivemaskMultipleThreadWarpTestKernelJPbRjEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe290 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEl36ActivemaskSingleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe290 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EElNS_12MemSetKernelEJRKhPhRNS_3VecIS2_lEES9_EEclERKNS_7DevOmp5E_l139' uses too much shared data (0x49020 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm4EEj31AllMultipleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2b0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm4EEj29AllSingleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2b0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm3EEj31AllMultipleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2a0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm3EEj29AllSingleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2a0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm2EEj31AllMultipleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe290 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm2EEj29AllSingleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe290 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEj31AllMultipleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe280 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEj29AllSingleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe280 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm4EEi31AllMultipleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2b0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm4EEi29AllSingleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2b0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm3EEi31AllMultipleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2a0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm3EEi29AllSingleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2a0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm2EEi31AllMultipleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe290 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm2EEi29AllSingleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe290 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEi31AllMultipleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe280 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEi29AllSingleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe280 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm4EEm31AllMultipleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2e0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm4EEm29AllSingleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2e0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm3EEm31AllMultipleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2c0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm3EEm29AllSingleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2c0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm2EEm31AllMultipleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2b0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm2EEm29AllSingleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2b0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm31AllMultipleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe290 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm29AllSingleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe290 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm4EEl31AllMultipleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2e0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm4EEl29AllSingleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2e0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm3EEl31AllMultipleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2c0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm3EEl29AllSingleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2c0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm2EEl31AllMultipleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2b0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm2EEl29AllSingleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2b0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEl31AllMultipleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe290 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEl29AllSingleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe290 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm4EEj31AnyMultipleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2b0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm4EEj29AnySingleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2b0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm3EEj31AnyMultipleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2a0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm3EEj29AnySingleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2a0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm2EEj31AnyMultipleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe290 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm2EEj29AnySingleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe290 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEj31AnyMultipleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe280 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEj29AnySingleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe280 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm4EEi31AnyMultipleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2b0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm4EEi29AnySingleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2b0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm3EEi31AnyMultipleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2a0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm3EEi29AnySingleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2a0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm2EEi31AnyMultipleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe290 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm2EEi29AnySingleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe290 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEi31AnyMultipleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe280 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEi29AnySingleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe280 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm4EEm31AnyMultipleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2e0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm4EEm29AnySingleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2e0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm3EEm31AnyMultipleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2c0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm3EEm29AnySingleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2c0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm2EEm31AnyMultipleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2b0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm2EEm29AnySingleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2b0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm31AnyMultipleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe290 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm29AnySingleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe290 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm4EEl31AnyMultipleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2e0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm4EEl29AnySingleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2e0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm3EEl31AnyMultipleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2c0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm3EEl29AnySingleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2c0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm2EEl31AnyMultipleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2b0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm2EEl29AnySingleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2b0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEl31AnyMultipleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe290 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEl29AnySingleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe290 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm4EEj34BallotMultipleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2b0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm4EEj32BallotSingleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2b0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm3EEj34BallotMultipleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2a0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm3EEj32BallotSingleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2a0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm2EEj34BallotMultipleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe290 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm2EEj32BallotSingleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe290 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEj34BallotMultipleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe280 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEj32BallotSingleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe280 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm4EEi34BallotMultipleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2b0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm4EEi32BallotSingleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2b0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm3EEi34BallotMultipleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2a0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm3EEi32BallotSingleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2a0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm2EEi34BallotMultipleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe290 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm2EEi32BallotSingleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe290 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEi34BallotMultipleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe280 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEi32BallotSingleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe280 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm4EEm34BallotMultipleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2e0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm4EEm32BallotSingleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2e0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm3EEm34BallotMultipleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2c0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm3EEm32BallotSingleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2c0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm2EEm34BallotMultipleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2b0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm2EEm32BallotSingleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2b0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm34BallotMultipleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe290 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm32BallotSingleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe290 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm4EEl34BallotMultipleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2e0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm4EEl32BallotSingleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2e0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm3EEl34BallotMultipleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2c0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm3EEl32BallotSingleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2c0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm2EEl34BallotMultipleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2b0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm2EEl32BallotSingleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2b0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEl34BallotMultipleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe290 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEl32BallotSingleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe290 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm4EEj17GetSizeTestKernelJPbiEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2b0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm3EEj17GetSizeTestKernelJPbiEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2a0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm2EEj17GetSizeTestKernelJPbiEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe290 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEj17GetSizeTestKernelJPbiEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe280 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm4EEi17GetSizeTestKernelJPbiEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2b0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm3EEi17GetSizeTestKernelJPbiEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2a0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm2EEi17GetSizeTestKernelJPbiEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe290 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEi17GetSizeTestKernelJPbiEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe280 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm4EEm17GetSizeTestKernelJPbiEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2e0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm3EEm17GetSizeTestKernelJPbiEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2c0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm2EEm17GetSizeTestKernelJPbiEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2b0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm17GetSizeTestKernelJPbiEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe290 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm4EEl17GetSizeTestKernelJPbiEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2e0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm3EEl17GetSizeTestKernelJPbiEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2c0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm2EEl17GetSizeTestKernelJPbiEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2b0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEl17GetSizeTestKernelJPbiEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe290 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm4EEj32ShflMultipleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2b0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm4EEj30ShflSingleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2b0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm3EEj32ShflMultipleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2a0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm3EEj30ShflSingleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2a0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm2EEj32ShflMultipleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe290 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm2EEj30ShflSingleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe290 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEj32ShflMultipleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe280 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEj30ShflSingleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe280 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm4EEi32ShflMultipleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2b0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm4EEi30ShflSingleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2b0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm3EEi32ShflMultipleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2a0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm3EEi30ShflSingleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2a0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm2EEi32ShflMultipleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe290 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm2EEi30ShflSingleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe290 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEi32ShflMultipleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe280 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEi30ShflSingleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe280 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm4EEm32ShflMultipleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2e0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm4EEm30ShflSingleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2e0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm3EEm32ShflMultipleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2c0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm3EEm30ShflSingleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2c0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm2EEm32ShflMultipleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2b0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm2EEm30ShflSingleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2b0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm32ShflMultipleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe290 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm30ShflSingleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe290 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm4EEl32ShflMultipleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2e0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm4EEl30ShflSingleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2e0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm3EEl32ShflMultipleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2c0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm3EEl30ShflSingleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2c0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm2EEl32ShflMultipleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2b0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm2EEl30ShflSingleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2b0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEl32ShflMultipleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe290 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEl30ShflSingleThreadWarpTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe290 bytes, 0xc000 max)
+
+/home/kelling/checkout/llvm/trunk/llvm-project/install/bin/clang-linker-wrapper: error: 'nvlink' failed
+
+clang-16: error: linker command failed with exit code 1 (use -v to see invocation)
+
+make[2]: *** [test/unit/warp/CMakeFiles/warpTest.dir/build.make:181: test/unit/warp/warpTest] Error 1
+
+make[2]: Target 'test/unit/warp/CMakeFiles/warpTest.dir/build' not remade because of errors.
+
+make[1]: *** [CMakeFiles/Makefile2:3035: test/unit/warp/CMakeFiles/warpTest.dir/all] Error 2

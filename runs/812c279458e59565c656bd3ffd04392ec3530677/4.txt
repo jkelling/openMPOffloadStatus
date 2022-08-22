@@ -1,0 +1,51 @@
+Using alpaka accelerator: AccOmp5<1,unsigned long>
+
+Time for kernel execution: 1.35721s
+
+Time for HtoD copy: 0.000130549s
+
+C[8] == 0 != 15
+
+C[9] == 0 != 63
+
+C[10] == 0 != 68
+
+C[11] == 0 != 63
+
+C[12] == 0 != 20
+
+C[13] == 0 != 47
+
+C[14] == 0 != 25
+
+C[15] == 0 != 68
+
+C[16] == 0 != 15
+
+C[17] == 0 != 56
+
+C[18] == 0 != 41
+
+C[19] == 0 != 4
+
+C[20] == 0 != 57
+
+C[21] == 0 != 46
+
+C[22] == 0 != 54
+
+C[23] == 0 != 61
+
+C[24] == 0 != 60
+
+C[25] == 0 != 23
+
+C[26] == 0 != 35
+
+C[27] == 0 != 78
+
+Found 113168 false results, printed no more than 20
+
+Execution results incorrect!
+
+

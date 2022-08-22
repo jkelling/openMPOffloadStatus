@@ -1,0 +1,49 @@
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm4EEj14RandTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2b0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm3EEj14RandTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2a0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm2EEj14RandTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe290 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEj14RandTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe280 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEjNS_12MemSetKernelEJRKhPhRNS_3VecIS2_jEES9_EEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe280 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm4EEi14RandTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2b0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm3EEi14RandTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2a0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm2EEi14RandTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe290 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEi14RandTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe280 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEiNS_12MemSetKernelEJRKhPhRNS_3VecIS2_iEES9_EEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe280 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm4EEm14RandTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2e0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm3EEm14RandTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2c0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm2EEm14RandTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2b0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEm14RandTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe290 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEmNS_12MemSetKernelEJRKhPhRNS_3VecIS2_mEES9_EEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe290 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm4EEl14RandTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2e0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm3EEl14RandTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2c0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm2EEl14RandTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2b0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EEl14RandTestKernelJPbEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe290 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm1EElNS_12MemSetKernelEJRKhPhRNS_3VecIS2_lEES9_EEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe290 bytes, 0xc000 max)
+
+/home/kelling/checkout/llvm/trunk/llvm-project/install/bin/clang-linker-wrapper: error: 'nvlink' failed
+
+clang-16: error: linker command failed with exit code 1 (use -v to see invocation)
+
+make[2]: *** [test/unit/rand/CMakeFiles/randTest.dir/build.make:101: test/unit/rand/randTest] Error 1
+
+make[2]: Target 'test/unit/rand/CMakeFiles/randTest.dir/build' not remade because of errors.
+
+make[1]: *** [CMakeFiles/Makefile2:2927: test/unit/rand/CMakeFiles/randTest.dir/all] Error 2

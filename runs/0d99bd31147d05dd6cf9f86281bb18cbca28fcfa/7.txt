@@ -1,0 +1,17 @@
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm2EEm23RunTimestepKernelVectorJRKNS_3VecIS2_mEERKPNS_4rand19Philox4x32x10VectorINS_7AccOmp5IS2_mEEEERKPfRmSJ_EEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2b0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm2EEm23RunTimestepKernelSingleJRKNS_3VecIS2_mEERKPNS_4rand13Philox4x32x10INS_7AccOmp5IS2_mEEEERKPfRmSJ_EEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2b0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm2EEm16InitRandomKernelJRKNS_3VecIS2_mEERKPNS_4rand19Philox4x32x10VectorINS_7AccOmp5IS2_mEEEERmEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2b0 bytes, 0xc000 max)
+
+nvlink error   : Entry function '__omp_offloading_811_b0289b__ZNK6alpaka14TaskKernelOmp5ISt17integral_constantImLm2EEm16InitRandomKernelJRKNS_3VecIS2_mEERKPNS_4rand13Philox4x32x10INS_7AccOmp5IS2_mEEEERmEEclERKNS_7DevOmp5E_l139' uses too much shared data (0xe2b0 bytes, 0xc000 max)
+
+/home/kelling/checkout/llvm/trunk/llvm-project/install/bin/clang-linker-wrapper: error: 'nvlink' failed
+
+clang-16: error: linker command failed with exit code 1 (use -v to see invocation)
+
+make[2]: *** [example/randomCells2D/CMakeFiles/randomCells2D.dir/build.make:99: example/randomCells2D/randomCells2D] Error 1
+
+make[2]: Target 'example/randomCells2D/CMakeFiles/randomCells2D.dir/build' not remade because of errors.
+
+make[1]: *** [CMakeFiles/Makefile2:2120: example/randomCells2D/CMakeFiles/randomCells2D.dir/all] Error 2

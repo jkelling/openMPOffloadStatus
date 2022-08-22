@@ -1,0 +1,149 @@
+clang-16: /home/kelling/checkout/llvm/trunk/llvm-project/llvm/include/llvm/Support/Casting.h:578: decltype(auto) llvm::cast(From*) [with To = llvm::IntegerType; From = const llvm::Type]: Assertion `isa<To>(Val) && "cast<Ty>() argument of incompatible type!"' failed.
+
+PLEASE submit a bug report to https://github.com/llvm/llvm-project/issues/ and include the crash backtrace, preprocessed source, and associated run script.
+
+Stack dump:
+
+0.	Program arguments: /home/kelling/checkout/llvm/trunk/llvm-project/install/bin/clang-16 -cc1 -triple nvptx64-nvidia-cuda -aux-triple x86_64-unknown-linux-gnu -S -disable-free -clear-ast-before-backend -main-file-name bufferCopy.cpp -mrelocation-model pic -pic-level 2 -fhalf-no-semantic-interposition -mframe-pointer=all -ffp-contract=on -fno-rounding-math -fno-verbose-asm -no-integrated-as -mlink-builtin-bitcode /opt/nvidia/hpc_sdk/Linux_x86_64/22.1/cuda/11.5/nvvm/libdevice/libdevice.10.bc -target-sdk-version=11.5 -mlink-builtin-bitcode /home/kelling/checkout/llvm/trunk/llvm-project/install/lib/libomptarget-nvptx-sm_35.bc -target-cpu sm_35 -target-feature +ptx75 -mllvm -treat-scalable-fixed-error-as-warning -debugger-tuning=gdb -fno-dwarf-directory-asm -resource-dir /home/kelling/checkout/llvm/trunk/llvm-project/install/lib/clang/16.0.0 -dependency-file CMakeFiles/bufferCopy.dir/src/bufferCopy.cpp.o.d -MT example/bufferCopy/CMakeFiles/bufferCopy.dir/src/bufferCopy.cpp.o -sys-header-deps -internal-isystem /home/kelling/checkout/llvm/trunk/llvm-project/install/lib/clang/16.0.0/include/openmp_wrappers -include __clang_openmp_device_functions.h -D ALPAKA_ACC_ANY_BT_OMP5_ENABLED -D ALPAKA_ACC_CPU_B_SEQ_T_SEQ_ENABLED -D ALPAKA_BLOCK_SHARED_DYN_MEMBER_ALLOC_KIB=47 -D ALPAKA_DEBUG=0 -D ALPAKA_OFFLOAD_MAX_BLOCK_SIZE=256 -D BOOST_ALL_NO_LIB -D BOOST_ATOMIC_DYN_LINK -I /home/kelling/checkout/alpakaTrees/develop/include -I/home/kelling/checkout/glm/ -I/home/kelling/checkout/cudakmc//inc -I/usr/lib/openmpi/include/ -I/opt/AMDAPPSDK-2.9-1//include/ -I/home/kelling/checkout/libSplash/build/include/ -I/home/kelling/checkout/ntl-6.0.0/install/include -I/home/kelling/checkout/hdf5-1.10.0/install/include -I/ -I/home/kelling/checkout/HIP/install//include -internal-isystem /usr/lib/gcc/x86_64-linux-gnu/11/../../../../include/c++/11 -internal-isystem /usr/lib/gcc/x86_64-linux-gnu/11/../../../../include/x86_64-linux-gnu/c++/11 -internal-isystem /usr/lib/gcc/x86_64-linux-gnu/11/../../../../include/c++/11/backward -internal-isystem /usr/lib/gcc/x86_64-linux-gnu/11/../../../../include/c++/11 -internal-isystem /usr/lib/gcc/x86_64-linux-gnu/11/../../../../include/x86_64-linux-gnu/c++/11 -internal-isystem /usr/lib/gcc/x86_64-linux-gnu/11/../../../../include/c++/11/backward -internal-isystem /home/kelling/checkout/llvm/trunk/llvm-project/install/lib/clang/16.0.0/include -internal-isystem /usr/local/include -internal-isystem /usr/lib/gcc/x86_64-linux-gnu/11/../../../../x86_64-linux-gnu/include -internal-externc-isystem /usr/include/x86_64-linux-gnu -internal-externc-isystem /include -internal-externc-isystem /usr/include -internal-isystem /opt/nvidia/hpc_sdk/Linux_x86_64/22.1/cuda/11.5/include -internal-isystem /home/kelling/checkout/llvm/trunk/llvm-project/install/lib/clang/16.0.0/include -internal-isystem /usr/local/include -internal-isystem /usr/lib/gcc/x86_64-linux-gnu/11/../../../../x86_64-linux-gnu/include -internal-externc-isystem /usr/include/x86_64-linux-gnu -internal-externc-isystem /include -internal-externc-isystem /usr/include -O2 -Wno-openmp-mapping -std=gnu++17 -fdeprecated-macro -fdebug-compilation-dir=/home/kelling/checkout/alpakaTrees/develop/buildLLVMMain_nvptx/example/bufferCopy -ferror-limit 19 -fvisibility protected -fopenmp -fgnuc-version=4.2.1 -fcxx-exceptions -fexceptions -vectorize-loops -vectorize-slp -fopenmp-is-device -fopenmp-host-ir-file-path /tmp/bufferCopy-30e373.bc -D__GCC_HAVE_DWARF2_CFI_ASM=1 -o /tmp/bufferCopy-6f9394.s -x c++ /home/kelling/checkout/alpakaTrees/develop/example/bufferCopy/src/bufferCopy.cpp
+
+1.	<eof> parser at end of file
+
+2.	Optimizer
+
+ #0 0x0000562233413205 PrintStackTraceSignalHandler(void*) Signals.cpp:0:0
+
+ #1 0x00005622334108b4 SignalHandler(int) Signals.cpp:0:0
+
+ #2 0x00007faf407fe520 (/lib/x86_64-linux-gnu/libc.so.6+0x42520)
+
+ #3 0x00007faf40852a7c __pthread_kill_implementation ./nptl/pthread_kill.c:44:76
+
+ #4 0x00007faf40852a7c __pthread_kill_internal ./nptl/pthread_kill.c:78:10
+
+ #5 0x00007faf40852a7c pthread_kill ./nptl/pthread_kill.c:89:10
+
+ #6 0x00007faf407fe476 gsignal ./signal/../sysdeps/posix/raise.c:27:6
+
+ #7 0x00007faf407e47f3 abort ./stdlib/abort.c:81:7
+
+ #8 0x00007faf407e471b _nl_load_domain ./intl/loadmsgcat.c:1177:9
+
+ #9 0x00007faf407f5e96 (/lib/x86_64-linux-gnu/libc.so.6+0x39e96)
+
+#10 0x0000562232c427cf llvm::AAValueConstantRange::createForPosition(llvm::IRPosition const&, llvm::Attributor&) (/home/kelling/checkout/llvm/trunk/llvm-project/install/bin/clang-16+0x1ca97cf)
+
+#11 0x0000562232c7befb llvm::AAValueConstantRange const& llvm::Attributor::getOrCreateAAFor<llvm::AAValueConstantRange>(llvm::IRPosition, llvm::AbstractAttribute const*, llvm::DepClassTy, bool, bool) (/home/kelling/checkout/llvm/trunk/llvm-project/install/bin/clang-16+0x1ce2efb)
+
+#12 0x0000562232c7d8c5 bool llvm::function_ref<bool (llvm::Value&)>::callback_fn<void clampReturnedValueStates<llvm::AAValueConstantRange, llvm::IntegerRangeState>(llvm::Attributor&, llvm::AAValueConstantRange const&, llvm::IntegerRangeState&, llvm::CallBase const*)::'lambda'(llvm::Value&)>(long, llvm::Value&) AttributorAttributes.cpp:0:0
+
+#13 0x0000562232c1a305 (anonymous namespace)::AAReturnedValuesImpl::checkForAllReturnedValuesAndReturnInsts(llvm::function_ref<bool (llvm::Value&, llvm::SmallSetVector<llvm::ReturnInst*, 4u> const&)>) const AttributorAttributes.cpp:0:0
+
+#14 0x0000562232c026bf llvm::Attributor::checkForAllReturnedValues(llvm::function_ref<bool (llvm::Value&)>, llvm::AbstractAttribute const&) (/home/kelling/checkout/llvm/trunk/llvm-project/install/bin/clang-16+0x1c696bf)
+
+#15 0x0000562232c3fb26 (anonymous namespace)::AAReturnedFromReturnedValues<llvm::AAValueConstantRange, (anonymous namespace)::AAValueConstantRangeImpl, llvm::IntegerRangeState, true>::updateImpl(llvm::Attributor&) AttributorAttributes.cpp:0:0
+
+#16 0x0000562232bead5a llvm::AbstractAttribute::update(llvm::Attributor&) (/home/kelling/checkout/llvm/trunk/llvm-project/install/bin/clang-16+0x1c51d5a)
+
+#17 0x0000562232bff2bb llvm::Attributor::updateAA(llvm::AbstractAttribute&) (/home/kelling/checkout/llvm/trunk/llvm-project/install/bin/clang-16+0x1c662bb)
+
+#18 0x0000562232c7c335 llvm::AAValueConstantRange const& llvm::Attributor::getOrCreateAAFor<llvm::AAValueConstantRange>(llvm::IRPosition, llvm::AbstractAttribute const*, llvm::DepClassTy, bool, bool) (/home/kelling/checkout/llvm/trunk/llvm-project/install/bin/clang-16+0x1ce3335)
+
+#19 0x0000562232c7cb92 (anonymous namespace)::AACallSiteReturnedFromReturned<llvm::AAValueConstantRange, (anonymous namespace)::AAValueConstantRangeImpl, llvm::IntegerRangeState, true>::updateImpl(llvm::Attributor&) AttributorAttributes.cpp:0:0
+
+#20 0x0000562232bead5a llvm::AbstractAttribute::update(llvm::Attributor&) (/home/kelling/checkout/llvm/trunk/llvm-project/install/bin/clang-16+0x1c51d5a)
+
+#21 0x0000562232bff2bb llvm::Attributor::updateAA(llvm::AbstractAttribute&) (/home/kelling/checkout/llvm/trunk/llvm-project/install/bin/clang-16+0x1c662bb)
+
+#22 0x0000562232c7c335 llvm::AAValueConstantRange const& llvm::Attributor::getOrCreateAAFor<llvm::AAValueConstantRange>(llvm::IRPosition, llvm::AbstractAttribute const*, llvm::DepClassTy, bool, bool) (/home/kelling/checkout/llvm/trunk/llvm-project/install/bin/clang-16+0x1ce3335)
+
+#23 0x0000562232c834cb (anonymous namespace)::AAPotentialValuesImpl::addValue(llvm::Attributor&, llvm::PotentialValuesState<std::pair<llvm::AA::ValueAndContext, llvm::AA::ValueScope>>&, llvm::Value&, llvm::Instruction const*, llvm::AA::ValueScope, llvm::Function*) const (.constprop.0) AttributorAttributes.cpp:0:0
+
+#24 0x0000562232c836b3 (anonymous namespace)::AAPotentialValuesImpl::giveUpOnIntraprocedural(llvm::Attributor&) AttributorAttributes.cpp:0:0
+
+#25 0x0000562232c8436c (anonymous namespace)::AAPotentialValuesCallSiteReturned::updateImpl(llvm::Attributor&) AttributorAttributes.cpp:0:0
+
+#26 0x0000562232bead5a llvm::AbstractAttribute::update(llvm::Attributor&) (/home/kelling/checkout/llvm/trunk/llvm-project/install/bin/clang-16+0x1c51d5a)
+
+#27 0x0000562232bff2bb llvm::Attributor::updateAA(llvm::AbstractAttribute&) (/home/kelling/checkout/llvm/trunk/llvm-project/install/bin/clang-16+0x1c662bb)
+
+#28 0x0000562232c02ddc llvm::Attributor::runTillFixpoint() (/home/kelling/checkout/llvm/trunk/llvm-project/install/bin/clang-16+0x1c69ddc)
+
+#29 0x0000562232c173ec llvm::Attributor::run() (/home/kelling/checkout/llvm/trunk/llvm-project/install/bin/clang-16+0x1c7e3ec)
+
+#30 0x0000562232d2ca66 (anonymous namespace)::OpenMPOpt::runAttributor(bool) (.part.0) OpenMPOpt.cpp:0:0
+
+#31 0x0000562232d2efca (anonymous namespace)::OpenMPOpt::run(bool) OpenMPOpt.cpp:0:0
+
+#32 0x0000562232d31140 llvm::OpenMPOptPass::run(llvm::Module&, llvm::AnalysisManager<llvm::Module>&) (/home/kelling/checkout/llvm/trunk/llvm-project/install/bin/clang-16+0x1d98140)
+
+#33 0x00005622346ffb76 llvm::detail::PassModel<llvm::Module, llvm::OpenMPOptPass, llvm::PreservedAnalyses, llvm::AnalysisManager<llvm::Module>>::run(llvm::Module&, llvm::AnalysisManager<llvm::Module>&) (/home/kelling/checkout/llvm/trunk/llvm-project/install/bin/clang-16+0x3766b76)
+
+#34 0x0000562232b89595 llvm::PassManager<llvm::Module, llvm::AnalysisManager<llvm::Module>>::run(llvm::Module&, llvm::AnalysisManager<llvm::Module>&) (/home/kelling/checkout/llvm/trunk/llvm-project/install/bin/clang-16+0x1bf0595)
+
+#35 0x00005622337c2878 (anonymous namespace)::EmitAssemblyHelper::RunOptimizationPipeline(clang::BackendAction, std::unique_ptr<llvm::raw_pwrite_stream, std::default_delete<llvm::raw_pwrite_stream>>&, std::unique_ptr<llvm::ToolOutputFile, std::default_delete<llvm::ToolOutputFile>>&) BackendUtil.cpp:0:0
+
+#36 0x00005622337c4f37 clang::EmitBackendOutput(clang::DiagnosticsEngine&, clang::HeaderSearchOptions const&, clang::CodeGenOptions const&, clang::TargetOptions const&, clang::LangOptions const&, llvm::StringRef, llvm::Module*, clang::BackendAction, std::unique_ptr<llvm::raw_pwrite_stream, std::default_delete<llvm::raw_pwrite_stream>>) (/home/kelling/checkout/llvm/trunk/llvm-project/install/bin/clang-16+0x282bf37)
+
+#37 0x000056223468b702 clang::BackendConsumer::HandleTranslationUnit(clang::ASTContext&) (/home/kelling/checkout/llvm/trunk/llvm-project/install/bin/clang-16+0x36f2702)
+
+#38 0x000056223538e0c9 clang::ParseAST(clang::Sema&, bool, bool) (/home/kelling/checkout/llvm/trunk/llvm-project/install/bin/clang-16+0x43f50c9)
+
+#39 0x0000562233f816e9 clang::FrontendAction::Execute() (/home/kelling/checkout/llvm/trunk/llvm-project/install/bin/clang-16+0x2fe86e9)
+
+#40 0x0000562233f097be clang::CompilerInstance::ExecuteAction(clang::FrontendAction&) (/home/kelling/checkout/llvm/trunk/llvm-project/install/bin/clang-16+0x2f707be)
+
+#41 0x0000562234044bb8 clang::ExecuteCompilerInvocation(clang::CompilerInstance*) (/home/kelling/checkout/llvm/trunk/llvm-project/install/bin/clang-16+0x30abbb8)
+
+#42 0x0000562231cde29d cc1_main(llvm::ArrayRef<char const*>, char const*, void*) (/home/kelling/checkout/llvm/trunk/llvm-project/install/bin/clang-16+0xd4529d)
+
+#43 0x0000562231cd8127 ExecuteCC1Tool(llvm::SmallVectorImpl<char const*>&) driver.cpp:0:0
+
+#44 0x0000562231cdaa37 clang_main(int, char**) (/home/kelling/checkout/llvm/trunk/llvm-project/install/bin/clang-16+0xd41a37)
+
+#45 0x00007faf407e5d90 __libc_start_call_main ./csu/../sysdeps/nptl/libc_start_call_main.h:58:16
+
+#46 0x00007faf407e5e40 call_init ./csu/../csu/libc-start.c:128:20
+
+#47 0x00007faf407e5e40 __libc_start_main ./csu/../csu/libc-start.c:379:5
+
+#48 0x0000562231cd72f5 _start (/home/kelling/checkout/llvm/trunk/llvm-project/install/bin/clang-16+0xd3e2f5)
+
+clang-16: error: unable to execute command: Aborted (core dumped)
+
+clang-16: error: clang frontend command failed due to signal (use -v to see invocation)
+
+clang version 16.0.0 (https://github.com/llvm/llvm-project.git b3125ad3d60531a97eea20009cc9629a87755862)
+
+Target: x86_64-unknown-linux-gnu
+
+Thread model: posix
+
+InstalledDir: /home/kelling/checkout/llvm/trunk/llvm-project/install/bin
+
+clang-16: note: diagnostic msg: 
+
+********************
+
+
+
+PLEASE ATTACH THE FOLLOWING FILES TO THE BUG REPORT:
+
+Preprocessed source(s) and associated run script(s) are located at:
+
+clang-16: note: diagnostic msg: /tmp/bufferCopy-1f8f23.cpp
+
+clang-16: note: diagnostic msg: /tmp/bufferCopy-c53a9a.cpp
+
+clang-16: note: diagnostic msg: /tmp/bufferCopy-1f8f23.sh
+
+clang-16: note: diagnostic msg: 
+
+
+
+********************
+
+make[2]: *** [example/bufferCopy/CMakeFiles/bufferCopy.dir/build.make:76: example/bufferCopy/CMakeFiles/bufferCopy.dir/src/bufferCopy.cpp.o] Error 1
+
+make[2]: Target 'example/bufferCopy/CMakeFiles/bufferCopy.dir/build' not remade because of errors.
+
+make[1]: *** [CMakeFiles/Makefile2:1886: example/bufferCopy/CMakeFiles/bufferCopy.dir/all] Error 2
